@@ -13,14 +13,15 @@
 
 ### 訂閱請求
 
-| 欄位            | 型別        | 必填 | 說明                                                         |
-| ------------- | --------- | -- | ---------------------------------------------------------- |
-| `event`       | string    | 是  | 固定為 `sub`。                                                 |
-| `topic`       | string    | 是  | `pct_rank` 、`pct_rank_asc、volume_rank_asc`或 `volume_rank`。 |
-| `symbols`     | string\[] | 否  | 排行主題只能省略、傳空陣列 `[]`，或傳 `["*"]`，不支援按單一交易對訂閱。                 |
-| `compression` | integer   | 否  | 下行壓縮標記。可選 `0` 或 `1`。                                       |
-| `id`          | string    | 否  | 客戶端請求 ID。若設定，會在推送中回顯。                                      |
-| `limit`       | integer   | 否  | **僅排行類 topic 使用**。請求的回傳行數；省略表示使用伺服器預設 `rank_top_n`。        |
+| 欄位             | 型別        | 必填 | 說明                                                                      |
+| -------------- | --------- | -- | ----------------------------------------------------------------------- |
+| `event`        | string    | 是  | 固定為 `sub`。                                                              |
+| `topic`        | string    | 是  | `pct_rank` 、`pct_rank_asc、volume_rank_asc`或 `volume_rank`。              |
+| `symbols`      | string\[] | 否  | 排行主題只能省略、傳空陣列 `[]`，或傳 `["*"]`，不支援按單一交易對訂閱。                              |
+| `compression`  | integer   | 否  | 下行壓縮標記。可選 `0` 或 `1`。                                                    |
+| `id`           | string    | 否  | 客戶端請求 ID。若設定，會在推送中回顯。                                                   |
+| `limit`        | integer   | 否  | **僅排行類 topic 使用**。請求的回傳行數；省略表示使用伺服器預設 `rank_top_n`。                     |
+| `crypto_scope` | string    | 否  | `all` 、`only`或 `exclude`。only是指只包含加密貨幣，exclude 是指排除加密貨幣，預設是 all 代表包含全部。 |
 
 #### 範例
 
