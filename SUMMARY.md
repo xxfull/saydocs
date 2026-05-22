@@ -49,7 +49,6 @@
         * [創建訂單（POST /orders）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/chuang-jian-ding-dan-post-orders.md)
         * [取消訂單（POST /orders/{id}/cancel）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/qu-xiao-ding-dan-post-ordersidcancel.md)
         * [取得訂單詳情（GET  /orders/{id}）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/qu-de-ding-dan-xiang-qing-get-privateexplorerordersid.md)
-        * [取得訂單帳本流水（GET  /orders/{id}/ledger-txs）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/qu-de-ding-dan-zhang-ben-liu-shui-get-privateexplorerordersidledgertxs.md)
         * [查詢訂單列表（POST  /orders/list）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/cha-xun-ding-dan-lie-biao-post-publicexplorerorders.md)
         * [查詢公開持倉（POST  /exchange/positions）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/cha-xun-gong-kai-chi-cang-post-exchangepositions.md)
         * [查詢公開歷史持倉（POST  /positions/history）](mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/cha-xun-gong-kai-li-shi-chi-cang-post-positionshistory.md)
