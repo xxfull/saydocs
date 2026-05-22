@@ -1,8 +1,4 @@
----
-description: list
----
-
-# 查詢訂單列表（POST /exchange/orders/list）
+# 查詢訂單列表（POST  /orders/list）
 
 ```
 POST /v1/public/exchange/orders/list
