@@ -3,7 +3,7 @@
 列出目前使用者所有非 `active` 的歷史保單。
 
 ```
-GET /v1/private/insurance/policies/history
+GET /v1/public/insurance/policies/history
 ```
 
 #### 查詢參數

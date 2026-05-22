@@ -1,7 +1,7 @@
 # 取得提現記錄（GET /wallet/withdrawals）
 
 ```
-GET /v1/public/explorer/wallet/withdrawals
+GET /v1/public/exchange/wallet/withdrawals
 ```
 
 #### 查詢參數

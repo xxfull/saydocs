@@ -1,7 +1,7 @@
-# 取得最新價格（GET /public/explorer/prices）
+# 取得最新價格（GET /public/exchange/prices）
 
 ```
-GET /v1/public/explorer/prices
+GET /v1/public/exchange/prices
 ```
 
 無需查詢參數。

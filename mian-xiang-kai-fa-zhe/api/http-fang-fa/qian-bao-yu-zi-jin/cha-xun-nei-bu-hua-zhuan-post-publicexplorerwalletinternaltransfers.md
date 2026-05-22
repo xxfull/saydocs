@@ -1,7 +1,7 @@
-# 查詢內部劃轉（POST /public/explorer/wallet/internal-transfers）
+# 查詢內部劃轉（POST /wallet/internal-transfers）
 
 ```
-POST /v1/public/explorer/wallet/internal-transfers
+POST /v1/public/exchange/wallet/internal-transfers
 ```
 
 #### 請求體

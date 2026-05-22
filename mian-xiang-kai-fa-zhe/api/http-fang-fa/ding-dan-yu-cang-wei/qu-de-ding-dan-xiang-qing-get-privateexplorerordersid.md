@@ -1,7 +1,7 @@
-# 取得訂單詳情（GET /private/explorer/orders/{id}）
+# 取得訂單詳情（GET /exchange/orders/{id}）
 
 ```
-GET /v1/private/explorer/orders/{id}
+GET /v1/private/exchange/orders/{id}
 ```
 
 #### 路徑參數

@@ -1,7 +1,7 @@
-# 查詢帳戶資訊（POST /public/explorer/account）
+# 查詢帳戶資訊（POST /exchange/account）
 
 ```
-POST /v1/public/explorer/account
+POST /v1/public/exchange/account
 ```
 
 #### 請求體

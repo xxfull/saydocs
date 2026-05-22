@@ -1,7 +1,7 @@
-# 取得標記價格（GET /public/explorer/mark-price）
+# 取得標記價格（GET /public/exchange/mark-price）
 
 ```
-GET /v1/public/explorer/mark-price
+GET /v1/public/exchange/mark-price
 ```
 
 #### 查詢參數

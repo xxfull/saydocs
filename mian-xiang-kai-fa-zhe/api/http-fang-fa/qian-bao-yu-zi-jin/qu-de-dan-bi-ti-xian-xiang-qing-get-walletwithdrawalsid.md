@@ -1,7 +1,7 @@
 # 取得單筆提現詳情（GET /wallet/withdrawals/{id}）
 
 ```
-GET /v1/public/explorer/wallet/withdrawals/{id}
+GET /v1/public/exchange/wallet/withdrawals/{id}
 ```
 
 #### 路徑參數

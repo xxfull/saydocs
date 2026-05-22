@@ -5,7 +5,7 @@ description: 查詢某地址的充值記錄。
 # 取得充值記錄（GET /wallet/deposits）
 
 ```
-GET /v1/public/explorer/wallet/deposits
+GET /v1/public/exchange/wallet/deposits
 ```
 
 #### 查詢參數

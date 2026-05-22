@@ -1,7 +1,7 @@
 # 取得內部劃轉記錄（GET /wallet/internal-transfers）
 
 ```
-GET /v1/public/explorer/wallet/internal-transfers
+GET /v1/public/exchange/wallet/internal-transfers
 ```
 
 #### 查詢參數

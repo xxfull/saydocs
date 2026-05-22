@@ -1,7 +1,7 @@
-# 取得資金費率（GET /public/explorer/funding-rate）
+# 取得資金費率（GET /public/exchange/funding-rate）
 
 ```
-GET /v1/public/explorer/funding-rate
+GET /v1/public/exchange/funding-rate
 ```
 
 #### 查詢參數

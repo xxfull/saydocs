@@ -1,7 +1,7 @@
-# 取得市場總覽（GET /public/explorer/overview）
+# 取得市場總覽（GET /public/exchange/overview）
 
 ```
-GET /v1/public/explorer/overview
+GET /v1/public/exchange/overview
 ```
 
 無需查詢參數。

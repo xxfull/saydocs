@@ -1,7 +1,7 @@
-# 取得訂單帳本流水（GET /private/explorer/orders/{id}/ledger-txs）
+# 取得訂單帳本流水（GET /exchange/orders/{id}/ledger-txs）
 
 ```
-GET /v1/private/explorer/orders/{id}/ledger-txs
+GET /v1/private/exchange/orders/{id}/ledger-txs
 ```
 
 #### 路徑參數

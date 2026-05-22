@@ -1,11 +1,11 @@
-# 取得交易對列表（GET /public/explorer/symbols）
+# 取得交易對列表（GET /public/exchange/symbols）
 
 返回 Explorer 中可見的交易對列表。
 
 支援按關鍵字做模糊過濾。
 
 ```
-GET /v1/public/explorer/symbols
+GET /v1/public/exchange/symbols
 ```
 
 ### 查詢參數

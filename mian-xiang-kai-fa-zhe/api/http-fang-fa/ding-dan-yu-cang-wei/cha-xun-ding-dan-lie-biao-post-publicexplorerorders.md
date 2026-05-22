@@ -1,7 +1,11 @@
-# 查詢訂單列表（POST /public/explorer/orders）
+---
+description: list
+---
+
+# 查詢訂單列表（POST /exchange/orders/list）
 
 ```
-POST /v1/public/explorer/orders
+POST /v1/public/exchange/orders/list
 ```
 
 #### 請求體

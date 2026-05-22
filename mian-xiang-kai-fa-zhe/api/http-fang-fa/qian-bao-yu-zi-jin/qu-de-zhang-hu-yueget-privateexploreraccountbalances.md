@@ -1,7 +1,7 @@
-# 取得帳戶餘額（GET /private/explorer/account/balances）
+# 取得帳戶餘額（GET /exchange/account/balances）
 
 ```
-GET /v1/private/explorer/account/balances
+GET /v1/private/exchange/account/balances
 ```
 
 無需查詢參數。
