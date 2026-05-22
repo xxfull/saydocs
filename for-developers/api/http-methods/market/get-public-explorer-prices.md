@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/qu-de-zui-xin-jia-ge-get-publicexplorerprices
 ---
 
-# GET public/explorer/prices
+# GET public/exchange/prices
 
 ```
-GET /v1/public/explorer/prices
+GET /v1/public/exchange/prices
 ```
 
 No query parameters required.

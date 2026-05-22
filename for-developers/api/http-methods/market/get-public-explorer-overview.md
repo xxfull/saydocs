@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/qu-de-shi-chang-zong-lan-get-publicexploreroverview
 ---
 
-# GET public/explorer/overview
+# GET public/exchange/overview
 
 ```
-GET /v1/public/explorer/overview
+GET /v1/public/exchange/overview
 ```
 
 No query parameters required.

@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/qu-de-zhang-hu-yueget-privateexploreraccountbalances
 ---
 
-# GET private/explorer/account/balances
+# GET  account/balances
 
 ```
-GET /v1/private/explorer/account/balances
+GET /v1/private/exchange/account/balances
 ```
 
 No query parameters required.

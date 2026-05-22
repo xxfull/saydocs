@@ -9,7 +9,7 @@ metaLinks:
 # GET wallet/internal-transfers
 
 ```
-GET /v1/public/explorer/wallet/internal-transfers
+GET /v1/public/exchange/wallet/internal-transfers
 ```
 
 #### Query Parameters

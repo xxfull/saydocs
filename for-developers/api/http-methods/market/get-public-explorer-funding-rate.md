@@ -5,10 +5,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/qu-de-zi-jin-feilget-publicexplorerfundingrate
 ---
 
-# GET public/explorer/funding-rate
+# GET public/exchange/funding-rate
 
 ```
-GET /v1/public/explorer/funding-rate
+GET /v1/public/exchange/funding-rate
 ```
 
 #### Query Parameters

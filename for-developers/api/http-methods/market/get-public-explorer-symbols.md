@@ -5,12 +5,12 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/qu-de-jiao-yi-dui-lie-biao-get-publicexplorersymbols
 ---
 
-# GET public/explorer/symbols
+# GET public/exchange/symbols
 
 Returns the list of trading pairs visible in the Explorer, with optional fuzzy filtering.
 
 ```
-GET /v1/public/explorer/symbols
+GET /v1/public/exchange/symbols
 ```
 
 ### Query Parameters

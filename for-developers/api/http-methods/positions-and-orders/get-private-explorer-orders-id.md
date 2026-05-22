@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/qu-de-ding-dan-xiang-qing-get-privateexplorerordersid
 ---
 
-# GET private/explorer/orders/{id}
+# GET orders/{id}
 
 ```
-GET /v1/private/explorer/orders/{id}
+GET /v1/private/exchange/orders/{id}
 ```
 
 #### Path Parameters

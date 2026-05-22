@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/qu-de-biao-ji-jia-ge-get-publicexplorermarkprice
 ---
 
-# GET public/explorer/mark-price
+# GET public/exchange/mark-price
 
 ```
-GET /v1/public/explorer/mark-price
+GET /v1/public/exchange/mark-price
 ```
 
 #### Query Parameters

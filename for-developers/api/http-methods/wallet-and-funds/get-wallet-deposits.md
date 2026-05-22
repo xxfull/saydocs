@@ -9,7 +9,7 @@ metaLinks:
 # GET wallet/deposits
 
 ```
-GET /v1/public/explorer/wallet/deposits
+GET /v1/public/exchange/wallet/deposits
 ```
 
 #### Query Parameters

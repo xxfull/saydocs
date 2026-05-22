@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/cha-xun-nei-bu-hua-zhuan-post-publicexplorerwalletinternaltransfers
 ---
 
-# POST public/explorer/wallet/internal-transfers
+# POST wallet/internal-transfers
 
 ```
-POST /v1/public/explorer/wallet/internal-transfers
+POST /v1/public/exchange/wallet/internal-transfers
 ```
 
 #### Request Body

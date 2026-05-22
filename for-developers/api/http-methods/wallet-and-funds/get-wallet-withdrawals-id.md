@@ -9,7 +9,7 @@ metaLinks:
 # GET wallet/withdrawals/{id}
 
 ```
-GET /v1/public/explorer/wallet/withdrawals/{id}
+GET /v1/public/exchange/wallet/withdrawals/{id}
 ```
 
 #### Path Parameters

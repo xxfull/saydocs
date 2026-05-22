@@ -10,7 +10,7 @@ metaLinks:
 List non-active (historical) policies for the current user.
 
 ```
-GET /v1/private/insurance/policies/history
+GET /v1/public/insurance/policies/history
 ```
 
 #### Query Parameters

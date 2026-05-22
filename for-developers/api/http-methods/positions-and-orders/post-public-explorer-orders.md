@@ -1,15 +1,15 @@
 ---
-description: Public order list by address(es).
+description: listPublic order list by address(es).
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/cha-xun-ding-dan-lie-biao-post-publicexplorerorders
 ---
 
-# POST public/explorer/orders
+# POST orders/list
 
 ```
-POST /v1/public/explorer/orders
+POST /v1/public/exchange/orders/list
 ```
 
 #### Request Body

@@ -9,7 +9,7 @@ metaLinks:
 # GET wallet/withdrawals
 
 ```
-GET /v1/public/explorer/wallet/withdrawals
+GET /v1/public/exchange/wallet/withdrawals
 ```
 
 #### Query Parameters
