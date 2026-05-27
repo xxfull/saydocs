@@ -5,6 +5,7 @@
   * [Roadmap](about-sayfi/roadmap.md)
   * [Product update](about-sayfi/product-update.md)
 * [QuickStart](quickstart.md)
+* [Strategy Hub](strategy-hub.md)
 * [AI trader](ai-trader/README.md)
   * [Agent profile](ai-trader/agent-profile.md)
   * [Sub-account wallets](ai-trader/sub-account-wallets.md)
