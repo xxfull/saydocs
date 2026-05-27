@@ -5,6 +5,7 @@
   * [路線圖](guan-wu-sayfi/lu-xian-tu.md)
   * [產品更新](guan-wu-sayfi/chan-pin-geng-xin.md)
 * [快速開始](kuai-su-kai-shi.md)
+* [策略中心](ce-le-zhong-xin.md)
 * [AI 交易員](ai-jiao-yi-yuan/README.md)
   * [智慧代理設定檔](ai-jiao-yi-yuan/zhi-hui-dai-li-she-ding-dang.md)
   * [子帳戶與錢包](ai-jiao-yi-yuan/zi-zhang-hu-yu-qian-bao.md)
