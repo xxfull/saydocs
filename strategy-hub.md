@@ -4,7 +4,7 @@ hidden: true
 
 # Strategy Hub
 
-Real-time strategy discovery and execution. Combining signal intelligence from top traders with a multi-factor scoring model—integrating real-time news, on-chain data, macro events, and technical indicators—to generate top-ranked, actionable trading strategies.
+Real-time strategy discovery and execution. Combining signal intelligence from top traders with a multi-factor scoring model-integrating real-time news, on-chain data, macro events, and technical indicators-to generate top-ranked, actionable trading strategies.
 
 ### Core philosophy
 
@@ -22,7 +22,7 @@ Real-time parsing of financial news, regulatory announcements, geopolitical deve
 {% step %}
 #### Layer 2 - Technical pattern recognition
 
-Automated chart structure detection across multiple timeframes. Signals include breakout confirmations, volume divergence, candlestick formations, and key S/R level interactions — each assigned a pattern-strength confidence rating.
+Automated chart structure detection across multiple timeframes. Signals include breakout confirmations, volume divergence, candlestick formations, and key S/R level interactions - each assigned a pattern-strength confidence rating.
 {% endstep %}
 
 {% step %}
@@ -42,7 +42,7 @@ Aggregated signal contributions from verified top-traders within the YesFi commu
 
 #### Flash options
 
-Predict the price direction of an asset within a short settlement window. At expiry, the outcome is settled at a pre-locked fixed multiplier. No take-profit or stop-loss configuration is required — simply confirm direction (bullish / bearish) and settlement duration before placing the order. Both the upside and downside are fully defined at entry.
+Predict the price direction of an asset within a short settlement window. At expiry, the outcome is settled at a pre-locked fixed multiplier. No take-profit or stop-loss configuration is required - simply confirm direction and settlement duration before placing the order. Both the upside and downside are fully defined at entry.
 
 **Settlement windows**: ≤10s / ≤15s / ≤30s / ≤1min / ≥1min
 
@@ -54,7 +54,7 @@ Predict the price direction of an asset within a short settlement window. At exp
 
 #### Contract signals
 
-Directional trading strategies on perpetual contracts. Each signal includes a complete set of trade parameters — amount, leverage, take-profit, and stop-loss (this is a real-time trading signal and does not support limit orders). Traders can apply parameters with a single click or adjust them manually before execution. It is best suited for traders seeking larger profit windows and willing to hold positions for minutes to hours.
+Directional trading strategies on perpetual contracts. Each signal includes a complete set of trade parameters: amount, leverage, take-profit, and stop-loss (this is a real-time trading signal and does not support limit orders). Traders can apply parameters with a single click or adjust them manually before execution. It is best suited for traders seeking larger profit windows and willing to hold positions for minutes to hours.
 
 **Best for**:
 
@@ -72,19 +72,19 @@ Traders with position management experience
 
 **Watch out for**:&#x20;
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Leverage can amplify losses – it is recommended to strictly implement stop-loss orders.
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Slippage can affect entry price in volatile markets
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Avoid heavy allocation to a single signal at high leverage
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Monitor funding rate impact on holding cost
 {% endhint %}
 
