@@ -90,7 +90,7 @@ Monitor funding rate impact on holding cost
 
 **Execution flow**: <mark style="background-color:$primary;">Read signal</mark> -> <mark style="background-color:$primary;">Verify params</mark> -> <mark style="background-color:$primary;">Place order</mark> -> <mark style="background-color:$primary;">Monitor</mark>
 
-### Feed modes
+### Feeding modes
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Latest</strong></td><td>Sorted chronologically. All strategies scoring above the minimum threshold are sorted by publication date. Best suited for traders looking to capture the latest signals before participation increases.</td></tr><tr><td><strong>Trending</strong></td><td>Ranked by speed score: Overall signal strength × entry rate × sharing activity. Showcasing the strategies with the strongest community growth momentum.</td></tr><tr><td><strong>Following</strong></td><td>The strategies posted or endorsed by traders followed by the user. Personalized recommendations, with weighting based on the historical accuracy rate of the followed traders.</td></tr><tr><td><strong>Bookmarked</strong></td><td>User-defined storage strategy. Persistent storage across sessions. Support for commenting and customizing post-transaction logs.</td></tr></tbody></table>
 
