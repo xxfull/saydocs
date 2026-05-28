@@ -42,6 +42,8 @@ Aggregated signal contributions from verified top-traders within the YesFi commu
 
 #### Flash options
 
+Flash Options strategies come from our YesFi AI community contributors and professional analyst team. Every strategy card goes through rigorous risk assessment and return calculations to give you a clear risk-reward reference.YesFi AI system analyzes market data, historical performance, and community feedback in real time to help you identify the most promising trading opportunities. Suggested stop-loss levels and insurance recommendations in each strategy are designed to help you manage risk more effectively.
+
 Predict the price direction of an asset within a short settlement window. At expiry, the outcome is settled at a pre-locked fixed multiplier. No take-profit or stop-loss configuration is required - simply confirm direction and settlement duration before placing the order. Both the upside and downside are fully defined at entry.
 
 **Settlement windows**: ≤10s / ≤15s / ≤30s / ≤1min / ≥1min
@@ -52,7 +54,15 @@ Predict the price direction of an asset within a short settlement window. At exp
 
 **Execution flow**: <mark style="background-color:$primary;">Select strategy</mark> -> <mark style="background-color:$primary;">Enter amount</mark> -> <mark style="background-color:$primary;">Place order</mark> -> <mark style="background-color:$primary;">Auto-settle</mark>
 
+> o1NoteNotete: All strategies are for reference only and do not constitute investment advice. Markets carry risk—invest with caution.
+
 #### Contract signals
+
+Contract signals come from professional traders, analysts, and quantitative teams in our AI community. Each signal includes detailed strategy logic, technical indicator analysis, and risk disclosures to help you fully understand the context behind every trading opportunity.
+
+Our AI system rates all signals in real time and tracks historical performance—you can review each source's accuracy and profit-and-loss record. Recommended leverage, stop-loss levels, and other parameters in signals are for reference only; adjust them based on your own risk tolerance.
+
+> Note: All signals are for reference only and do not constitute investment advice. Contract trading carries high risk and may result in total loss of principal. Please fully understand the product before making decisions.
 
 Directional trading strategies on perpetual contracts. Each signal includes a complete set of trade parameters: amount, leverage, take-profit, and stop-loss (this is a real-time trading signal and does not support limit orders). Traders can apply parameters with a single click or adjust them manually before execution. It is best suited for traders seeking larger profit windows and willing to hold positions for minutes to hours.
 
