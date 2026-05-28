@@ -54,17 +54,17 @@ Predict the price direction of an asset within a short settlement window. At exp
 
 **Execution flow**: <mark style="background-color:$primary;">Select strategy</mark> -> <mark style="background-color:$primary;">Enter amount</mark> -> <mark style="background-color:$primary;">Place order</mark> -> <mark style="background-color:$primary;">Auto-settle</mark>
 
-> o1NoteNotete: All strategies are for reference only and do not constitute investment advice. Markets carry risk—invest with caution.
+> Note: All strategies are for reference only and do not constitute investment advice. Markets carry risk—invest with caution.
 
 #### Contract signals
 
-Contract signals come from professional traders, analysts, and quantitative teams in our AI community. Each signal includes detailed strategy logic, technical indicator analysis, and risk disclosures to help you fully understand the context behind every trading opportunity.
+Contract signals come from professional traders, analysts, and quantitative teams in YesFi AI community. Each signal includes detailed strategy logic, technical indicator analysis, and risk disclosures to help you fully understand the context behind every trading opportunity.
 
-Our AI system rates all signals in real time and tracks historical performance—you can review each source's accuracy and profit-and-loss record. Recommended leverage, stop-loss levels, and other parameters in signals are for reference only; adjust them based on your own risk tolerance.
-
-> Note: All signals are for reference only and do not constitute investment advice. Contract trading carries high risk and may result in total loss of principal. Please fully understand the product before making decisions.
+YesFi AI system rates all signals in real time and tracks historical performance—you can review each source's accuracy and profit-and-loss record. Recommended leverage, stop-loss levels, and other parameters in signals are for reference only; adjust them based on your own risk tolerance.
 
 Directional trading strategies on perpetual contracts. Each signal includes a complete set of trade parameters: amount, leverage, take-profit, and stop-loss (this is a real-time trading signal and does not support limit orders). Traders can apply parameters with a single click or adjust them manually before execution. It is best suited for traders seeking larger profit windows and willing to hold positions for minutes to hours.
+
+> Note: All signals are for reference only and do not constitute investment advice. Contract trading carries high risk and may result in total loss of principal. Please fully understand the product before making decisions.
 
 **Best for**:
 
