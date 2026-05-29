@@ -6,9 +6,15 @@ hidden: true
 
 Real-time strategy discovery and execution. Combining signal intelligence from top traders with a multi-factor scoring model-integrating real-time news, on-chain data, macro events, and technical indicators-to generate top-ranked, actionable trading strategies.
 
+***
+
 ### Core concept
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>Insights from top traders</h4></td><td>Strategies aren't generated mechanically - they reflect the reasoning patterns, risk preferences, and timing instincts of proven high-performance traders, encoded as reusable signal templates.</td><td><a href="https://images.unsplash.com/photo-1629339942248-45d4b10c8c2f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx0cmFkZXJ8ZW58MHx8fHwxNzc5ODY0MDkyfDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1629339942248-45d4b10c8c2f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx0cmFkZXJ8ZW58MHx8fHwxNzc5ODY0MDkyfDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4>Continuous signal uptake</h4></td><td>The system monitors live news feeds, social sentiment, on-chain flows, and technical pattern formation simultaneously - re-scoring strategies as new information arrives.</td><td><a href="https://images.unsplash.com/photo-1584359983106-ef9366f27454?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxsaXZlJTIwbmV3c3xlbnwwfHx8fDE3Nzk4NjQxNDV8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1584359983106-ef9366f27454?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxsaXZlJTIwbmV3c3xlbnwwfHx8fDE3Nzk4NjQxNDV8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4>Multi-factor scoring</h4></td><td>Each strategy receives a composite score computed across four independent signal layers. No single factor dominates - confidence requires corroboration across dimensions.</td><td><a href="https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHwlRTclQUUlOTclRTYlQjMlOTV8ZW58MHx8fHwxNzc5OTYyNTI3fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1708011271935-3e109df56fe0?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHwlRTclQUUlOTclRTYlQjMlOTV8ZW58MHx8fHwxNzc5OTYyNTI3fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4>Two execution modes</h4></td><td><strong>Flash Options -</strong> sub-minute settlement with fixed multiplier payouts.<br><strong>Contract Signals -</strong> leveraged perpetuals with defined entry, target, and stop-loss.</td><td><a href="https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHwlRTQlQkElQTQlRTYlOTglOTN8ZW58MHx8fHwxNzc5ODY0Mjk4fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHwlRTQlQkElQTQlRTYlOTglOTN8ZW58MHx8fHwxNzc5ODY0Mjk4fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+
+
+
+***
 
 ### Signal layers
 
@@ -37,6 +43,8 @@ Wallet flow analysis, exchange net flows, large-address accumulation patterns, o
 Aggregated signal contributions from verified top-traders within the YesFi community. Signals are weighted by each contributor's historical accuracy. Community consensus acts as a Bayesian prior that adjusts the composite score.
 {% endstep %}
 {% endstepper %}
+
+***
 
 ### Strategy types
 
@@ -85,6 +93,8 @@ Directional trading strategies on perpetual contracts. Each signal includes a co
 <i class="fa-triangle-exclamation" style="color:$danger;">:triangle-exclamation:</i> Monitor funding rate impact on holding cost
 
 **Execution flow**: <mark style="background-color:$primary;">Read signal</mark> -> <mark style="background-color:$primary;">Verify params</mark> -> <mark style="background-color:$primary;">Place order</mark> -> <mark style="background-color:$primary;">Monitor</mark>
+
+***
 
 ### Feeding modes
 
