@@ -5,7 +5,7 @@ hidden: true
 
 # Copy of QuickStart
 
-> **One Yes, Trade All** — See [What is SayFi?](about-sayfi/what-is-sayfi.md).
+> **One Yes, Trade All** — See [What is YesFi](readme/what-is-yesfi.md)?.
 
 | What you will encounter in YesFi | In one line                                                                                                                                                              |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -19,7 +19,7 @@ hidden: true
 
 #### 1. Start with the product overview
 
-Spend a few minutes on [**What is SayFi?**](about-sayfi/what-is-sayfi.md).
+Spend a few minutes on [What is YesFi](readme/what-is-yesfi.md).
 
 Use it to confirm the product model fits your expectations.
 
@@ -33,37 +33,23 @@ If you care about **Zero Loss Insurance** or **Double Profit Insurance**, rely o
 * **Deposit** _(optional)_:
   * Supported chains: `Ethereum`, `Base`, `BSC`, `Arbitrum`
   * Supported token: `USDC`
+* **Transfer**_(optional)_: A user can have multiple sub-accounts, with funds segregated between sub-accounts and transfers allowed between them.See [**Sub-account wallets**](ai-trader/sub-account-wallets.md) for details.
 
-#### 3. Create your first AI Trader
+#### 3. Start with natural-language prompts
 
-In the app, complete the **recruit your AI Trader** flow.
-
-Set the **name** and **avatar**.
-
-Choose attribute tags such as **markets**, **trading frequency**, **entry style**, **risk preference**, and **stop-loss discipline**. Some fields support **+ Custom**.
-
-See [**Agent profile**](ai-trader/agent-profile.md) for the full setup flow.
-
-#### 4. Understand the account model
-
-Each AI Trader typically maps to **one independent sub-account**.
-
-Margin, positions, and risk stay isolated.
-
-Switching Traders means switching to a different pool of funds and conversation context.
-
-See [**Sub-account wallets**](ai-trader/sub-account-wallets.md) for details.
-
-#### 5. Start with natural-language prompts
-
-In chat, you can check markets, ask about rules, and place **market**, **limit**, **take-profit**, or **stop-loss** instructions.
+In AI chat, you can talk about markets, ask rules, and place **market**, **limit**, **take-profit**, or **stop-loss** instructions.
 
 You can copy or adapt the examples in [**Prompt reference**](ai-trader/prompt-reference.md).
 
 * **Important**: Always confirm actions in the interface before execution.
 * Never send your **private key** or **mnemonic phrase** to anyone.
 
-#### 6. Open the deeper docs when you need them
+#### 4. Start with strategy or trading signals
+
+* **Flash options**: Select a strategy card, confirm your direction and amount, and place the order — the outcome settles automatically at a pre-locked multiplier when the window closes. No stop-loss setup or liquidation risk; your maximum loss is limited to the principal you put in.
+* **Trading signals**:Browse signals rated by the YesFi AI system, pick one that fits your risk tolerance, and apply the full parameter set — direction, leverage, TP, and stop-loss — with a single click or adjust manually before placing the order.&#x20;
+
+#### 5. Open the deeper docs when you need them
 
 These topics go beyond a quick intro, but every real trader should review them:
 
@@ -85,7 +71,7 @@ These topics go beyond a quick intro, but every real trader should review them:
 
 | Page                                              | Best for                                       |
 | ------------------------------------------------- | ---------------------------------------------- |
-| [What is SayFi?](about-sayfi/what-is-sayfi.md)    | Understanding the product model and its limits |
+| [What is YesFi?](readme/what-is-yesfi.md)         | Understanding the product model and its limits |
 | [Agent profile](ai-trader/agent-profile.md)       | Setting names, avatars, and attribute tags     |
 | [Prompt reference](ai-trader/prompt-reference.md) | Finding example prompts for chat-based trading |
 | [API](for-developers/api/)                        | Integrating with the platform as a developer   |
