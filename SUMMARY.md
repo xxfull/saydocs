@@ -2,6 +2,7 @@
 
 * [關於 SayFi](README.md)
   * [什麼是 SayFi？](guan-wu-sayfi/shen-mo-shi-sayfi.md)
+  * [什麼是 YesFi？](readme/shen-mo-shi-yesfi.md)
   * [路線圖](guan-wu-sayfi/lu-xian-tu.md)
   * [產品更新](guan-wu-sayfi/chan-pin-geng-xin.md)
 * [快速開始](kuai-su-kai-shi.md)
