@@ -17,7 +17,7 @@ In practice, the signature `EIP712Domain` includes at least these fields:
 
 | Field               | Description                                                                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| `name`              | Product domain string. It must match the on-chain and frontend implementation, such as `SayFiExchange`.                                     |
+| `name`              | Product domain string. It must match the on-chain and frontend implementation, such as `YesFiExchange`.                                     |
 | `version`           | Domain version, such as `1`                                                                                                                 |
 | `chainId`           | Must be in the gateway's **allowed chain ID list** for the current environment. If not sent explicitly, the gateway uses its default chain. |
 | `verifyingContract` | Set by deployment config. It can be a zero address placeholder or a real contract address.                                                  |

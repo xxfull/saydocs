@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains how the SayFi API Gateway identifies users and enforces
+  This page explains how the YesFi API Gateway identifies users and enforces
   address-based access control without usernames or passwords.
 metaLinks:
   alternates:
@@ -23,7 +23,7 @@ If you have not signed EIP-712 requests with a wallet before, read [**Signing**]
 
 #### No traditional account system
 
-SayFi does **not** use usernames or passwords. The user identity is an **EVM-compatible address**. Sensitive actions are authorized with an **EIP-712 structured signature**. After verification, the gateway treats the request as coming from that address.
+YesFi does **not** use usernames or passwords. The user identity is an **EVM-compatible address**. Sensitive actions are authorized with an **EIP-712 structured signature**. After verification, the gateway treats the request as coming from that address.
 
 #### Private and public routes
 
