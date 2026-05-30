@@ -1,6 +1,6 @@
 # Table of contents
 
-* [關於 SayFi](README.md)
+* [關於 YesFi](README.md)
   * [什麼是 SayFi？](guan-wu-sayfi/shen-mo-shi-sayfi.md)
   * [什麼是 YesFi？](readme/shen-mo-shi-yesfi.md)
   * [路線圖](guan-wu-sayfi/lu-xian-tu.md)
@@ -9,11 +9,11 @@
 * [策略中心](ce-le-zhong-xin.md)
 * [AI 交易員](ai-jiao-yi-yuan/README.md)
   * [智慧代理設定檔](ai-jiao-yi-yuan/zhi-hui-dai-li-she-ding-dang.md)
-  * [子帳戶與錢包](ai-jiao-yi-yuan/zi-zhang-hu-yu-qian-bao.md)
   * [對話指令參考](ai-jiao-yi-yuan/dui-hua-zhi-ling-can-kao.md)
 * [交易](jiao-yi/README.md)
   * [CFD 概覽](jiao-yi/cfd-gai-lan.md)
   * [定價](jiao-yi/ding-jia.md)
+  * [子帳戶與錢包](jiao-yi/zi-zhang-hu-yu-qian-bao.md)
   * [訂單](jiao-yi/ding-dan.md)
   * [倉位與保證金](jiao-yi/cang-wei-yu-bao-zheng-jin.md)
   * [資金費](jiao-yi/zi-jin-fei.md)
