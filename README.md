@@ -1,15 +1,13 @@
 ---
 icon: window
-cover: .gitbook/assets/explorer.png
+cover: .gitbook/assets/yesfichain.png
 coverY: 0
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/NwNZSS6OvxTqSlizhzej/
+metaLinks: {}
 ---
 
-# Sayfi Chain Explorer
+# YesFi Chain Explorer
 
-Sayfi Chain Explorer is the **official block explorer** for Sayfi Chain. It is aimed at developers and end users who need **live on-chain lookup and visualization**—transactions, addresses, and blocks—without calling node RPC directly.
+YesFi Chain Explorer is the **official block explorer** for YesFi Chain. It is aimed at developers and end users who need **live on-chain lookup and visualization**—transactions, addresses, and blocks—without calling node RPC directly.
 
 **Explorer URL:** [https://explorer.sayfi.com/](https://explorer.sayfi.com/)
 
@@ -157,7 +155,7 @@ Total Transactions:  17
 
 #### 3. Development and debugging
 
-When integrating with Sayfi, use Explorer to verify:
+When integrating with YesFi, use Explorer to verify:
 
 * Contract interactions produced the expected on-chain records
 * **Payload** shape matches expectations
@@ -208,4 +206,4 @@ The address may have **no on-chain activity yet**. The explorer only shows addre
 
 **Q: What is the Payload field?**
 
-**Payload** is structured business data (JSON) attached to the transaction and written by the upper-layer protocol (e.g. Sayfi)—asset type, amount, and related fields.
+**Payload** is structured business data (JSON) attached to the transaction and written by the upper-layer protocol (e.g. YesFi)—asset type, amount, and related fields.

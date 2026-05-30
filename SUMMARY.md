@@ -2,5 +2,5 @@
 
 ## Basics
 
-* [Sayfi Chain Explorer](README.md)
+* [YesFi Chain Explorer](README.md)
 * [Integrations](basics/integrations.md)
