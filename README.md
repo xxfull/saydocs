@@ -1,12 +1,12 @@
 ---
 icon: window
-cover: .gitbook/assets/explorer.png
+cover: .gitbook/assets/yesfichain.png
 coverY: 0
 ---
 
-# Sayfi 鏈上瀏覽器
+# YesFi 鏈上瀏覽器
 
-Sayfi 鏈上瀏覽器是 Sayfi Chain 的**官方區塊瀏覽器**。它面向開發者與終端使用者，適合在**不直接呼叫節點 RPC** 的情況下，即時查詢與檢視鏈上交易、地址與區塊。
+YesFi 鏈上瀏覽器是 YesFi Chain 的**官方區塊瀏覽器**。它面向開發者與終端使用者，適合在**不直接呼叫節點 RPC** 的情況下，即時查詢與檢視鏈上交易、地址與區塊。
 
 **瀏覽器位址：** [https://explorer.sayfi.com/](https://explorer.sayfi.com/)
 
@@ -154,7 +154,7 @@ Total Transactions:  17
 
 #### 3. 开发与调试
 
-在接入 Sayfi 時，你可以使用瀏覽器確認以下內容：
+在接入 YesFi 時，你可以使用瀏覽器確認以下內容：
 
 * 合約互動是否產生預期的鏈上記錄
 * **Payload** 結構是否符合預期
@@ -205,4 +205,4 @@ Total Transactions:  17
 
 **問：Payload 欄位是什麼？**
 
-**Payload** 是附加在交易中的結構化業務資料，格式通常為 JSON，由上層協議寫入。比如 Sayfi 會在其中記錄資產類型、數量與相關欄位。
+**Payload** 是附加在交易中的結構化業務資料，格式通常為 JSON，由上層協議寫入。比如 YesFi 會在其中記錄資產類型、數量與相關欄位。
