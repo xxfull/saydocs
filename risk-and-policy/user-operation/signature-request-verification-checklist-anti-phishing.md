@@ -7,7 +7,7 @@ metaLinks:
 
 # Signature Request Verification Checklist (Anti-Phishing)
 
-Most sensitive wallet actions on SayFi rely on **EIP-712 or on-chain signatures**. Attackers often imitate sites or wallet popups to trick users into signing token approvals, malicious contract calls, or altered API requests. Check each item before you sign.
+Most sensitive wallet actions on YesFi rely on **EIP-712 or on-chain signatures**. Attackers often imitate sites or wallet popups to trick users into signing token approvals, malicious contract calls, or altered API requests. Check each item before you sign.
 
 ***
 
@@ -28,7 +28,7 @@ Most sensitive wallet actions on SayFi rely on **EIP-712 or on-chain signatures*
 4. **Human-readable details**\
    If the popup only shows raw hex and you cannot understand the action, reject it first. Then retry with the official client or an updated wallet.
 5. **Social engineering pressure**\
-   There is no official SayFi flow that says "sign now or your account will be frozen" or "pay a deposit to unlock funds." Close the message immediately.
+   There is no official YesFi flow that says "sign now or your account will be frozen" or "pay a deposit to unlock funds." Close the message immediately.
 6. **Replay risk and time window**\
    The server can treat the same signature and timestamp pair as one-time use. Do not share screenshots or raw signatures with anyone while the request is still valid.
 

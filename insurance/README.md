@@ -6,7 +6,7 @@ metaLinks:
 
 # Insurance
 
-This section explains how insurance works on SayFi.
+This section explains how insurance works on YesFi.
 
 Use it to understand product types, pricing, policy states, trigger logic, and refund behavior before you buy, renew, or cancel a policy.
 

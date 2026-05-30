@@ -1,11 +1,12 @@
 ---
-description: A fast introduction for first-time users, traders, and developers.
+description: sayfiA fast introduction for first-time users, traders, and developers.
+hidden: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/kuai-su-kai-shi
 ---
 
-# QuickStart
+# QuickStart（sayfi）
 
 > Brand line: **Say it, Trade it, Shield it.** — See [What is SayFi?](about-sayfi/what-is-sayfi.md).
 
@@ -54,7 +55,7 @@ Margin, positions, and risk stay isolated.
 
 Switching Traders means switching to a different pool of funds and conversation context.
 
-See [**Sub-account wallets**](ai-trader/sub-account-wallets.md) for details.
+See [**Sub-account wallets**](trading/sub-account-wallets.md) for details.
 
 #### 5. Start with natural-language prompts
 

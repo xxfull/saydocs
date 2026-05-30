@@ -9,7 +9,7 @@ metaLinks:
 
 ### Core principle
 
-**Whoever controls the private key or mnemonic controls the assets at that address.** SayFi never asks for your private key or mnemonic. Treat any request to "verify your account," "unfreeze funds," or "claim compensation" as a scam.
+**Whoever controls the private key or mnemonic controls the assets at that address.** YesFi never asks for your private key or mnemonic. Treat any request to "verify your account," "unfreeze funds," or "claim compensation" as a scam.
 
 ***
 
@@ -26,8 +26,8 @@ metaLinks:
 
 ***
 
-### What SayFi can and cannot do
+### What YesFi can and cannot do
 
 * The AI trading assistant **does not** and **cannot** export or store your private key.
-* There is **no** recovery flow where SayFi restores a lost mnemonic.
+* There is **no** recovery flow where YesFi restores a lost mnemonic.
 * If you lose it without a backup, recovery is usually **not possible**.

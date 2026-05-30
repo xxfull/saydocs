@@ -9,7 +9,7 @@ metaLinks:
 
 A **position** is your contract exposure on one market and one direction. It carries its own margin, average entry price, size, unrealized PnL, and liquidation distance.
 
-**Margin** is the **USDC** committed to that position. It absorbs volatility, covers funding transfers, and determines how close the position is to liquidation. SayFi uses **isolated margin**, so each position manages its own risk by default.
+**Margin** is the **USDC** committed to that position. It absorbs volatility, covers funding transfers, and determines how close the position is to liquidation. YesFi uses **isolated margin**, so each position manages its own risk by default.
 
 ***
 
@@ -36,7 +36,7 @@ Funding can change effective margin over time because it moves value into or out
 
 ***
 
-### Why SayFi uses isolated margin
+### Why YesFi uses isolated margin
 
 * **One position does not automatically consume another position's margin**
 * **Strategy separation is clearer**, especially when you use multiple Traders or sub-accounts

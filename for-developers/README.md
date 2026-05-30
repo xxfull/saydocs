@@ -6,7 +6,7 @@ metaLinks:
 
 # For developers
 
-This section explains how to integrate with SayFi through HTTP APIs and WebSocket streams.
+This section explains how to integrate with YesFi through HTTP APIs and WebSocket streams.
 
 Use it to learn authentication, signing, endpoint groups, realtime subscriptions, and error handling.
 

@@ -8,7 +8,7 @@ metaLinks:
 
 **Funding** is the standard mechanism that helps perpetual contracts stay closer to the underlying market even though they have no expiry date. At each settlement interval, value transfers between longs and shorts.
 
-SayFi currently settles funding on an **hourly** basis unless the live product configuration says otherwise.
+YesFi currently settles funding on an **hourly** basis unless the live product configuration says otherwise.
 
 ***
 
@@ -40,7 +40,7 @@ The actual funding rate can change each hour. Do **not** extrapolate one histori
 
 ### Where the funding rate comes from
 
-The funding rate can combine external market inputs with SayFi's internal position state and exposure balance.
+The funding rate can combine external market inputs with YesFi's internal position state and exposure balance.
 
 ***
 

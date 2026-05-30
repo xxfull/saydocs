@@ -6,11 +6,11 @@ icon: sensor-cloud
 
 ### 1. Introduction
 
-This Privacy Policy explains how SayFi collects, uses, stores, shares, and protects your personal information.
+This Privacy Policy explains how YesFi collects, uses, stores, shares, and protects your personal information.
 
-By accessing, registering for, or using SayFi services, including the website, application, announcements, notices, and related services, you confirm that you have read and understood this Privacy Policy.
+By accessing, registering for, or using YesFi services, including the website, application, announcements, notices, and related services, you confirm that you have read and understood this Privacy Policy.
 
-If you do not agree to any part of this Privacy Policy, do not use SayFi services.
+If you do not agree to any part of this Privacy Policy, do not use YesFi services.
 
 ***
 
@@ -39,7 +39,7 @@ We may collect the following information based on how you use the services.
 
 We may use collected information for the following purposes:
 
-* provide, maintain, and improve SayFi services
+* provide, maintain, and improve YesFi services
 * create and manage your account
 * send security alerts, announcements, feature updates, and service messages
 * perform identity verification, risk control, troubleshooting, and security protection
@@ -70,7 +70,7 @@ When necessary, we may share your information in the following situations:
 
 * with third-party service providers that help us operate the services, such as cloud providers, email delivery services, analytics providers, identity-verification providers, or security providers
 * to comply with applicable law, judicial requests, regulatory requirements, or government requests
-* to protect the rights, property, and safety of SayFi, users, or the public
+* to protect the rights, property, and safety of YesFi, users, or the public
 * in connection with a corporate transaction, merger, restructuring, or asset transfer, to the extent permitted by law
 
 We require recipients to use your information only as needed to perform their duties and to apply reasonable protective measures.
@@ -79,7 +79,7 @@ We require recipients to use your information only as needed to perform their du
 
 ### 5. Cookies and similar technologies
 
-SayFi may use cookies, pixels, SDKs, or similar technologies to:
+YesFi may use cookies, pixels, SDKs, or similar technologies to:
 
 * maintain login status
 * remember your preferences
@@ -127,7 +127,7 @@ We may need to verify your identity before processing your request.
 
 ### 9. International transfers
 
-SayFi services and supporting infrastructure may rely on service providers located in different countries or regions.
+YesFi services and supporting infrastructure may rely on service providers located in different countries or regions.
 
 Your information may therefore be transferred to, stored in, or processed in jurisdictions outside your own.
 
@@ -137,7 +137,7 @@ In those cases, we will apply reasonable safeguards as required by applicable la
 
 ### 10. Minors
 
-SayFi services are not intended for minors who do not have full legal capacity, unless use is permitted by applicable law and carried out with guardian consent or guidance.
+YesFi services are not intended for minors who do not have full legal capacity, unless use is permitted by applicable law and carried out with guardian consent or guidance.
 
 If we discover that personal information from a minor was collected in a way that does not meet applicable requirements, we may delete or anonymize that information within a reasonable scope.
 
@@ -145,7 +145,7 @@ If we discover that personal information from a minor was collected in a way tha
 
 ### 11. Third-party links and services
 
-SayFi may contain links to third-party websites, services, or content.
+YesFi may contain links to third-party websites, services, or content.
 
 Those third parties have their own privacy policies and terms. We are not responsible for their practices.
 
@@ -159,10 +159,10 @@ We may update this Privacy Policy from time to time to reflect legal changes, bu
 
 The updated policy will be published on the platform and will take effect on the publication date or any later date stated in the update.
 
-By continuing to use SayFi services after the updated policy takes effect, you agree to the revised Privacy Policy.
+By continuing to use YesFi services after the updated policy takes effect, you agree to the revised Privacy Policy.
 
 ***
 
 ### 13. Contact
 
-If you have any questions, comments, or requests about this Privacy Policy, contact SayFi through the contact methods provided on the platform.
+If you have any questions, comments, or requests about this Privacy Policy, contact YesFi through the contact methods provided on the platform.

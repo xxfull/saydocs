@@ -15,7 +15,7 @@ This content helps you understand product behavior and system behavior. It does 
 
 ### No profit guarantee
 
-SayFi does **not** guarantee profit. It also does **not** guarantee that insurance will trigger, or that any payout will arrive instantly after a trigger. Historical performance, worked examples, and AI assistant replies do **not** predict future results.
+YesFi does **not** guarantee profit. It also does **not** guarantee that insurance will trigger, or that any payout will arrive instantly after a trigger. Historical performance, worked examples, and AI assistant replies do **not** predict future results.
 
 ***
 
@@ -33,10 +33,10 @@ The governing law, dispute forum, and dispute location follow the **formal user 
 
 ### Contact and information channels
 
-SayFi does **not** operate a traditional customer-service hotline. Use **in-app notices, official documentation, and public community channels** for information. Never disclose your private key or mnemonic to any third party.
+YesFi does **not** operate a traditional customer-service hotline. Use **in-app notices, official documentation, and public community channels** for information. Never disclose your private key or mnemonic to any third party.
 
 ***
 
 ### Related pages
 
-* [What is SayFi?](../../about-sayfi/what-is-sayfi.md)
+* [What is YesFi](../../readme/what-is-yesfi.md)

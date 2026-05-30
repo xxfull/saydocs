@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Strategy Hub
 
 Real-time strategy discovery and execution. Combining signal intelligence from top traders with a multi-factor scoring model-integrating real-time news, on-chain data, macro events, and technical indicators-to generate top-ranked, actionable trading strategies.

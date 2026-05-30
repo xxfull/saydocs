@@ -1,9 +1,8 @@
 ---
 description: A fast introduction for first-time users, traders, and developers.
-hidden: true
 ---
 
-# Copy of QuickStart
+# QuickStart
 
 > **One Yes, Trade All** — See [What is YesFi](readme/what-is-yesfi.md)?.
 
@@ -33,7 +32,7 @@ If you care about **Zero Loss Insurance** or **Double Profit Insurance**, rely o
 * **Deposit** _(optional)_:
   * Supported chains: `Ethereum`, `Base`, `BSC`, `Arbitrum`
   * Supported token: `USDC`
-* **Transfer**_(optional)_: A user can have multiple sub-accounts, with funds segregated between sub-accounts and transfers allowed between them.See [**Sub-account wallets**](ai-trader/sub-account-wallets.md) for details.
+* **Transfer**_(optional)_: A user can have multiple sub-accounts, with funds segregated between sub-accounts and transfers allowed between them.See [**Sub-account wallets**](trading/sub-account-wallets.md) for details.
 
 #### 3. Start with natural-language prompts
 

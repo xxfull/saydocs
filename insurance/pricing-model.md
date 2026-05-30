@@ -1,5 +1,5 @@
 ---
-description: This page summarizes the economic model behind SayFi insurance.
+description: This page summarizes the economic model behind YesFi insurance.
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/bao-xian/ding-jia-mo-xing

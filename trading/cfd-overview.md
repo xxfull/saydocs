@@ -6,7 +6,7 @@ metaLinks:
 
 # CFD overview
 
-SayFi offers **USD-settled perpetual contracts**. You can think of them as long-running CFD-style positions with no spot delivery. Your margin, PnL, and settlement stay anchored in **USD**.
+YesFi offers **USD-settled perpetual contracts**. You can think of them as long-running CFD-style positions with no spot delivery. Your margin, PnL, and settlement stay anchored in **USD**.
 
 The core experience is simple:
 
@@ -14,7 +14,7 @@ The core experience is simple:
 * manage each trade with **isolated margin**
 * optionally add insurance products where available
 
-For the product model, see [**What is SayFi?**](../about-sayfi/what-is-sayfi.md).
+For the product model, see [**What is YesFi**](../readme/what-is-yesfi.md).
 
 | Feature                    | What it means                                                                                                                                 |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |

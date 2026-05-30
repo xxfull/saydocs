@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: head-side-gear
 metaLinks:
   alternates:
@@ -111,7 +112,7 @@ If `+ Custom` is available, you can define how strict "strict" should be in your
 
 Each **AI Trader** maps to **one** on-chain sub-account. Funds, isolated positions, and margin pools stay separate. Switching Traders is effectively switching to a different set of funds, risk boundaries, and chat context.
 
-For details, see [**Sub-account wallets**](sub-account-wallets.md).
+For details, see [**Sub-account wallets**](../trading/sub-account-wallets.md).
 
 ***
 

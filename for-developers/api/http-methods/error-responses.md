@@ -9,7 +9,7 @@ metaLinks:
 
 ### Unified JSON envelope (`Response`)
 
-Sayfi HTTP APIs use the same struct
+YesFi HTTP APIs use the same struct
 
 #### Success
 

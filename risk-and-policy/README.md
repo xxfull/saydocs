@@ -9,7 +9,7 @@ metaLinks:
 
 # Risk & Policy
 
-This section covers the rules, disclosures, and operating boundaries that matter before you trade or buy insurance products on SayFi.
+This section covers the rules, disclosures, and operating boundaries that matter before you trade or buy insurance products on YesFi.
 
 Use it to understand what you are responsible for, what the product covers, and which scenarios remain outside coverage.
 
@@ -28,7 +28,7 @@ Read them before you sign messages or approve on-chain actions:
 
 #### Insurance Product Agreement
 
-These pages define the agreement framework for SayFi insurance products.
+These pages define the agreement framework for YesFi insurance products.
 
 They explain scope, amendments, exclusions, fees, settlement, and legal disclaimers:
 
