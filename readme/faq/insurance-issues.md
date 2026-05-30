@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page answers common questions about SayFi trading insurance (Revival /
+  This page answers common questions about YesFi trading insurance (Revival /
   Double-up), not the same as bank-style “buy insurance for wealth management.”
 metaLinks:
   alternates:
@@ -10,9 +10,9 @@ metaLinks:
 
 # Insurance issues
 
-### What is SayFi trading insurance?
+### YesWhat is YesFi trading insurance?
 
-SayFi offers two **optional** protections for positions:
+YesFi offers two **optional** protections for positions:
 
 | Name                        | What it does (high level)                                                                                                                                                                                                                                                                                     |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ There is **no** arbitrary or custom length. Renewals and switches are **only** a
 
 ### Is this the same as “insurance wealth products”?
 
-**No.** SayFi insurance only supports **in-platform contract trading and position risk management**. It is not the same as savings or wealth products sold by insurers to retail users. If someone means generic finance or offline insurance, clarify the context first, then point back to SayFi trading insurance.
+**No.** YesFi insurance only supports **in-platform contract trading and position risk management**. It is not the same as savings or wealth products sold by insurers to retail users. If someone means generic finance or offline insurance, clarify the context first, then point back to YesFi trading insurance.
 
 ***
 
@@ -62,8 +62,8 @@ The platform combines **real-time volatility**, **one of the three terms above**
 
 ### Quote failures, payout issues, or UI not matching expectations?
 
-* **DEX model**: SayFi has **no** human support line, official phone, tickets, or one-to-one desk. Use **in-app copy**, this doc, and **public community channels**.
-* **Scams**: Anyone claiming to be “SayFi official support” and asking for **transfers, private keys, seed phrases, or paid unfreezing** is fraudulent—**do not** comply.
+* **DEX model**: YesFi has **no** human support line, official phone, tickets, or one-to-one desk. Use **in-app copy**, this doc, and **public community channels**.
+* **Scams**: Anyone claiming to be “YesFi official support” and asking for **transfers, private keys, seed phrases, or paid unfreezing** is fraudulent—**do not** comply.
 * For **API error codes** (e.g. insurance domain `INS_*`), developers can refer to the Error responses doc; end users can retry shortly and check wallet and network status.
 
 ***

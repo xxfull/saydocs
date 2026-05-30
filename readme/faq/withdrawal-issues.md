@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page covers withdrawing from SayFi to your wallet, fees, and common
+  This page covers withdrawing from YesFi to your wallet, fees, and common
   failures. Withdrawals are on-chain; outcome depends on chain confirmation and
   correct recipient details.
 metaLinks:
@@ -11,7 +11,7 @@ metaLinks:
 
 # Withdrawal issues
 
-### Does SayFi charge a withdrawal fee?
+### Does YesFi charge a withdrawal fee?
 
 **Yes.** Per product documentation, **each withdrawal** includes a **0.1 USDC** platform fee (you also pay on-chain **gas** and similar network fees).
 
@@ -35,7 +35,7 @@ Docs: **no** withdrawal **quota** cap and **no** forced account cool-down. After
 
 ### Wrong address or wrong network
 
-SayFi **cannot** undo a broadcast on-chain transfer. Wrong chain or address means you must work with the counterparty or compliant chain-side help—**never** expect an “official agent” to reverse it. Before confirming, verify **network, token, and address**.
+YesFi **cannot** undo a broadcast on-chain transfer. Wrong chain or address means you must work with the counterparty or compliant chain-side help—**never** expect an “official agent” to reverse it. Before confirming, verify **network, token, and address**.
 
 ***
 
@@ -51,6 +51,6 @@ Common reasons:
 
 ### Someone offers to “manually speed up” my withdrawal?
 
-SayFi is a **DEX protocol** with **no** human support desk; withdrawals run via **contracts and signed requests**. If they demand **extra fees, private keys, or seed phrases** to “release” funds, it is a **scam**.
+YesFi is a **DEX protocol** with **no** human support desk; withdrawals run via **contracts and signed requests**. If they demand **extra fees, private keys, or seed phrases** to “release” funds, it is a **scam**.
 
 ***

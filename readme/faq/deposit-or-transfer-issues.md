@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page covers depositing USDC (and supported assets) into SayFi, transfers
+  This page covers depositing USDC (and supported assets) into YesFi, transfers
   between sub-accounts, and balance not updating.
 metaLinks:
   alternates:
@@ -12,7 +12,7 @@ metaLinks:
 
 ### How does custody work?
 
-* **Non-custodial**: Assets live in on-chain contracts; moves require your signed authorization. SayFi does **not** freely move your principal via a centralized treasury model.
+* **Non-custodial**: Assets live in on-chain contracts; moves require your signed authorization. YesFi does **not** freely move your principal via a centralized treasury model.
 * **Verifiable**: Deposits and on-chain flows can be checked on a **block explorer**.
 
 ***
@@ -34,17 +34,17 @@ Per product docs: **no deposit fee**. You still pay on-chain **gas** (and simila
 Check in order:
 
 1. **On-chain success**: Explorer shows **Success** and the right recipient/contract for your environment.
-2. **Network**: Use the **chain/network** SayFi expects; wrong chain often means **no** matching balance in the app.
+2. **Network**: Use the **chain/network** YesFi expects; wrong chain often means **no** matching balance in the app.
 3. **Token**: Perps are **USDC-margined**; use the **correct USDC** contract on that chain.
 4. **Confirmations / time**: Congestion causes delays; after enough confirmations, **refresh** the app.
 
-SayFi does **not** offer “manual balance fixes” or private support to change balances—resolution is **correct chain, correct asset, successful on-chain settlement**.
+YesFi does **not** offer “manual balance fixes” or private support to change balances—resolution is **correct chain, correct asset, successful on-chain settlement**.
 
 ***
 
 ### Transfers between sub-accounts (multiple Traders)
 
-SayFi supports multiple **AI Traders**, each with an **isolated sub-account**:
+YesFi supports multiple **AI Traders**, each with an **isolated sub-account**:
 
 * **Isolated margin**: Pools are separate; Trader A’s loss does **not** auto-back Trader B.
 * **Moving risk capital** between Traders usually needs an **in-app internal transfer** or closing and reallocating—follow the **live product flow**.
@@ -55,7 +55,7 @@ If a transfer looks stuck: confirm **you signed**, the **API/chain** succeeded, 
 
 ### Wrong chain or wrong token
 
-If funds went to the **wrong network** or an unexpected token standard, **SayFi cannot reverse** the on-chain transaction.
+If funds went to the **wrong network** or an unexpected token standard, **YesFi cannot reverse** the on-chain transaction.
 
 ***
 
