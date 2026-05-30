@@ -2,7 +2,7 @@
 
 ### 統一 JSON 回應結構（`Response`）
 
-SayFi HTTP API 使用統一的回應結構。
+YesFi HTTP API 使用統一的回應結構。
 
 #### 成功回應
 

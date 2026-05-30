@@ -89,6 +89,7 @@
       * [24 小時排行訂閱](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/24-xiao-shi-pai-xing-ding-yue.md)
       * [每日排行訂閱](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/mei-ri-pai-xing-ding-yue.md)
       * [24 小時 Ticker 訂閱](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/24-xiao-shi-ticker-ding-yue.md)
+      * [策略訂閱](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/ce-le-ding-yue.md)
       * [K 線訂閱](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/k-xian-ding-yue.md)
 * [獎勵與活動](jiang-li-yu-huo-dong/README.md)
   * [獎勵規則](jiang-li-yu-huo-dong/jiang-li-gui-ze.md)

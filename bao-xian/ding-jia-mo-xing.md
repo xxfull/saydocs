@@ -1,5 +1,5 @@
 ---
-description: 本頁概括 SayFi 保險的經濟模型。
+description: 本頁概括 YesFi 保險的經濟模型。
 ---
 
 # 定價模型
