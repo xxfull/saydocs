@@ -1,8 +1,8 @@
 ---
-cover: .gitbook/assets/output.gif
+cover: .gitbook/assets/YesFi_banner2.png
 coverY: 0
 metaLinks: {}
 ---
 
-# About SayFi
+# About YesFi
 
