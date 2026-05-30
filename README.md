@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/output (3).gif
+cover: .gitbook/assets/YesFi_banner2.png
 coverY: 0
 layout:
   width: default
@@ -20,7 +20,9 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
-# 關於 SayFi
+# 關於 YesFi
 
