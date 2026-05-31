@@ -26,7 +26,7 @@ If you care about **Zero Loss Insurance** or **Double Profit Insurance**, rely o
 
 #### 2. Prepare your wallet and sign in
 
-* **Device**: [Web app](https://trade.sayfi.com/chat) and mobile browsers are supported where available.
+* **Device**: [Web app](https://trade.yesfi.com/) and mobile browsers are supported where available.
 * **Sign in**:
   * Connect an **EVM wallet** such as MetaMask, WalletConnect, or Rabby.
 * **Deposit** _(optional)_:
