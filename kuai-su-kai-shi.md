@@ -22,7 +22,7 @@ description: 本頁是 YesFi 的快速導覽，適合第一次接觸產品的使
 
 #### 2. 準備環境並登入
 
-* **裝置**：[網頁版](https://trade.sayfi.com/chat) 與**手機瀏覽器**都可使用，實際支援情況以 [官網](https://trade.sayfi.com/chat) 為準。
+* **裝置**：[網頁版](https://trade.yesfi.com/) 與**手機瀏覽器**都可使用，實際支援情況以 [官網](https://trade.sayfi.com/chat) 為準。
 * **登入方式**
   * **錢包登入**：使用 MetaMask、WalletConnect、Rabby 等 **EVM 錢包**連線並簽名。
 * **儲值（選填）**
