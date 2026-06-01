@@ -8,7 +8,7 @@ coverY: 0
 
 YesFi 鏈上瀏覽器是 YesFi Chain 的**官方區塊瀏覽器**。它面向開發者與終端使用者，適合在**不直接呼叫節點 RPC** 的情況下，即時查詢與檢視鏈上交易、地址與區塊。
 
-**瀏覽器位址：** [https://explorer.sayfi.com/](https://explorer.sayfi.com/)
+**瀏覽器位址：** [https://explorer.yesfi.com/](https://explorer.yesfi.com/)
 
 ***
 
