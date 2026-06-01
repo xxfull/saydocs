@@ -9,7 +9,7 @@ metaLinks: {}
 
 YesFi Chain Explorer is the **official block explorer** for YesFi Chain. It is aimed at developers and end users who need **live on-chain lookup and visualization**—transactions, addresses, and blocks—without calling node RPC directly.
 
-**Explorer URL:** [https://explorer.sayfi.com/](https://explorer.sayfi.com/)
+**Explorer URL:** [https://explorer.yesfi.com/](https://explorer.yesfi.com/)
 
 ***
 
