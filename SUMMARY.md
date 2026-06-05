@@ -64,6 +64,8 @@
         * [POST wallet/internal-transfers](for-developers/api/http-methods/wallet-and-funds/post-public-explorer-wallet-internal-transfers.md)
         * [GET  account/balances](for-developers/api/http-methods/wallet-and-funds/get-private-explorer-account-balances.md)
         * [POST account](for-developers/api/http-methods/wallet-and-funds/post-public-explorer-account.md)
+        * [GET wallet/recovery/fees](for-developers/api/http-methods/wallet-and-funds/get-wallet-recovery-fees.md)
+        * [POST wallet/recovery](for-developers/api/http-methods/wallet-and-funds/post-wallet-recovery.md)
       * [Positions & Orders](for-developers/api/http-methods/positions-and-orders/README.md)
         * [POST orders](for-developers/api/http-methods/positions-and-orders/post-orders.md)
         * [POST orders/{id}/cancel](for-developers/api/http-methods/positions-and-orders/post-orders-id-cancel.md)
