@@ -73,6 +73,8 @@
         * [取得內部劃轉記錄（GET /wallet/internal-transfers）](mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/qu-de-nei-bu-hua-zhuan-ji-lu-get-walletinternaltransfers.md)
         * [查詢內部劃轉（POST /wallet/internal-transfers）](mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/cha-xun-nei-bu-hua-zhuan-post-publicexplorerwalletinternaltransfers.md)
         * [取得帳戶餘額（GET  /account/balances）](mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/qu-de-zhang-hu-yueget-privateexploreraccountbalances.md)
+        * [查詢誤充取回手續費（GET wallet/recovery/fees）](mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/cha-xun-wu-chong-qu-hui-shou-xu-fei-get-walletrecoveryfees.md)
+        * [誤充取回（POST wallet/recovery）](mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/wu-chong-qu-hui-post-walletrecovery.md)
         * [查詢帳戶資訊（POST  /account）](mian-xiang-kai-fa-zhe/api/http-fang-fa/qian-bao-yu-zi-jin/cha-xun-zhang-hu-zi-xun-post-publicexploreraccount.md)
       * [市場](mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/README.md)
         * [取得 24 小時 Ticker（GET  /marketdata/ticker）](mian-xiang-kai-fa-zhe/api/http-fang-fa/shi-chang/qu-de-24-xiao-shi-tickerget-publicexplorerticker.md)
