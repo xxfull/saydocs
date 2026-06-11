@@ -96,7 +96,7 @@ icon: head-side-gear
 
 ### 和子帳戶的關係
 
-每個 **Agent（AI Trader）** 都對應**一個**鏈上子帳戶：資金、逐倉倉位與保證金池彼此隔離。切換 Trader / 智慧代理，等於切換到**另一套資金與風險邊界**上的對話。詳情見 [子帳戶與錢包](../jiao-yi/zi-zhang-hu-yu-qian-bao.md)。
+每個 **Agent（AI Trader）** 都對應**一個**鏈上子帳戶：資金、逐倉倉位與保證金池彼此隔離。切換 Trader / 智慧代理，等於切換到**另一套資金與風險邊界**上的對話。詳情見 [子帳戶與錢包](../jiao-yi/shi-jia-dan-xian-jia-dan/zi-zhang-hu-yu-qian-bao.md)。
 
 ***
 

@@ -28,7 +28,7 @@ description: 本頁是 YesFi 的快速導覽，適合第一次接觸產品的使
 * **儲值（選填）**
   * 支援鏈：Ethereum、Base、BSC、Arbitrum
   * 支援幣別：USDC
-* **轉帳（選填）**：使用者可以擁有多個子帳戶，子帳戶之間的資金相互隔離，並且允許在子帳戶之間進行轉帳。有關詳細信息，請參閱[子帳戶錢包](jiao-yi/zi-zhang-hu-yu-qian-bao.md)。
+* **轉帳（選填）**：使用者可以擁有多個子帳戶，子帳戶之間的資金相互隔離，並且允許在子帳戶之間進行轉帳。有關詳細信息，請參閱[子帳戶錢包](jiao-yi/shi-jia-dan-xian-jia-dan/zi-zhang-hu-yu-qian-bao.md)。
 
 #### 3. 用自然語言開始互動
 
