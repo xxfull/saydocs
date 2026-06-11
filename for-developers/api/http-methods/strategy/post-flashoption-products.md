@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # POST flashoption/products
 
 List **active** flash option products that have not yet settled.

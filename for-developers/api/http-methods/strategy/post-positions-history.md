@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # POST positions/history
 
 Query flash option position history for one or more wallet addresses.

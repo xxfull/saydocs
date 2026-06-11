@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # POST flashoption/orders
 
 Buy shares of an active flash option product and create an **open** user position.
