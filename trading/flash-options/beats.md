@@ -13,4 +13,5 @@
 
 ### **Payout Structure**
 
-* Payouts increase as the timeframe gets longer. Payouts also increase the further the target price range is from the current price.
+* Payouts increase as the timeframe gets longer.&#x20;
+* Payouts also increase the further the target price range is from the current price.
