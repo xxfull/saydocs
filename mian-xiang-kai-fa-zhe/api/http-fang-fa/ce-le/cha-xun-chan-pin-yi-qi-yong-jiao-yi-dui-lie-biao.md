@@ -3,27 +3,27 @@
 查詢 **連擊**（Combo）/ **波動率**（Moves）/ **配對**（Pair）/ **區間**（Range）/ **階梯**（Steps）/ **趨勢**（Trend）產品下所有已啟用的交易對列表。
 
 ```
-GET /v1/public/lite/combo/symbols
+GET /v1/public/combo/symbols
 ```
 
 ```
-GET /v1/public/lite/moves/symbols
+GET /v1/public/moves/symbols
 ```
 
 ```
-GET /v1/public/lite/pair/symbols
+GET /v1/public/pair/symbols
 ```
 
 ```
-GET /v1/public/lite/range/symbols
+GET /v1/public/range/symbols
 ```
 
 ```
-GET /v1/public/lite/steps/symbols
+GET /v1/public/steps/symbols
 ```
 
 ```
-GET /v1/public/lite/trend/symbols
+GET /v1/public/trend/symbols
 ```
 
 #### Response
