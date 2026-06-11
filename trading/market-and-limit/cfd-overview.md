@@ -14,7 +14,7 @@ The core experience is simple:
 * manage each trade with **isolated margin**
 * optionally add insurance products where available
 
-For the product model, see [**What is YesFi**](../readme/what-is-yesfi.md).
+For the product model, see [**What is YesFi**](../../readme/what-is-yesfi.md).
 
 | Feature                    | What it means                                                                                                                                 |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -55,7 +55,7 @@ Margin, positions, and risk stay isolated.
 
 Switching Traders means switching to a different pool of funds and conversation context.
 
-See [**Sub-account wallets**](trading/sub-account-wallets.md) for details.
+See [**Sub-account wallets**](trading/market-and-limit/sub-account-wallets.md) for details.
 
 #### 5. Start with natural-language prompts
 

@@ -14,31 +14,31 @@ Use it to understand pricing, order behavior, margin, funding, liquidation, and 
 
 ### What this section includes
 
-#### [CFD overview](cfd-overview.md)
+#### [CFD overview](market-and-limit/cfd-overview.md)
 
 Explains the product model behind SayFi perpetuals:
 
-#### [Pricing](pricing.md)
+#### [Pricing](market-and-limit/pricing.md)
 
 Explains where the mark price comes from and how the platform handles stale or invalid quotes:
 
-#### [Order](order.md)
+#### [Order](market-and-limit/order.md)
 
 Explains market orders, limit orders, TP and SL behavior, and how slippage works:
 
-#### [Position & Margin](position-and-margin.md)
+#### [Position & Margin](market-and-limit/position-and-margin.md)
 
 Explains isolated positions, margin usage, unrealized PnL, and liquidation-price movement:
 
-#### [Funding](funding.md)
+#### [Funding](market-and-limit/funding.md)
 
 Explains the hourly funding mechanism between longs and shorts:
 
-#### [Liquidations](liquidations.md)
+#### [Liquidations](market-and-limit/liquidations.md)
 
 Explains when forced closure can happen and what actions reduce liquidation risk:
 
-#### [Fees](fees.md)
+#### [Fees](market-and-limit/fees.md)
 
 Explains trading fees, slippage-related execution logic, and liquidation-penalty reservation:
 
@@ -46,10 +46,10 @@ Explains trading fees, slippage-related execution logic, and liquidation-penalty
 
 ### Recommended reading order
 
-1. Start with [**CFD overview**](cfd-overview.md).
-2. Continue with [**Pricing**](pricing.md) and [**Order**](order.md).
-3. Then read [**Position & Margin**](position-and-margin.md), [**Funding**](funding.md), and [**Liquidations**](liquidations.md).
-4. Finish with [**Fees**](fees.md).
+1. Start with [**CFD overview**](market-and-limit/cfd-overview.md).
+2. Continue with [**Pricing**](market-and-limit/pricing.md) and [**Order**](market-and-limit/order.md).
+3. Then read [**Position & Margin**](market-and-limit/position-and-margin.md), [**Funding**](market-and-limit/funding.md), and [**Liquidations**](market-and-limit/liquidations.md).
+4. Finish with [**Fees**](market-and-limit/fees.md).
 
 ***
 
