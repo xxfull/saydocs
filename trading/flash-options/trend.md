@@ -29,13 +29,3 @@ At 10:01 settlement: BTC actual gain is +0.14%, exceeding the Medium tier thresh
 **Payout Structure**
 
 * Longer timeframes allow larger price swings, so thresholds are adjusted accordingly — but the three-tier payout structure is always maintained: 2.83x / 6.4x / 28x. The 28x payout is a platform hard cap for risk control. It is the highest-excitement tier and large stakes are not recommended.
-
-**Risk Controls**
-
-* During extremely low-volatility periods (e.g., Gold at 3 AM): Heavy tier automatically goes offline; front end shows "Market too quiet"
-* During extreme volatility events (e.g., BTC flash crash): trading temporarily suspended; front end shows "High volatility — please try again shortly"
-* 30-minute windows around major events (earnings, Fed decisions, CPI releases, etc.): affected assets automatically suspended
-* Maximum stake per order scales inversely with tier:
-  * Light: max 5,000u
-  * Medium: max 3,000u
-  * Heavy: max 1,500u
