@@ -6,11 +6,11 @@ description: A fast introduction for first-time users, traders, and developers.
 
 > **One Yes, Trade All** — See [What is YesFi](readme/what-is-yesfi.md)?.
 
-| What you will encounter in YesFi | In one line                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| What the product is              | <p>An <strong>AI-native on-chain perpetuals exchange</strong>. You express intent in <strong>chat</strong>. </p><ul><li>Your <strong>AI Trader</strong> helps turn it into orders and position actions.</li><li>Browse AI-generated trading signals and apply full parameters - direction, leverage, take-profit, stop-loss - with a single tap.</li><li></li></ul> |
-| Who makes the decision           | **You.** The agent provides analysis and options. Final execution still requires **your confirmation and on-chain signature**. It does **not** trade without permission.                                                                                                                                                                                            |
-| Where funds sit                  | USDC assets are securely stored on-chain in contracts. You can create multiple independent **Traders / sub-accounts**. Funds stay separated. The limit is **10**.                                                                                                                                                                                                   |
+| What you will encounter in YesFi | In one line                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What the product is              | <p>An <strong>AI-native on-chain perpetuals exchange</strong>. You express intent in <strong>chat</strong>. </p><ul><li>Your <strong>AI Trader</strong> helps turn it into orders and position actions.</li><li>Browse AI-generated trading signals and apply full parameters - direction, leverage, take-profit, stop-loss - with a single tap.</li><li>Browse AI-generated option parameters and purchase with automatic settlement upon maturity.</li></ul> |
+| Who makes the decision           | **You.** The agent provides analysis and options. Final execution still requires **your confirmation and on-chain signature**. It does **not** trade without permission.                                                                                                                                                                                                                                                                                       |
+| Where funds sit                  | USDC assets are securely stored on-chain in contracts. You can create multiple independent **Traders / sub-accounts**. Funds stay separated. The limit is **10**.                                                                                                                                                                                                                                                                                              |
 
 ***
 
@@ -38,7 +38,7 @@ If you care about **Zero Loss Insurance** or **Double Profit Insurance**, rely o
 
 In AI chat, you can talk about markets, ask rules, and place **market**, **limit**, **take-profit**, or **stop-loss** instructions.
 
-You can copy or adapt the examples in [**Prompt reference**](ai-trader/prompt-reference.md).
+You can copy or adapt the examples in [**Prompt reference**](ai-trader/).
 
 * **Important**: Always confirm actions in the interface before execution.
 * Never send your **private key** or **mnemonic phrase** to anyone.
@@ -71,6 +71,5 @@ These topics go beyond a quick intro, but every real trader should review them:
 | Page                                              | Best for                                       |
 | ------------------------------------------------- | ---------------------------------------------- |
 | [What is YesFi?](readme/what-is-yesfi.md)         | Understanding the product model and its limits |
-| [Agent profile](ai-trader/agent-profile.md)       | Setting names, avatars, and attribute tags     |
 | [Prompt reference](ai-trader/prompt-reference.md) | Finding example prompts for chat-based trading |
 | [API](for-developers/api/)                        | Integrating with the platform as a developer   |
