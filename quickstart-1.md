@@ -6,11 +6,11 @@ description: A fast introduction for first-time users, traders, and developers.
 
 > **One Yes, Trade All** — See [What is YesFi](readme/what-is-yesfi.md)?.
 
-| What you will encounter in YesFi | In one line                                                                                                                                                              |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| What the product is              | An **AI-native on-chain perpetuals exchange**. You express intent in **chat**. Your **AI Trader** helps turn it into orders and position actions.                        |
-| Who makes the decision           | **You.** The agent provides analysis and options. Final execution still requires **your confirmation and on-chain signature**. It does **not** trade without permission. |
-| Where funds sit                  | USDC assets are securely stored on-chain in contracts. You can create multiple independent **Traders / sub-accounts**. Funds stay separated. The limit is **10**.        |
+| What you will encounter in YesFi | In one line                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What the product is              | <p>An <strong>AI-native on-chain perpetuals exchange</strong>. You express intent in <strong>chat</strong>. </p><ul><li>Your <strong>AI Trader</strong> helps turn it into orders and position actions.</li><li>Browse AI-generated trading signals and apply full parameters - direction, leverage, take-profit, stop-loss - with a single tap.</li><li></li></ul> |
+| Who makes the decision           | **You.** The agent provides analysis and options. Final execution still requires **your confirmation and on-chain signature**. It does **not** trade without permission.                                                                                                                                                                                            |
+| Where funds sit                  | USDC assets are securely stored on-chain in contracts. You can create multiple independent **Traders / sub-accounts**. Funds stay separated. The limit is **10**.                                                                                                                                                                                                   |
 
 ***
 
