@@ -34,7 +34,7 @@ description: 本頁是 YesFi 的快速導覽，適合第一次接觸產品的使
 
 在對話中，你可以**查行情、問規則、下市價 / 限價 / 止盈止損**等。句型可直接照抄，也可以依你的習慣改寫。
 
-→ 見 [**對話指令參考**](ai-jiao-yi-yuan/dui-hua-zhi-ling-can-kao.md)。
+→ 見 [**對話指令參考**](ai-jiao-yi-yuan/)。
 
 * **再提醒一次**：**執行前一定要在介面上確認**；不要把**私鑰或助記詞**交給任何人，包括自稱客服的人。
 
@@ -49,6 +49,7 @@ description: 本頁是 YesFi 的快速導覽，適合第一次接觸產品的使
 以下主題**不適合**在快速開始裡一次講完，但只要你打算實際交易，建議至少先快速看過：
 
 * [**訂單類型、倉位管理、價格與資金費**](jiao-yi/)
+* [**極速期權**](jiao-yi/ji-su-qi-quan/)**、**[**交易信號**](jiao-yi/jiao-yi-xin-hao.md)
 * [**保證金、強制平倉、風控機制**](jiao-yi/)
 * [**交易保險**](bao-xian/)**：保本險 / 利增險**
 * [**常见问题**](https://app.gitbook.com/s/2ydpQ0rXK8hfDMCn6VFp/readme/chang-jian-wen-ti)
@@ -65,9 +66,8 @@ description: 本頁是 YesFi 的快速導覽，適合第一次接觸產品的使
 
 ### 本區文件導覽
 
-| 頁面                                                         | 適合情境              |
-| ---------------------------------------------------------- | ----------------- |
-| [什麼是 YesFi？](readme/shen-mo-shi-yesfi.md)                  | 第一次了解產品定位與能力邊界    |
-| [智慧代理設定檔](ai-jiao-yi-yuan/zhi-hui-dai-li-she-ding-dang.md) | 設定頭像、名稱與屬性標籤      |
-| [對話指令參考](ai-jiao-yi-yuan/dui-hua-zhi-ling-can-kao.md)      | 不確定怎麼對 AI 下指令時查例句 |
-| [API 介面](mian-xiang-kai-fa-zhe/api/)                       | 開發者快速接入           |
+| 頁面                                                    | 適合情境              |
+| ----------------------------------------------------- | ----------------- |
+| [什麼是 YesFi？](readme/shen-mo-shi-yesfi.md)             | 第一次了解產品定位與能力邊界    |
+| [對話指令參考](ai-jiao-yi-yuan/dui-hua-zhi-ling-can-kao.md) | 不確定怎麼對 AI 下指令時查例句 |
+| [API 介面](mian-xiang-kai-fa-zhe/api/)                  | 開發者快速接入           |
