@@ -9,6 +9,7 @@
 * [AI 交易員](ai-jiao-yi-yuan/README.md)
   * [智慧代理設定檔](ai-jiao-yi-yuan/zhi-hui-dai-li-she-ding-dang.md)
   * [對話指令參考](ai-jiao-yi-yuan/dui-hua-zhi-ling-can-kao.md)
+  * [對話指令參考](ai-jiao-yi-yuan/dui-hua-zhi-ling-can-kao-1.md)
 * [交易](jiao-yi/README.md)
   * [市价单 & 限价单](jiao-yi/shi-jia-dan-xian-jia-dan/README.md)
     * [CFD 概覽](jiao-yi/shi-jia-dan-xian-jia-dan/cfd-gai-lan.md)
