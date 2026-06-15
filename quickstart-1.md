@@ -43,10 +43,11 @@ You can copy or adapt the examples in [**Prompt reference**](ai-trader/).
 * **Important**: Always confirm actions in the interface before execution.
 * Never send your **private key** or **mnemonic phrase** to anyone.
 
-#### 4. Start with strategy or trading signals
+#### 4. Start with AI strategy or trading signals
 
-* **Flash options**: Select a strategy card, confirm your direction and amount, and place the order — the outcome settles automatically at a pre-locked multiplier when the window closes. No stop-loss setup or liquidation risk; your maximum loss is limited to the principal you put in.
-* **Trading signals**:Browse signals rated by the YesFi AI system, pick one that fits your risk tolerance, and apply the full parameter set — direction, leverage, TP, and stop-loss — with a single click or adjust manually before placing the order.&#x20;
+* **AI Trading Signals:** YesFi's AI system generates trading signals in real time. Each signal comes with a strategy logic breakdown and the source's historical performance, giving you full visibility into the rationale behind every trade.
+* **One-Click Order:** Browse signals and apply the full parameter set — direction, leverage, take-profit, and stop-loss — with a single tap. You can also adjust any parameter manually before placing the order, so you can enter the market at speed without the hassle.
+* **Turbo Options:** Select your option mode, direction, multiplier, and premium, then place your order. Positions settle automatically at expiry based on the locked-in multiplier — no stop-loss setup required. Maximum loss is capped at your initial principal, with zero liquidation risk.
 
 #### 5. Open the deeper docs when you need them
 
