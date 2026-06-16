@@ -32,8 +32,8 @@ Turbo options and AI contract signals together form YesFi's core rapid-entry too
 
 No complex parameters — just read the market direction and enter. Two modes available:
 
-* **Snap Contract:** Choose any underlying asset and predict its price movement over a set time window. Select your premium amount, asset, and target price range to create an order. Settlement is automatic at expiry — if the price lands within your predicted range, you receive the projected payout (e.g. 3.4 × 50 = 170 USDC); if not, the full premium is forfeited. Longer durations and price ranges further from the current price carry higher multipliers.
-* **Trend Contract:** Choose any underlying asset and predict its direction (up / down) over a set period. Hit the target move and you win the corresponding multiplier payout; miss it and your principal is lost. Three intensity tiers — Light / Medium / Heavy — with higher thresholds offering higher multipliers and lower win probability.
+* **Snap Contract:** Choose any underlying asset and predict its price movement over a set time window. Select your premium amount, asset, and target price range to create an order. Settlement is automatic at expiry.
+* **Trend Contract:** Choose any underlying asset and predict its direction (up / down) over a set period. Hit the target move and you win the corresponding multiplier payout; miss it and your principal is lost.
 
 **AI Contract Signals**
 
