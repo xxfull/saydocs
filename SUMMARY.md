@@ -23,6 +23,7 @@
   * [Flash Options](trading/flash-options/README.md)
     * [Beats](trading/flash-options/beats.md)
     * [Combo](trading/flash-options/moves.md)
+    * [Moves](<trading/flash-options/moves (1).md>)
     * [Pair](trading/flash-options/pair.md)
     * [Range](trading/flash-options/range.md)
     * [Steps](trading/flash-options/steps.md)
