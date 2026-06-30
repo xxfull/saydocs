@@ -22,6 +22,7 @@
   * [極速期權](jiao-yi/ji-su-qi-quan/README.md)
     * [秒動合約](jiao-yi/ji-su-qi-quan/miao-dong-he-yue.md)
     * [區間合約](jiao-yi/ji-su-qi-quan/qu-jian-he-yue.md)
+    * [配對合約](jiao-yi/ji-su-qi-quan/pei-dui-he-yue.md)
     * [階梯合約](jiao-yi/ji-su-qi-quan/jie-ti-he-yue.md)
     * [趨勢合約](jiao-yi/ji-su-qi-quan/qu-shi-he-yue.md)
   * [交易信號](jiao-yi/jiao-yi-xin-hao.md)
