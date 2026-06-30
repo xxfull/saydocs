@@ -12,9 +12,9 @@
 
 ### **Example (1min, Gold)** <a href="#id-0d11394e" id="id-0d11394e"></a>
 
-* **At 10:00, gold is trading at $3,500. The user selects `1min Gold within the ±0.1% inner band` — that is, \[$3,496.5, $3,503.5] — with a 5u premium and a 47x payout.**
-* **At 10:01, gold closes at $3,502.8 → hit ✓**
-* **The user stakes 5u → receives 235u**
+* At 10:00, gold is trading at $3,500. The user selects `1min Gold within the ±0.1% inner band` — that is, \[$3,496.5, $3,503.5] — with a 5u premium and a 47x payout.
+* At 10:01, gold closes at $3,502.8 → hit ✓
+* The user stakes 5u → receives 235u
 
 ### **Payout rules** <a href="#jpgij" id="jpgij"></a>
 
