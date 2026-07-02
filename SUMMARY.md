@@ -23,6 +23,7 @@
     * [秒動合約](jiao-yi/ji-su-qi-quan/miao-dong-he-yue.md)
     * [區間合約](jiao-yi/ji-su-qi-quan/qu-jian-he-yue.md)
     * [配對合約](jiao-yi/ji-su-qi-quan/pei-dui-he-yue.md)
+    * [連擊合約](jiao-yi/ji-su-qi-quan/lian-ji-he-yue.md)
     * [波動率](jiao-yi/ji-su-qi-quan/bo-dong-l.md)
     * [階梯合約](jiao-yi/ji-su-qi-quan/jie-ti-he-yue.md)
     * [趨勢合約](jiao-yi/ji-su-qi-quan/qu-shi-he-yue.md)
