@@ -1,168 +1,226 @@
 ---
+description: Last Revised on July 11, 2026
 icon: sensor-cloud
 ---
 
 # Privacy Policy
 
-### 1. Introduction
+This Privacy Policy (“Policy”) describes how YesFi (“YesFi”, “we”, “us”, “our”, or “ourselves”) collects and processes your Personal Data (“you” or “your”) when you access or use our websites, applications, interfaces, wallet-connected services, accounts, announcements, notices, trading-related features, campaigns, or other services collectively provided by YesFi (the “Services”).
 
-This Privacy Policy explains how YesFi collects, uses, stores, shares, and protects your personal information.
+“Personal Data” means information that identifies, relates to, describes, or could reasonably be linked to an identifiable individual, as defined under applicable data protection laws.
 
-By accessing, registering for, or using YesFi services, including the website, application, announcements, notices, and related services, you confirm that you have read and understood this Privacy Policy.
+In addition, we may process your Personal Data for specific purposes where applicable, including customer support, security review, compliance checks, campaign administration, partnership communications, job applications, or other interactions with us.
 
-If you do not agree to any part of this Privacy Policy, do not use YesFi services.
+By using our Services or engaging with us, you acknowledge that your Personal Data may be collected, stored, processed, shared, and transferred as described in this Policy.
 
-***
+This Policy applies together with our Terms of Service, Risk Disclosure, Shield Product Terms, campaign terms, product rules, and any other contractual documents or terms that may apply to your use of the Services.
 
-### 2. Information we collect
-
-We may collect the following information based on how you use the services.
-
-#### 2.1 Information you provide
-
-* Account information, such as your email address, username, or other registration details.
-* Contact information, such as the email address you provide for account notices, announcement alerts, and security messages.
-* Content you submit through customer support, forms, or feedback channels.
-* Information you enter in settings, preferences, or other pages.
-
-#### 2.2 Information we collect automatically
-
-* Device information, such as device model, operating system, browser type, and language settings.
-* Log information, such as access time, visited pages, activity records, and error logs.
-* Usage information, such as how you browse pages, click features, view announcements, and receive notices.
-* Possible location information, such as an approximate region inferred from your IP address.
-* Information collected through cookies or similar technologies for session management, traffic analysis, and experience optimization.
+If you do not agree with this Policy, do not access or use the Services.
 
 ***
 
-### 3. How we use information
+### 1. Privacy Commitment and Scope
 
-We may use collected information for the following purposes:
+Your privacy and the protection of your Personal Data are important to us. We aim to collect only the Personal Data that is reasonably necessary to provide, secure, operate, and improve the Services, comply with applicable obligations, and protect users and the platform.
 
-* provide, maintain, and improve YesFi services
-* create and manage your account
-* send security alerts, announcements, feature updates, and service messages
-* perform identity verification, risk control, troubleshooting, and security protection
-* respond to your questions, feedback, or support requests
-* analyze product usage and improve pages, features, and user experience
-* comply with applicable law, regulatory requirements, or internal compliance obligations
-* prevent fraud, abuse, unauthorized access, or other potential risks
+This Policy applies to Personal Data we collect when you visit YesFi websites or interfaces, create or use an account, connect a wallet, interact with trading signals or alerts, use trading-related products, participate in campaigns or rewards programs, contact support, submit feedback, or otherwise communicate with us.
 
-#### 3.1 Announcement and notice data
-
-We may record how you view announcements, receive notices, click links, or dismiss prompts to improve delivery effectiveness and product experience.
-
-These records help us understand whether notices were viewed, which notice types work better, and how to improve announcement presentation.
-
-#### 3.2 Risk alerts and trading notices
-
-We may use information related to your account, trading activity, or risk profile to send security alerts, risk warnings, or trading-related notices.
-
-For example, if the system detects account-security issues, position risk, rule changes, or trading restrictions, we may send alerts through in-app messages, email, or other channels.
+This Policy does not apply to third-party websites, wallets, blockchains, protocols, applications, or service providers that are not controlled by YesFi. Those third parties have their own privacy practices.
 
 ***
 
-### 4. How we share information
+### 2. Personal Data We Collect
 
-We do not sell your personal information casually or without basis.
+We collect Personal Data depending on how you interact with the Services.
 
-When necessary, we may share your information in the following situations:
+#### 2.1 Information You Provide
 
-* with third-party service providers that help us operate the services, such as cloud providers, email delivery services, analytics providers, identity-verification providers, or security providers
-* to comply with applicable law, judicial requests, regulatory requirements, or government requests
-* to protect the rights, property, and safety of YesFi, users, or the public
-* in connection with a corporate transaction, merger, restructuring, or asset transfer, to the extent permitted by law
+We may collect account, contact, profile, preference, notification, support, feedback, and communication information that you provide directly to us. This may include your email address, username, account settings, language preferences, support messages, forms, survey responses, campaign submissions, waitlist information, or other information you choose to provide.
 
-We require recipients to use your information only as needed to perform their duties and to apply reasonable protective measures.
+If you apply for a role, participate in partnership discussions, or otherwise engage with us outside normal product use, we may process information you provide for those specific purposes.
 
-***
+#### 2.2 Wallet and Blockchain Data
 
-### 5. Cookies and similar technologies
+If you connect a wallet or interact with blockchain-based features, we may process wallet addresses, public keys, wallet connection records, signatures, transaction hashes, blockchain network information, smart contract interaction data, and other public blockchain records related to your use of the Services.
 
-YesFi may use cookies, pixels, SDKs, or similar technologies to:
+We may also receive related information from blockchain indexers, RPC providers, explorers, analytics tools, or wallet-risk screening providers.
 
-* maintain login status
-* remember your preferences
-* analyze website and application usage
-* optimize feature performance and user experience
+We do not collect, store, or control your private keys, seed phrases, or wallet recovery credentials. You are responsible for securing your own wallet.
 
-You can manage cookies through your browser or device settings, but doing so may affect some features.
+#### 2.3 Trading, Risk, and Product Data
 
-***
+When you use trading-related features, we may collect or generate information relating to your orders, quotes, positions, margin, leverage, collateral, settlements, product selections, premiums, payouts, claims, risk alerts, account activity, and related transaction records.
 
-### 6. Storage and security
+This may include information associated with trading signals, Flash options Products, Shield Products, synthetic exposures, rewards, vouchers, campaigns, and other product features available through the Services.
 
-We apply reasonable technical and organizational measures to protect your information from unauthorized access, disclosure, modification, or destruction.
+#### 2.4 Identity Verification and Compliance Data
 
-These measures may include access controls, encryption, log audits, and permission management.
+Where required for compliance, access control, fraud prevention, sanctions screening, risk control, or legal obligations, we may collect or process identity-verification and compliance information. This may include name, date of birth, nationality, address, identification documents, proof of address, selfie or liveness checks where permitted, source-of-funds information where required, sanctions-screening results, wallet-risk results, and restricted-region or eligibility records.
 
-However, no internet transmission or electronic storage method is 100% secure. We therefore cannot guarantee absolute security.
+This information may be collected directly by us or processed by third-party identity-verification, compliance, sanctions-screening, fraud-prevention, or wallet-risk providers.
 
-***
+#### 2.5 Device, Log, and Usage Data
 
-### 7. Data retention
+We may automatically collect technical and usage information when you access or use the Services. This may include IP address, approximate location inferred from IP address, device model, browser type, operating system, language settings, referring pages, access time, session duration, pages visited, features used, clicks, views, dismissals, crash logs, diagnostic logs, error logs, and security logs.
 
-We retain your information for as long as needed to fulfill the purposes described in this Privacy Policy, or for longer where required for legal, dispute-resolution, audit, or compliance purposes.
+#### 2.6 Cookies, Pixels, SDKs, and Attribution Data
 
-When information is no longer needed, we may delete it, anonymize it, or handle it through another appropriate method under applicable law.
+We may use cookies, pixels, SDKs, local storage, and similar technologies to support login, session management, security, analytics, product performance, referral tracking, campaign attribution, and marketing measurement where permitted by law.
 
-***
+You may control cookies through your browser or device settings. Disabling cookies may affect certain features.
 
-### 8. Your rights
+#### 2.7 Aggregated or De-identified Data
 
-Where permitted by applicable law, you may have the right to:
-
-* access your personal information
-* correct inaccurate or incomplete information
-* delete certain information
-* withdraw consent previously given
-* restrict or object to certain processing activities
-* request more information about how we process your information
-
-To exercise these rights, contact us through the contact methods provided on the platform.
-
-We may need to verify your identity before processing your request.
+We may create aggregated, anonymized, or de-identified data from information collected through the Services. This data does not identify you personally and may be used for analytics, product development, research, reporting, business operations, or public transparency.
 
 ***
 
-### 9. International transfers
+### 3. How We Use Personal Data
 
-YesFi services and supporting infrastructure may rely on service providers located in different countries or regions.
+We use Personal Data to provide, operate, secure, improve, and maintain the Services.
 
-Your information may therefore be transferred to, stored in, or processed in jurisdictions outside your own.
+This includes creating and managing accounts, authenticating users, enabling wallet connections, displaying account or product information, processing product interactions, sending service messages, providing customer support, maintaining platform reliability, and improving user experience.
 
-In those cases, we will apply reasonable safeguards as required by applicable law.
+We also use Personal Data for security, fraud prevention, risk control, compliance, and legal purposes. This may include detecting unauthorized access, investigating suspicious activity, enforcing access controls, screening restricted regions or sanctioned persons, conducting KYC or AML checks where required, preventing abuse or manipulation, responding to legal requests, and enforcing our Terms of Service or other product terms.
 
-***
+For trading-related features, we may use Personal Data to send announcements, risk alerts, position warnings, rule-change notices, product updates, delisting notices, leverage adjustment notices, or other service-related communications. We may also analyze how users view, receive, dismiss, or interact with notices to improve delivery and presentation.
 
-### 10. Minors
+For product improvement and analytics, we may use Personal Data to understand feature usage, debug errors, test new functions, measure campaign performance, improve interface design, and develop new products or services.
 
-YesFi services are not intended for minors who do not have full legal capacity, unless use is permitted by applicable law and carried out with guardian consent or guidance.
+Where permitted by law, we may use Personal Data to send product updates, newsletters, campaign information, event information, or marketing messages. You may opt out of marketing communications through the unsubscribe or preference controls we provide. You may still receive security, legal, risk, transactional, or service-related messages.
 
-If we discover that personal information from a minor was collected in a way that does not meet applicable requirements, we may delete or anonymize that information within a reasonable scope.
-
-***
-
-### 11. Third-party links and services
-
-YesFi may contain links to third-party websites, services, or content.
-
-Those third parties have their own privacy policies and terms. We are not responsible for their practices.
-
-Before providing information to a third party, review the relevant third-party policies.
+Depending on the context and applicable law, our processing may be based on performance of our terms with you, compliance with legal obligations, our legitimate interests, your consent where required, or other lawful grounds available under applicable law.
 
 ***
 
-### 12. Policy updates
+### 4. Public Blockchain Data
 
-We may update this Privacy Policy from time to time to reflect legal changes, business changes, or product adjustments.
+Blockchain transactions are public, immutable, and may be visible to anyone.
 
-The updated policy will be published on the platform and will take effect on the publication date or any later date stated in the update.
+If you connect a wallet to YesFi, your wallet address and related on-chain activity may become associated with your account, device, usage activity, product activity, or support records.
 
-By continuing to use YesFi services after the updated policy takes effect, you agree to the revised Privacy Policy.
+We cannot delete, modify, or erase data that has been recorded on a public blockchain. Your privacy rights may therefore not apply to public blockchain data in the same way they apply to information stored by us.
+
+You should not use the Services if you do not want your wallet activity to be visible on public blockchain networks.
 
 ***
 
-### 13. Contact
+### 5. How We Share Personal Data
 
-If you have any questions, comments, or requests about this Privacy Policy, contact YesFi through the contact methods provided on the platform.
+We do not sell your Personal Data. We may share Personal Data with service providers that help us operate, secure, improve, or support the Services. These may include cloud hosting providers, infrastructure providers, analytics providers, email or notification providers, customer support providers, security providers, identity-verification providers, KYC / AML / sanctions-screening providers, wallet-risk and blockchain analytics providers, RPC or node providers, marketing attribution providers, legal advisers, auditors, and other professional service providers.
+
+We may also share Personal Data when we believe disclosure is necessary to comply with applicable law, respond to lawful requests, enforce our terms, protect the rights or safety of YesFi, users, service providers, or the public, investigate fraud or security incidents, or address prohibited activity.
+
+If YesFi is involved in a merger, acquisition, financing, restructuring, sale of assets, bankruptcy, or similar transaction, Personal Data may be transferred to advisers, counterparties, successors, affiliates, or other relevant parties as part of that transaction, subject to appropriate safeguards where required.
+
+We may share aggregated, anonymized, or de-identified information for business, analytics, research, transparency, reporting, or marketing purposes.
+
+We may also share information where you direct us to do so, authorize a wallet connection, connect a third-party service, participate in a campaign, request support, or otherwise provide consent.
+
+***
+
+### 6. Cookies and Similar Technologies
+
+We may use strictly necessary technologies for login, session management, security, fraud prevention, load balancing, and core functionality.
+
+We may use functional technologies to remember preferences, language settings, interface settings, region settings, and notification preferences.
+
+We may use analytics technologies to understand traffic, page usage, feature engagement, product performance, and error patterns.
+
+Where permitted by law, we may use attribution and marketing technologies to measure campaign performance, referral activity, conversion events, and marketing effectiveness.
+
+You can manage cookies through browser settings, device settings, or any cookie controls we provide. Some features may not work properly if cookies are disabled.
+
+***
+
+### 7. Automated Processing and Risk Controls
+
+We may use automated systems, rules, models, or monitoring tools to detect account-security risks, identify suspicious or prohibited activity, screen wallet addresses, enforce restricted-region or eligibility rules, generate risk alerts, manage product or platform risk, and restrict access to certain features where required.
+
+Automated outputs may be reviewed by human operators where appropriate or where required by law.
+
+***
+
+### 8. Data Security
+
+We use reasonable technical and organizational measures designed to protect Personal Data from unauthorized access, disclosure, loss, misuse, alteration, or destruction.
+
+These measures may include access controls, encryption, permission management, audit logs, security monitoring, incident-response procedures, vendor review, and internal confidentiality controls.
+
+However, no internet transmission, blockchain interaction, wallet connection, or electronic storage method is completely secure. We cannot guarantee absolute security.
+
+You are responsible for securing your own wallet, device, private keys, seed phrases, passwords, and access credentials.
+
+***
+
+### 9. Data Retention
+
+We retain Personal Data for as long as reasonably necessary for the purposes described in this Policy.
+
+This may include retaining information to provide the Services, maintain account and support records, comply with legal, regulatory, tax, audit, KYC, AML, sanctions, or recordkeeping obligations, resolve disputes, enforce agreements, prevent fraud or abuse, and protect security and service integrity.
+
+Different categories of Personal Data may be retained for different periods depending on the nature of the information, the purpose of processing, legal requirements, and operational needs.
+
+When Personal Data is no longer needed, we may delete, anonymize, aggregate, or otherwise handle it in accordance with applicable law.
+
+Public blockchain data cannot be deleted by us.
+
+***
+
+### 10. Your Privacy Rights
+
+Depending on your location and applicable law, you may have rights regarding your Personal Data. These may include the right to access Personal Data we hold about you, correct inaccurate or incomplete information, request deletion of certain information, object to or restrict certain processing, withdraw consent where processing is based on consent, request portability of certain information, opt out of marketing communications, or request more information about how we process your information.
+
+We may need to verify your identity before responding to a privacy request.
+
+Your rights may be limited where information is needed for legal, compliance, security, fraud-prevention, dispute-resolution, or recordkeeping purposes.
+
+We cannot delete or alter public blockchain data.
+
+***
+
+### 11. International Transfers
+
+YesFi operates globally and may use infrastructure, service providers, personnel, or partners located in different countries or regions.
+
+Your Personal Data may be transferred to, stored in, or processed in jurisdictions outside your country of residence. These jurisdictions may have different data protection laws.
+
+Where required by applicable law, we will use reasonable safeguards for international transfers.
+
+***
+
+### 12. Minors
+
+The Services are not intended for individuals under 18 years old or under the legal age required to use trading, financial, or blockchain-related services in their jurisdiction.
+
+Minors may not use the Services.
+
+If we discover that we have collected Personal Data from a minor in a way that does not meet applicable legal requirements, we may delete, restrict, or anonymize that information.
+
+***
+
+### 13. Third-Party Links, Wallets, and Services
+
+The Services may contain links to or integrations with third-party websites, wallets, applications, protocols, networks, data providers, analytics providers, or other services.
+
+We are not responsible for the privacy practices, security, content, or policies of third parties.
+
+Before using a third-party service or connecting a wallet, review the relevant third-party terms and privacy policies.
+
+***
+
+### 14. Changes to This Policy
+
+We may update this Policy from time to time to reflect changes in law, technology, business operations, product features, or data practices.
+
+Updated versions will be posted on the Services. The updated version will take effect on the date stated in the policy or when otherwise notified.
+
+Your continued use of the Services after the effective date means you acknowledge the updated Policy.
+
+***
+
+### 15. Contact
+
+If you have questions, comments, or requests about this Policy, contact us at:
+
+[contact@yesfi.com](mailto:contact@yesfi.com)

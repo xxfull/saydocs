@@ -70,4 +70,4 @@ Read this section before you:
 ### Related sections
 
 * For product mechanics, see [**Insurance**](../../insurance/).
-* For coverage limits and stress scenarios, see [**Risk disclosure**](../risk-disclosure/).
+* For coverage limits and stress scenarios, see [**Risk disclosure**](../risk-disclosure.md).

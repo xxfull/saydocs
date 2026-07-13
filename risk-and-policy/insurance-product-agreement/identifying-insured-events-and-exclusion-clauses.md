@@ -37,4 +37,4 @@ The following situations commonly fall into exclusion or non-payout discussions.
 ### Related pages
 
 * [Trigger conditions](../../insurance/trigger-conditions.md)
-* [List of scenarios not covered by insurance](../risk-disclosure/list-of-scenarios-not-covered-by-insurance.md)
+* [List of scenarios not covered by insurance](/broken/pages/Ruh3rBS02nYjnFQg40sF)

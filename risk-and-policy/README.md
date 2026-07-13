@@ -42,8 +42,8 @@ They explain scope, amendments, exclusions, fees, settlement, and legal disclaim
 
 These pages explain scenarios where losses may still occur and where insurance does not apply:
 
-* [**List of scenarios not covered by insurance**](risk-disclosure/list-of-scenarios-not-covered-by-insurance.md)
-* [**Instructions for handling insufficient funds in extreme market conditions**](risk-disclosure/instructions-for-handling-insufficient-funds-in-extreme-market-conditions.md)
+* [**List of scenarios not covered by insurance**](/broken/pages/Ruh3rBS02nYjnFQg40sF)
+* [**Instructions for handling insufficient funds in extreme market conditions**](/broken/pages/7QZyavdhCcYz50nvSo7S)
 
 ***
 
