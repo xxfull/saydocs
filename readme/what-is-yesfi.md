@@ -4,7 +4,7 @@ icon: message-smile
 
 # What is YesFi
 
-YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, turbo options, and AI-powered real-time trading signals.&#x20;
+YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, turbo options, and AI-powered real-time trading signals.
 
 Built around natural language as its core interaction layer, YesFi redefines the trading experience for on-chain derivatives. **No dense charting interfaces, no complex parameter setup, no need to time the market yourself** — simply express your intent to the AI Trading Agent in conversation, browse AI-generated signals and execute with one tap, or jump straight into turbo options for instant entry. Every step is seamless, and every decision comes with clear reasoning.
 
@@ -24,20 +24,27 @@ Built around natural language as its core interaction layer, YesFi redefines the
 
 The AI trading agent guides you through every step via chat — from clarifying your intent to placing orders, adjusting positions, and reviewing risk exposure. Drawing on market data, trading signals, and your historical behavior, the agent offers entry suggestions, position-sizing strategies, and option comparisons tailored to your context. You stay in full control at all times: no action is taken without your explicit instruction or confirmation, and the agent never trades automatically on your behalf. Simply describe your direction, rough margin size, and TP/SL intent in plain language — text or voice — and the agent handles the translation into concrete, executable actions.
 
-#### **Turbo Options & Contract Signals 💎**
+#### **Options 💎**
 
-Turbo options and AI contract signals together form YesFi's core rapid-entry toolkit.
+Flash Options offer seven fixed-risk modes. Choose a market, timeframe, and outcome. Your premium is the maximum loss. Each order settles automatically at expiry.
 
-**Turbo Options**
+* [**Beats**](../trading/flash-options/beats.md)**:** Predict whether an asset price will rise or fall. A correct call receives the quoted payout.
+* [**Combo**](../trading/flash-options/moves.md)**:** Combine bullish or bearish calls for three assets. All three must be correct to win.
+* [**Moves**](<../trading/flash-options/moves (1).md>)**:** Predict the size of an asset's high-to-low price range. Direction does not matter.
+* [**Pair**](../trading/flash-options/pair.md)**:** Predict which asset in a selected pair will outperform the other.
+* [**Range**](../trading/flash-options/range.md)**:** Predict whether the settlement price will remain within a selected range.
+* [**Steps**](../trading/flash-options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
+* [**Trend**](../trading/flash-options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
 
-No complex parameters — just read the market direction and enter. Two modes available:
+#### **Contract Signals 💎**
 
-* **Snap Contract:** Choose any underlying asset and predict its price movement over a set time window. Select your premium amount, asset, and target price range to create an order. Settlement is automatic at expiry.
-* **Trend Contract:** Choose any underlying asset and predict its direction (up / down) over a set period. Hit the target move and you win the corresponding multiplier payout; miss it and your principal is lost.
+YesFi organizes real-time contract signals into three categories:
 
-**AI Contract Signals**
+* **Market news:** AI analyzes market-moving news, sentiment, and on-chain activity to identify timely trading opportunities.
+* **Technical analysis:** Signals use price action, indicators, and market structure to define potential direction, entries, and risk levels.
+* **KOL views:** Follow actionable market views from selected traders and analysts, with their historical performance records.
 
-YesFi's AI system synthesizes market sentiment and on-chain data to generate real-time trading signals, each accompanied by a strategy logic explanation and the source's historical performance record. Every signal includes a full parameter set — direction, leverage, take-profit, stop-loss — and supports one-tap execution. From signal to open position, the entire flow is seamless with zero manual configuration required.
+Every signal includes direction, leverage, take-profit, and stop-loss parameters. You can review the strategy rationale, then execute with one tap.
 
 #### Insurance features 💎
 
@@ -53,4 +60,3 @@ Beyond major crypto assets, YesFi also supports **USDC-settled perpetuals** acro
 ***
 
 If you want more detail on mechanics and parameters, continue with [**Trading**](../trading/) and [**Insurance**](../insurance/). For product progress, check [**Roadmap**](../about-sayfi/roadmap.md) and [**Product update**](../about-sayfi/product-update.md).
-
