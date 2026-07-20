@@ -111,7 +111,7 @@
       * [訂閱秒動合約資訊](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/ding-yue-miao-dong-he-yue-zi-xun.md)
       * [K 線訂閱](mian-xiang-kai-fa-zhe/api/websocket-fang-fa/k-xian-ding-yue.md)
 * [獎勵與活動](jiang-li-yu-huo-dong/README.md)
-  * [獎勵規則](jiang-li-yu-huo-dong/jiang-li-gui-ze.md)
+  * [會員成長體系](jiang-li-yu-huo-dong/jiang-li-gui-ze.md)
   * [進行中活動](jiang-li-yu-huo-dong/jin-xing-zhong-huo-dong.md)
   * [歷史活動](jiang-li-yu-huo-dong/li-shi-huo-dong.md)
   * [常見問題](jiang-li-yu-huo-dong/chang-jian-wen-ti.md)
