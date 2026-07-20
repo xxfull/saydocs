@@ -113,7 +113,7 @@
       * [Page 2](for-developers/api/websocket-methods/page-2.md)
       * [kline](for-developers/api/websocket-methods/kline.md)
 * [Rewards & Campaigns](rewards-and-campaigns/README.md)
-  * [Membership Program](rewards-and-campaigns/rewards-rules.md)
+  * [Membership program](rewards-and-campaigns/rewards-rules.md)
   * [Ongoing campaigns](rewards-and-campaigns/ongoing-campaigns.md)
   * [Historical campaigns](rewards-and-campaigns/historical-campaigns.md)
   * [FAQ](rewards-and-campaigns/faq.md)
