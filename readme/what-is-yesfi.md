@@ -28,13 +28,13 @@ The AI trading agent guides you through every step via chat — from clarifying 
 
 Flash Options offer seven fixed-risk modes. Choose a market, timeframe, and outcome. Your premium is the maximum loss. Each order settles automatically at expiry.
 
-* [**Beats**](../trading/flash-options/beats.md)**:** Predict whether an asset price will rise or fall. A correct call receives the quoted payout.
-* [**Combo**](../trading/flash-options/moves.md)**:** Combine bullish or bearish calls for three assets. All three must be correct to win.
-* [**Moves**](<../trading/flash-options/moves (1).md>)**:** Predict the size of an asset's high-to-low price range. Direction does not matter.
-* [**Pair**](../trading/flash-options/pair.md)**:** Predict which asset in a selected pair will outperform the other.
-* [**Range**](../trading/flash-options/range.md)**:** Predict whether the settlement price will remain within a selected range.
-* [**Steps**](../trading/flash-options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
-* [**Trend**](../trading/flash-options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
+* [**Beats**](../trading/options/beats.md)**:** Predict whether an asset price will rise or fall. A correct call receives the quoted payout.
+* [**Combo**](../trading/options/combo.md)**:** Combine bullish or bearish calls for three assets. All three must be correct to win.
+* [**Moves**](../trading/options/moves.md)**:** Predict the size of an asset's high-to-low price range. Direction does not matter.
+* [**Pair**](../trading/options/pair.md)**:** Predict which asset in a selected pair will outperform the other.
+* [**Range**](../trading/options/range.md)**:** Predict whether the settlement price will remain within a selected range.
+* [**Steps**](../trading/options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
+* [**Trend**](../trading/options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
 
 #### **Contract Signals 💎**
 
