@@ -4,7 +4,7 @@ icon: message-smile
 
 # What is YesFi
 
-YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, turbo options, and AI-powered real-time trading signals.
+YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, options, and AI-powered real-time trading signals.
 
 Built around natural language as its core interaction layer, YesFi redefines the trading experience for on-chain derivatives. **No dense charting interfaces, no complex parameter setup, no need to time the market yourself** — simply express your intent to the AI Trading Agent in conversation, browse AI-generated signals and execute with one tap, or jump straight into turbo options for instant entry. Every step is seamless, and every decision comes with clear reasoning.
 
