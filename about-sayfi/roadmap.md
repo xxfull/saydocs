@@ -18,7 +18,7 @@ Once available, it will help traders evaluate markets, test ideas, and act witho
 
 Explore price action through professional candlestick charts and technical indicators. Track market movements across supported assets and identify trends with greater clarity.
 
-View the [BTCUSD market chart on TradingView](https://www.tradingview.com/symbols/BTCUSD/).
+View the [BTCUSD](https://www.tradingview.com/symbols/BTCUSD/).
 
 #### Strategy testing
 
