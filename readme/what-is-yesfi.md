@@ -4,17 +4,13 @@ icon: message-smile
 
 # What is YesFi
 
-YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, lite options, insurance and AI-powered real-time trading signals.
+YesFi is the first all-asset derivatives platform bringing simplified options and perps to crypto, FX, stocks, commodities, and more.
 
-Built around natural language as its core interaction layer, YesFi redefines the trading experience for on-chain derivatives. **No dense charting interfaces, no complex parameter setup, no need to time the market yourself** — discuss your intent with the AI assistant, browse AI-generated signals, or explore turbo options. Every decision comes with clear reasoning.
+\
+Instead of exposing users to complex strike prices and traditional options jargon, YesFi turns pro-grade option strategies into intuitive products built around a few clear inputs — **Lite Options**. On the perp side, **AI Signals** surface trade ideas as one-tap positions, while opt-in, contract-based **insurance** helps users cap downside (**Zero Loss**) or enhance outcomes (**Double Profit**).
 
-***
-
-### Core concept
-
-> **One Yes, Trade All**
->
-> Express your intent in one sentence. One AI assistant supports your journey across perpetuals, short-duration options, and insurance — all in one place.
+\
+YesFi turns complex trading decisions and execution into one simple confirmation: Yes. That makes "**One Yes, Trade All**." not just a slogan, but the everyday trading experience on YesFi.
 
 ***
 
@@ -22,7 +18,7 @@ Built around natural language as its core interaction layer, YesFi redefines the
 
 #### **Options 💎**
 
-Flash Options offer seven fixed-risk modes. Choose a market, timeframe, and outcome. Your premium is the maximum loss. Each order settles automatically at expiry.
+Lite Options offer seven fixed-risk modes. Choose a market, timeframe, and outcome. Your premium is the maximum loss. Each order settles automatically at expiry.
 
 * [**Beats**](../options/beats.md)**:** Predict whether an asset price will rise or fall. A correct call receives the quoted payout.
 * [**Combo**](../options/combo.md)**:** Combine bullish or bearish calls for three assets. All three must be correct to win.
