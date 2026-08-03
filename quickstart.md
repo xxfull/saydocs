@@ -28,17 +28,17 @@ If you care about Zero Loss Insurance or Double Profit Insurance, rely on offici
 
 * **Device**: [Web app](https://trade.yesfi.com/) and mobile browsers are supported where available.
 * **Sign in**:
-  * Connect an **EVM wallet** such as MetaMask, Phantom or **social-login**.
+  * Connect an **EVM wallet** such as MetaMask or Phantom, or use **social login**.
 * **Deposit** _(optional)_:
   * Supported chains: `Ethereum`, `Base`, `BSC`, `Arbitrum`
   * Supported token: `USDC`
-* **Transfer**_(optional)_: A user can have multiple sub-accounts, with funds segregated between sub-accounts and transfers allowed between them.See [**Sub-account wallets**](trading/market-and-limit/sub-account-wallets.md) for details.
+* **Transfer** _(optional)_: You can have multiple sub-accounts. Funds remain segregated, and you can transfer funds between them. See [**Sub-account wallets**](trading/market-and-limit/sub-account-wallets.md) for details.
 
 #### 3. Browse AI Signals
 
 **AI Signals** surface trade ideas as one-tap positions. Each signal includes its direction, leverage, take-profit, stop-loss, and strategy rationale.
 
-For perpetual contract, use **AI Signals** as a reference before confirming a position. You make the final trading decision.
+For perpetual contracts, use **AI Signals** as a reference before confirming a position. You make the final trading decision.
 
 #### 4. Explore Lite Options
 
@@ -48,9 +48,9 @@ Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premiu
 
 These topics go beyond a quick intro, but every real trader should review them:
 
-* [**Options**](options/) - seven lite option modes introduction
-* [**Contracts**](trading/) - order types, position handling, pricing, and funding
-* [**Insurance**](insurance/) - Zero Loss Insurance and Double Profit Insurance
+* [**Options**](options/) — an introduction to the seven Lite Options modes
+* [**Contracts**](trading/) — order types, position handling, pricing, and funding
+* [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
 * [**FAQ**](rewards-and-campaigns/faq.md)
 
 ***
@@ -59,7 +59,7 @@ These topics go beyond a quick intro, but every real trader should review them:
 
 * **YesFi does not operate through unofficial private support requests**. Treat any request for transfers, private keys, mnemonic phrases, or paid account recovery as fraud.
 * Use **official documentation**, in-app guidance, and public community channels as your primary sources.
-* If you see claims such as **zero threshold**, **zero fees**, **guaranteed principal**, or **guaranteed profit**, verify the exact rules in the product and official docs.
+* If you see claims such as **zero threshold**, **zero fees**, **guaranteed principal**, or **guaranteed profit**, verify the exact rules in the product and official documentation.
 
 ***
 

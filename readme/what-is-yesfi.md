@@ -7,7 +7,7 @@ icon: message-smile
 YesFi is the first all-asset derivatives platform bringing simplified options and perps to crypto, FX, stocks, commodities, and more.
 
 \
-Instead of exposing users to complex strike prices and traditional options jargon, YesFi turns pro-grade option strategies into intuitive products built around a few clear inputs — **Lite Options**. On the perp side, **AI Signals** surface trade ideas as one-tap positions, while opt-in, contract-based **insurance** helps users cap downside (**Zero Loss**) or enhance outcomes (**Double Profit**).
+Instead of exposing users to complex strike prices and traditional options jargon, YesFi turns pro-grade option strategies into intuitive products built around a few clear inputs — **Lite Options**. On the perp side, **AI Signals** surface trade ideas as one-tap positions, while opt-in, contract-based **Insurance** helps users cap downside (**Zero Loss**) or enhance outcomes (**Double Profit**).
 
 \
 YesFi turns complex trading decisions and execution into one simple confirmation: Yes. That makes "**One Yes, Trade All**." not just a slogan, but the everyday trading experience on YesFi.

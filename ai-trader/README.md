@@ -6,7 +6,7 @@ metaLinks:
 
 # AI assistant
 
-YesFi supports **natural-language interaction**. You do not need to memorize every trading term first. You can express intent as you would to an AI assistant. The AI assistant provides market analysis, account information, and clear options.
+YesFi supports **natural-language interaction**. You do not need to memorize every trading term first. You can express intent as you would when speaking with an AI assistant. The AI assistant provides market analysis, account information, and clear options.
 
 This page gives **reference phrasing and keywords**. It is not a strict command language.
 
