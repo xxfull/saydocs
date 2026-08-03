@@ -13,39 +13,75 @@ metaLinks:
 
 {% updates format="full" %}
 {% update date="2026-08-03" %}
-## 1.0.8
+## 1.0.8.2
 
-* Added a local options paper-trading environment for Trend, Moves, Range, Steps, Pair, and Combo. It includes a virtual balance, order placement, and settlement.
-* Added **Add to Home Screen** guidance for iOS, Android, Telegram, and WeChat.
-* Added SEO-ready multilingual routes, page metadata, `robots`, and a sitemap. Crawlers and visitors without JavaScript now receive readable first-screen content.
-* Added top-level market categories for crypto, stocks, indices, commodities, and FX. Asset search now matches English, Simplified Chinese, Traditional Chinese, and Japanese names.
-* Added a daily cumulative PnL curve with zero-filled dates, business-type aggregation, and tab-specific guidance.
-* Added staged listing support for 54 stocks, ETFs, FX pairs, indices, and crypto assets. Assets become available gradually by release batch.
-* Added a controlled asset-delisting workflow. It stops new trades, cancels related orders and insurance, closes positions, and clears linked state.
-* Added maximum-notional validation by leverage tier. Oversized market and limit orders now return clearer errors.
-* Began migrating to the TradingView charting engine. The first release saves layouts locally and shows position, order, TP, SL, and liquidation lines.
-* Improved same-origin chart loading and prefetching. Fixed candle gaps, OHLC data overwrites, and hidden time axes in fullscreen mode.
-* Improved the desktop options experience with product introductions, adaptive Y-axes, compact trade panels, and clearer tier names.
-* Improved processing throughput across Admin, Explorer, and WebSocket events.
+* Added staged listing support for 54 stocks, ETFs, FX pairs, indices, and crypto assets. This includes AMAT, ARM, ASML, QQQ, SPY, GLD, GBP, JP225, MINIMAX, and ZHIPU. Availability follows release batches.
+* Improved TradingView usability with local layout persistence, interval mapping, and position, order, TP, SL, and liquidation lines.
+* Improved the TradingView datafeed and candle-session management. Charts now behave consistently across market, mobile trading, and options pages.
+* Added product-introduction dialogs, adaptive Y-axes, and tier names to desktop options. Compacted the right trading panel and fixed Range-option position bubbles.
+* Defaulted options to lower or nearby tiers. Market charts now default to the daily interval.
+* Fixed option-price and payout precision, Pair payout mapping, desktop type-bar height, and duplicate bottom spacing.
+* Fixed SEO first-screen flickering. Updated asset-information and paper-trading copy.
+* Added an entry point for the tech log.
 {% endupdate %}
 
-{% update date="2026-07-22" %}
+{% update date="2026-08-01" %}
+## 1.0.8.1
+
+* Added local options paper trading for Trend, Moves, Range, Steps, Pair, and Combo. It includes virtual balances, orders, positions, and settlement.
+* Added top-level market categories for crypto, stocks, indices, commodities, and FX. Fixed the Combo paper-trading switcher and Legal links.
+* Asset search now matches English, Simplified Chinese, Traditional Chinese, and Japanese names. The Current Positions tab now shows open quantities.
+* Added SEO-ready multilingual routes, page metadata, `robots`, and a sitemap. Crawlers and visitors without JavaScript now receive readable first-screen content.
+* Added **Add to Home Screen** guidance for iOS, Android, Telegram, WeChat, and browser-native installation.
+* Added a `penalty` liquidation charge to daily PnL and position-close events. Daily PnL now includes fees and liquidation costs.
+* Added `total_pnl` to position-close and asset-delisting ledger broadcasts. Downstream consumers now receive the complete PnL for each action.
+* Included opening fees in daily PnL when positions fully close. Unified daily-PnL cursor naming and retrieval.
+* Improved WebSocket funding-fee event processing. This prevents funding-fee spikes from delaying user-ledger pushes.
+* Improved Charting Library preloading, caching, and same-origin loading. This reduces first-chart load times.
+{% endupdate %}
+
+{% update date="2026-07-27" %}
+## 1.0.8
+
+* Added a daily cumulative PnL curve with zero-filled dates, business-type aggregation, and tab-specific tooltips.
+* Updated the daily-PnL API to query by the `address` parameter. Added aggregation by business type.
+* Added real-time daily-PnL processing, fallback ETL, and 30-day backfills for perpetuals, seven option types, and insurance.
+* Added a controlled asset-delisting workflow. It stops trading, closes orders and positions, cancels insurance, completes delisting, and clears Redis state.
+* Added forced settlement when option prices remain unavailable beyond the timeout. Loss settlements now trigger alerts.
+* Added maximum-notional validation by leverage tier.
+* Began integrating TradingView Charting Library.
+* Fixed candle gaps, OHLC data overwrites, and hidden time axes in fullscreen mode.
+* Improved closed-position history queries by prefetching opening fills. Removed per-row correlated subqueries, improved database throughput, and removed redundant indexes.
+* Migrated Admin logging to go-kit. Logging and runtime configuration now use a unified structure.
+{% endupdate %}
+
+{% update date="2026-07-21" %}
+## 1.0.7.1
+
+* Split position margin into user margin, bonus-voucher margin, and total margin. Added voucher usage, recovery, and opening snapshots.
+* Simplified deposit details in Explorer. `DEPOSIT` entries no longer show an irrelevant **To** row.
+* Renamed the Explorer **From** column to **Address**. This avoids ambiguity for deposits, withdrawals, and transfers.
+* Explorer no longer shows empty rows or empty JSON when Extra Data has no valid fields.
+* Unified copy across YesFi products, the task center, insurance, and empty states. Corrected strategy descriptions.
+* Updated the invitation page to use a unified invitation-code field. Adjusted task thresholds and progress copy.
+{% endupdate %}
+
+{% update date="2026-07-14" %}
 ## 1.0.7
 
 * Added bonus vouchers. They can offset opening fees, margin, insurance premiums, losses, closing fees, and funding fees.
-* Split position margin into user margin, bonus-voucher margin, and total margin. Added voucher usage and recovery snapshots.
 * Updated partial-close release order. Losses release voucher offsets first, while profits release user margin first.
-* Updated insurance quotes to use user margin. Risk and liquidation calculations continue to use total margin.
-* Added the `account` WebSocket topic, ws-hub multiplex delivery, batched Oracle updates, and multi-pair ticker aggregation.
-* Added in-process Beats pricing and multi-tier warnings near liquidation. This reduces independent services and duplicate pushes.
-* Replaced manually selected Combo assets with predefined combinations. Refined tiers and payout models for Range, Moves, Steps, and Pair.
-* Upgraded charts with technical indicators, drawing tools, fullscreen mode, logarithmic scales, countdowns, and second-level intervals.
-* Rebuilt the signals page, desktop trading area, and options explanation flow. Improved Moves zone animations and tier interactions.
+* Prioritized vouchers for partial-close fees, liquidation penalties, and funding fees.
+* Updated insurance quotes to use user margin. Risk, liquidation price, and position safety calculations continue to use total margin.
+* Added an optional `category` field to `/exchange/symbols` for market classification and filtering.
+* Added the `account` WebSocket topic. It unifies balance, position, and ledger updates, replacing the legacy ledger topic over time.
+* Added ws-hub multiplex delivery, batched Oracle updates, multi-pair ticker aggregation, and symbol-based candle refreshes.
+* Added in-process Beats pricing, multi-tier warnings near liquidation, and a funding-fee user feed. This reduces independent services and duplicate pushes.
+* Replaced manually selected Combo assets with predefined combinations. Range now supports multiple profitable intervals. Refined tiers and payout models for Moves, Steps, and Pair.
+* Upgraded charts with technical indicators, drawing tools, fullscreen mode, logarithmic scales, countdowns, second-level intervals, and mobile indicators.
+* Rebuilt the signals page, desktop trading area, and options explanation flow. Improved Moves zone rulers, animations, and tier interactions.
 * Added YFV Payment, YFV Receive, and formatted Extra Data in Explorer. Option details now use consistent percentages, payouts, and multi-value displays.
-* Fixed incorrect signs on non-transfer amounts, redundant deposit details, and unclear address column labels in Explorer.
-* Fixed withdrawal records, duplicate `data` responses, empty account addresses, route prefixes, and buy-position liquidation prices.
-* Fixed recipient addresses in transfer pushes and subscription or payout issues for Combo, Pair, Moves, and Range.
-* Added Kraken as a market-data source, price ordering, and delisting monitoring.
+* Added Kraken as a market-data source, price ordering, and asset-delisting monitoring.
 {% endupdate %}
 
 {% update date="2026-06-16" %}
