@@ -17,10 +17,11 @@ metaLinks:
 
 * Added staged listing support for 54 stocks, ETFs, FX pairs, indices, and crypto assets. This includes AMAT, ARM, ASML, QQQ, SPY, GLD, GBP, JP225, MINIMAX, and ZHIPU. Availability follows release batches.
 * Improved TradingView usability with local layout persistence, interval mapping, and position, order, TP, SL, and liquidation lines.
-* Improved the TradingView datafeed and candle-session management. Charts now behave consistently across market, mobile trading, and options pages.
+* Improved the TradingView data-feed and candle-session management. Charts now behave consistently across market, mobile trading, and options pages.
 * Added product-introduction dialogs, adaptive Y-axes, and tier names to desktop options. Compacted the right trading panel and fixed Range-option position bubbles.
-* Defaulted options to lower or nearby tiers. Market charts now default to the daily interval.
-* Fixed option-price and payout precision, Pair payout mapping, desktop type-bar height, and duplicate bottom spacing.
+* Defaulted options to lower or nearby tiers.&#x20;
+* Market charts now default to the daily interval.
+* Fixed option-price and payout precision, Pair payout mapping
 * Fixed SEO first-screen flickering. Updated asset-information and paper-trading copy.
 * Added an entry point for the tech log.
 {% endupdate %}
@@ -29,8 +30,10 @@ metaLinks:
 ## 1.0.8.1
 
 * Added local options paper trading for Trend, Moves, Range, Steps, Pair, and Combo. It includes virtual balances, orders, positions, and settlement.
-* Added top-level market categories for crypto, stocks, indices, commodities, and FX. Fixed the Combo paper-trading switcher and Legal links.
-* Asset search now matches English, Simplified Chinese, Traditional Chinese, and Japanese names. The Current Positions tab now shows open quantities.
+* Added top-level market categories for crypto, stocks, indices, commodities, and FX.&#x20;
+* Fixed the Combo paper-trading switcher and Legal links.
+* Asset search now matches English, Simplified Chinese, Traditional Chinese, and Japanese names.&#x20;
+* The Current Positions tab now shows open quantities.
 * Added SEO-ready multilingual routes, page metadata, `robots`, and a sitemap. Crawlers and visitors without JavaScript now receive readable first-screen content.
 * Added **Add to Home Screen** guidance for iOS, Android, Telegram, WeChat, and browser-native installation.
 * Added a `penalty` liquidation charge to daily PnL and position-close events. Daily PnL now includes fees and liquidation costs.
