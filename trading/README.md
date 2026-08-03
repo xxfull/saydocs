@@ -55,6 +55,6 @@ Explains trading fees, slippage-related execution logic, and liquidation-penalty
 
 ### Core principles
 
-* SayFi uses **USDC-settled perpetuals** with **isolated margin**.
+* F1i uses **USDC-settled perpetuals** with **isolated margin**.
 * Mark price drives risk checks, unrealized PnL, funding, and liquidation logic.
 * The assistant helps you express intent, but you still confirm sensitive trading actions.
