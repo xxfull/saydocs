@@ -34,26 +34,23 @@ If you care about Zero Loss Insurance or Double Profit Insurance, rely on offici
   * Supported token: `USDC`
 * **Transfer**_(optional)_: A user can have multiple sub-accounts, with funds segregated between sub-accounts and transfers allowed between them.See [**Sub-account wallets**](trading/market-and-limit/sub-account-wallets.md) for details.
 
-#### 3. AI Signals
+#### 3. Browse AI Signals
 
 **AI Signals** surface trade ideas as one-tap positions. Each signal includes its direction, leverage, take-profit, stop-loss, and strategy rationale.
 
-For perpetual ,1 use **AI Signals** as a reference before confirming a position. You make the final trading decision.
+For perpetual contract, use **AI Signals** as a reference before confirming a position. You make the final trading decision.
 
-* **Important**: Always confirm actions in the interface before execution.
-* Never send your **private key** or **mnemonic phrase** to anyone.
+#### 4. Explore Lite Options
 
-#### 4. Explore signals and options
-
-* **Contract signals:** Browse real-time signals based on market news, technical analysis, and selected trader views. Each signal shows its direction, leverage, take-profit, stop-loss, and strategy rationale. Review the details, then execute with one tap.
-* **Flash Options:** Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premium is the maximum loss. Each order settles automatically at expiry.
+Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premium is the maximum loss. Each order settles automatically at expiry.
 
 #### 5. Open the deeper docs when you need them
 
 These topics go beyond a quick intro, but every real trader should review them:
 
-* [**Trading**](trading/) — order types, position handling, pricing, and funding
-* [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
+* [**Options**](options/) - seven lite option modes introduction
+* [**Contracts**](trading/) - order types, position handling, pricing, and funding
+* [**Insurance**](insurance/) - Zero Loss Insurance and Double Profit Insurance
 * [**FAQ**](rewards-and-campaigns/faq.md)
 
 ***
