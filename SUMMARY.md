@@ -15,7 +15,7 @@
   * [Range](options/range.md)
   * [Steps](options/steps.md)
   * [Trend](options/trend.md)
-* [Trading](trading/README.md)
+* [Contracts](trading/README.md)
   * [Market & Limit](trading/market-and-limit/README.md)
     * [CFD overview](trading/market-and-limit/cfd-overview.md)
     * [Pricing](trading/market-and-limit/pricing.md)

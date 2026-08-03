@@ -4,9 +4,9 @@ metaLinks:
     - https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/jiao-yi
 ---
 
-# Trading
+# Contracts
 
-This section explains how trading works on SayFi.
+This section explains how trading works on YesFi.
 
 Use it to understand pricing, order behavior, margin, funding, liquidation, and fees before you trade real size.
 
@@ -16,7 +16,7 @@ Use it to understand pricing, order behavior, margin, funding, liquidation, and 
 
 #### [CFD overview](market-and-limit/cfd-overview.md)
 
-Explains the product model behind SayFi perpetuals:
+Explains the product model behind YesFi perpetuals:
 
 #### [Pricing](market-and-limit/pricing.md)
 
@@ -55,6 +55,6 @@ Explains trading fees, slippage-related execution logic, and liquidation-penalty
 
 ### Core principles
 
-* F1i uses **USDC-settled perpetuals** with **isolated margin**.
+* YesFi uses **USDC-settled perpetuals** with **isolated margin**.
 * Mark price drives risk checks, unrealized PnL, funding, and liquidation logic.
 * The assistant helps you express intent, but you still confirm sensitive trading actions.
