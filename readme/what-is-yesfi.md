@@ -4,9 +4,9 @@ icon: message-smile
 
 # What is YesFi
 
-YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, options, and AI-powered real-time trading signals.
+YesFi is a next-generation AI-native on-chain exchange combining perpetual contracts, lite options, insurance and AI-powered real-time trading signals.
 
-Built around natural language as its core interaction layer, YesFi redefines the trading experience for on-chain derivatives. **No dense charting interfaces, no complex parameter setup, no need to time the market yourself** — simply express your intent to the AI Trading Agent in conversation, browse AI-generated signals and execute with one tap, or jump straight into turbo options for instant entry. Every step is seamless, and every decision comes with clear reasoning.
+Built around natural language as its core interaction layer, YesFi redefines the trading experience for on-chain derivatives. **No dense charting interfaces, no complex parameter setup, no need to time the market yourself** — discuss your intent with the AI assistant, browse AI-generated signals, or explore turbo options. Every decision comes with clear reasoning.
 
 ***
 
@@ -14,15 +14,11 @@ Built around natural language as its core interaction layer, YesFi redefines the
 
 > **One Yes, Trade All**
 >
-> No need to pick assets or strategies. No need to understand any underlying parameters. Whether you're following an AI signal to execute a contract order or entering a turbo option in seconds, users of any experience level simply say Yes to the AI Agent's proposed action — and the complete position lifecycle, from opening and adjusting to take-profit and stop-loss, is handled by AI.
+> Express your intent in one sentence. One AI assistant supports your journey across perpetuals, short-duration options, and insurance — all in one place.
 
 ***
 
 ### What you get in YesFi
-
-#### AI trading agent 💎
-
-The AI trading agent guides you through every step via chat — from clarifying your intent to placing orders, adjusting positions, and reviewing risk exposure. Drawing on market data, trading signals, and your historical behavior, the agent offers entry suggestions, position-sizing strategies, and option comparisons tailored to your context. You stay in full control at all times: no action is taken without your explicit instruction or confirmation, and the agent never trades automatically on your behalf. Simply describe your direction, rough margin size, and TP/SL intent in plain language — text or voice — and the agent handles the translation into concrete, executable actions.
 
 #### **Options 💎**
 
@@ -44,7 +40,7 @@ YesFi organizes real-time contract signals into three categories:
 * **Technical analysis:** Signals use price action, indicators, and market structure to define potential direction, entries, and risk levels.
 * **KOL views:** Follow actionable market views from selected traders and analysts, with their historical performance records.
 
-Every signal includes direction, leverage, take-profit, and stop-loss parameters. You can review the strategy rationale, then execute with one tap.
+Every signal includes direction, leverage, take-profit, and stop-loss parameters. Review the strategy rationale before making your own trading decision.
 
 #### Insurance features 💎
 
@@ -53,9 +49,13 @@ Every signal includes direction, leverage, take-profit, and stop-loss parameters
 
 > Premiums, trigger conditions, and refund rules are governed solely by the confirmation page at the time of purchase and official documentation. Do not rely on any unofficial claims from third-party sources.
 
+#### AI assistant 💎
+
+The AI assistant helps you explore markets through chat. It uses market data, trading signals, and your historical behavior to provide trade ideas, risk context, position-sizing guidance, and option comparisons. Describe your market view, rough margin size, and TP/SL intent in plain language — text or voice — to receive relevant analysis and explanations.
+
 #### USDC perpetuals across multiple asset classes
 
-Beyond major crypto assets, YesFi also supports **USDC-settled perpetuals** across precious metals, energy, FX, indices, and commodities. Supported markets depend on the live platform listing. You can ask the AI agent which symbols are currently available.
+Beyond major crypto assets, YesFi also supports **USDC-settled perpetuals** across precious metals, energy, FX, indices, and commodities. Supported markets depend on the live platform listing. Ask the AI assistant which symbols are currently available.
 
 ***
 

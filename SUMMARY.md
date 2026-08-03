@@ -4,7 +4,7 @@
   * [What is SayFi?](about-sayfi/what-is-sayfi.md)
   * [What is YesFi](readme/what-is-yesfi.md)
   * [Roadmap](about-sayfi/roadmap.md)
-  * [Product update](about-sayfi/product-update.md)
+  * [Tech Log](about-sayfi/product-update.md)
 * [QuickStart（sayfi）](quickstart.md)
 * [QuickStart](quickstart-1.md)
 * [Options](options/README.md)
