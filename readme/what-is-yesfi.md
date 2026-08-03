@@ -55,4 +55,4 @@ Beyond major crypto assets, YesFi also supports **USDC-settled perpetuals** acro
 
 ***
 
-If you want more detail on mechanics and parameters, continue with [**Trading**](../trading/) and [**Insurance**](../insurance/). For product progress, check [**Roadmap**](../about-sayfi/roadmap.md) and [**Product update**](../about-sayfi/product-update.md).
+If you want more detail on mechanics and parameters, continue with [**Trading**](../contracts/) and [**Insurance**](../insurance/). For product progress, check [**Roadmap**](../about-sayfi/roadmap.md) and [**Product update**](tech-log.md).

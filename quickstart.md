@@ -32,7 +32,7 @@ If you care about Zero Loss Insurance or Double Profit Insurance, rely on offici
 * **Deposit** _(optional)_:
   * Supported chains: `Ethereum`, `Base`, `BSC`, `Arbitrum`
   * Supported token: `USDC`
-* **Transfer** _(optional)_: You can have multiple sub-accounts. Funds remain segregated, and you can transfer funds between them. See [**Sub-account wallets**](trading/market-and-limit/sub-account-wallets.md) for details.
+* **Transfer** _(optional)_: You can have multiple sub-accounts. Funds remain segregated, and you can transfer funds between them. See [**Sub-account wallets**](contracts/market-and-limit/sub-account-wallets.md) for details.
 
 #### 3. Browse AI Signals
 
@@ -49,9 +49,9 @@ Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premiu
 These topics go beyond a quick intro, but every real trader should review them:
 
 * [**Options**](options/) — an introduction to the seven Lite Options modes
-* [**Contracts**](trading/) — order types, position handling, pricing, and funding
+* [**Contracts**](contracts/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
-* [**FAQ**](rewards-and-campaigns/faq.md)
+* [**FAQ**](membership-and-campaigns/faq.md)
 
 ***
 
@@ -65,8 +65,8 @@ These topics go beyond a quick intro, but every real trader should review them:
 
 ### Section map
 
-| Page                                              | Best for                                       |
-| ------------------------------------------------- | ---------------------------------------------- |
-| [What is YesFi?](readme/what-is-yesfi.md)         | Understanding the product model and its limits |
-| [Prompt reference](ai-trader/prompt-reference.md) | Finding example prompts for chat-based trading |
-| [API](for-developers/api/)                        | Integrating with the platform as a developer   |
+| Page                                                 | Best for                                       |
+| ---------------------------------------------------- | ---------------------------------------------- |
+| [What is YesFi?](readme/what-is-yesfi.md)            | Understanding the product model and its limits |
+| [Prompt reference](ai-assistant/prompt-reference.md) | Finding example prompts for chat-based trading |
+| [API](for-developers/api/)                           | Integrating with the platform as a developer   |
