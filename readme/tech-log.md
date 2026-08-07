@@ -12,6 +12,21 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-08-07" %}
+## 1.8.3
+
+* Fixed Explorer amount formatting, transaction narratives, and component structure. Improved Facebook share previews.
+* Corrected **Today's PnL** on the Assets page. It now includes realized PnL across all businesses and unrealized PnL from open contracts.
+* Unified the cumulative PnL curve with account-overview data. It now refreshes immediately after `account` WebSocket updates.
+* Refined daily-PnL refresh triggers. Filters now ignore unrelated accounts, duplicate events, and legacy frames.
+* Option candle intervals now adapt to the exercise window. Range keeps the selected interval and dims other tiers.
+* Fixed reconnect wicks, unrecoverable page charts, and liquidation-line colors that caused blank TradingView charts.
+* Fixed **Add to Home Screen** appearing in installed PWAs. Expanded iOS Chrome installation guidance to three steps.
+* Updated invitation rewards to reflect long-term rules. Added same-device and same-IP risk notices, plus invitation review statuses.
+* Distinguished bonus-voucher types in blind-box results. Fixed weekly voucher counts, equity fallbacks, and unboxing modal interactions.
+* Improved frozen-state displays, first-deposit copy, Burst modal triggers, and option product names.
+{% endupdate %}
+
 {% update date="2026-08-03" %}
 ## 1.0.8.2
 
@@ -19,7 +34,7 @@ metaLinks:
 * Improved TradingView usability with local layout persistence, interval mapping, and position, order, TP, SL, and liquidation lines.
 * Improved the TradingView data-feed and candle-session management. Charts now behave consistently across market, mobile trading, and options pages.
 * Added product-introduction dialogs, adaptive Y-axes, and tier names to desktop options. Compacted the right trading panel and fixed Range-option position bubbles.
-* Defaulted options to lower or nearby tiers.&#x20;
+* Defaulted options to lower or nearby tiers.
 * Market charts now default to the daily interval.
 * Fixed option-price and payout precision, Pair payout mapping
 * Fixed SEO first-screen flickering. Updated asset-information and paper-trading copy.
@@ -30,9 +45,9 @@ metaLinks:
 ## 1.0.8.1
 
 * Added local options paper trading for Trend, Moves, Range, Steps, Pair, and Combo. It includes virtual balances, orders, positions, and settlement.
-* Added top-level market categories for crypto, stocks, indices, commodities, and FX.&#x20;
+* Added top-level market categories for crypto, stocks, indices, commodities, and FX.
 * Fixed the Combo paper-trading switcher and Legal links.
-* Asset search now matches English, Simplified Chinese, Traditional Chinese, and Japanese names.&#x20;
+* Asset search now matches English, Simplified Chinese, Traditional Chinese, and Japanese names.
 * The Current Positions tab now shows open quantities.
 * Added SEO-ready multilingual routes, page metadata, `robots`, and a sitemap. Crawlers and visitors without JavaScript now receive readable first-screen content.
 * Added **Add to Home Screen** guidance for iOS, Android, Telegram, WeChat, and browser-native installation.
