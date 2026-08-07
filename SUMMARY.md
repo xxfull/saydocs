@@ -2,5 +2,5 @@
 
 ## Basics
 
-* [YesFi Chain Explorer](README.md)
-* [Integrations](basics/integrations.md)
+* [Integrations](README.md)
+* [YesFi Chain Explorer](<README (1).md>)
