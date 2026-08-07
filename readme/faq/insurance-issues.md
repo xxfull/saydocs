@@ -2,6 +2,7 @@
 description: >-
   This page answers common questions about YesFi trading insurance (Revival /
   Double-up), not the same as bank-style “buy insurance for wealth management.”
+hidden: true
 metaLinks:
   alternates:
     - >-

@@ -3,6 +3,7 @@ description: >-
   This page covers withdrawing from YesFi to your wallet, fees, and common
   failures. Withdrawals are on-chain; outcome depends on chain confirmation and
   correct recipient details.
+hidden: true
 metaLinks:
   alternates:
     - >-

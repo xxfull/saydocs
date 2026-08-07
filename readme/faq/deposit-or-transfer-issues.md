@@ -2,6 +2,7 @@
 description: >-
   This page covers depositing USDC (and supported assets) into YesFi, transfers
   between sub-accounts, and balance not updating.
+hidden: true
 metaLinks:
   alternates:
     - >-
