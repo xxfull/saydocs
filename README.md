@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: window
 cover: .gitbook/assets/yesfichain.png
 coverY: 0
