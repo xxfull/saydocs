@@ -15,7 +15,6 @@ metaLinks:
 {% update date="2026-08-07" %}
 ## 1.0.8.3
 
-* Fixed Explorer amount formatting, transaction narratives, and component structure. Improved Facebook share previews.
 * Corrected **Today's PnL** on the Assets page. It now includes realized PnL across all businesses and unrealized PnL from open contracts.
 * Unified the cumulative PnL curve with account-overview data. It now refreshes immediately after `account` WebSocket updates.
 * Refined daily-PnL refresh triggers. Filters now ignore unrelated accounts, duplicate events, and legacy frames.
