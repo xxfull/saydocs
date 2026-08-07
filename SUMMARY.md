@@ -127,4 +127,3 @@
   * [Risk disclosure](risk-and-policy/risk-disclosure.md)
   * [Privacy Policy](risk-and-policy/privacy-policy.md)
   * [Terms of Service](risk-and-policy/terms-of-service.md)
-* [FAQ](faq.md)
