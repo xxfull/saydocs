@@ -1,7 +1,4 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1775150031279-bbc6baa49194?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczMDA0MzN8&ixlib=rb-4.1.0&q=85
-coverY: 0
 metaLinks: {}
 ---
 
