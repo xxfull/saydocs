@@ -51,7 +51,7 @@ These topics go beyond a quick intro, but every real trader should review them:
 * [**Options**](options/) — an introduction to the seven Lite Options modes
 * [**Contracts**](contracts/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
-* [**FAQ**](membership-and-campaigns/faq.md)
+* [**FAQ**](faq.md)
 
 ***
 

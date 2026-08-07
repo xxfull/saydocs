@@ -114,7 +114,6 @@
   * [Membership program](membership-and-campaigns/membership-program.md)
   * [Ongoing campaigns](membership-and-campaigns/ongoing-campaigns.md)
   * [Historical campaigns](membership-and-campaigns/historical-campaigns.md)
-  * [FAQ](membership-and-campaigns/faq.md)
 * [Risk & Policy](risk-and-policy/README.md)
   * [User operation](risk-and-policy/user-operation/README.md)
     * [Private Key and Mnemonic Phrase Management Tips](risk-and-policy/user-operation/private-key-and-mnemonic-phrase-management-tips.md)
@@ -128,3 +127,4 @@
   * [Risk disclosure](risk-and-policy/risk-disclosure.md)
   * [Privacy Policy](risk-and-policy/privacy-policy.md)
   * [Terms of Service](risk-and-policy/terms-of-service.md)
+* [FAQ](faq.md)
