@@ -13,7 +13,7 @@ metaLinks:
 
 {% updates format="full" %}
 {% update date="2026-08-07" %}
-## 1.8.3
+## 1.0.8.3
 
 * Fixed Explorer amount formatting, transaction narratives, and component structure. Improved Facebook share previews.
 * Corrected **Today's PnL** on the Assets page. It now includes realized PnL across all businesses and unrealized PnL from open contracts.
