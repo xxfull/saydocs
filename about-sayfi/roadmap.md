@@ -1,5 +1,6 @@
 ---
 description: Planned TradingView integration for more capable market analysis.
+hidden: true
 icon: arrow-trend-up
 metaLinks:
   alternates:
