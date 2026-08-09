@@ -11,7 +11,7 @@ We are thrilled to announce that from now until **August 31, 24:00 (UTC)**, YesF
 
 During this period, we will be stress-testing our platform—including **Quick Options**, **Signal Feed**, and the **Matching Engine**—under live market-making conditions. To ensure absolute system security and financial integrity for our upcoming Mainnet Launch, please review the following rules:
 
-* **Trading Assets & PnL Reset**: All open positions, as well as unrealized and realized PnL accumulated during the Beta period, will be cleared and reset on **August 31 at 24:00 (UTC)**. Your initial deposited principal remains 100% safe and unaffected, and can be withdrawn at any time.
+* **Trading Assets & PnL Reset**: All open positions, as well as unrealized and realized PnL accumulated during the Beta period, could be cleared and reset at any time before **August 31 24:00(UTC)**. Your initial deposited principal remains 100% safe and unaffected, and can be withdrawn at any time.
 * **Permanently Retained Rewards**: All **Membership Levels** and **Y Points** earned during the Beta phase will be **100% permanently retained**! As a tribute to our early Genesis contributors, your status and points will directly map to your weekly reward distribution (Option & Insurance Vouchers) weight upon the official Mainnet Launch.
 
 Thank you to every pioneer evolving with YesFi.
