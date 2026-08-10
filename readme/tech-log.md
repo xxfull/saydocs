@@ -28,7 +28,7 @@ Thank you to every pioneer evolving with YesFi.
 
 {% updates format="full" %}
 {% update date="2026-08-10" %}
-## 1.0.8.4
+## 1.0.9
 
 * Integrated the YesFi Block Explorer into the main site. Search transaction hashes, wallet addresses, and block heights without leaving YesFi.
 * Added latest transactions, automatic refresh, business-type filters, and cursor pagination to the Explorer home page.
