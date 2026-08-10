@@ -27,6 +27,21 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-08-10" %}
+## 1.0.8.4
+
+* Integrated the YesFi Block Explorer into the main site. Search transaction hashes, wallet addresses, and block heights without leaving YesFi.
+* Added latest transactions, automatic refresh, business-type filters, and cursor pagination to the Explorer home page.
+* Added transaction details with natural-language descriptions for opening and closing positions, transfers, deposits, withdrawals, funding fees, insurance, and option settlements.
+* Added methods, parameters, display events, and asset flows to transaction details. Also added price labels, fees, PnL, penalties, premiums, payouts, and other key fields.
+* Added address details with account balances, transaction counts, first and latest activity, and a 30-day operation-type distribution.
+* Added block details with synthetic block and parent hashes, a fixed status, configured validator names, distinct traders, recorded amounts, and operation distribution. These fields do not represent L1 consensus data.
+* Added Explorer API endpoints for block overviews, Action Mix, address overviews, address operation statistics, and transaction display projections. Business groupings are now unified.
+* Added validation for Explorer search input, block-height, cursor, and business-filter parameters. Added display-address and validator configuration. Invalid configuration now fails at startup.
+* Added a restricted Explorer reverse proxy and route SEO configuration to the main site. Transaction-hash links now open in-app by default.
+* Fixed Explorer amount formatting, transaction narratives, and component structure. Improved Facebook sharing previews.
+{% endupdate %}
+
 {% update date="2026-08-07" %}
 ## 1.0.8.3
 
