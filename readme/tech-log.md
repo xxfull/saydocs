@@ -27,6 +27,22 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-08-14" %}
+## 1.0.9.1
+
+* Added **On-chain Withdrawal** and **Internal Transfer** tabs to the withdrawal modal. Users can now transfer USDC to another platform user's address instantly, with no on-chain fee.
+* Added real-time recipient validation for platform account addresses. Clear messages now cover unregistered accounts, system errors, and self-transfers.
+* Rebuilt the internal account-transfer modal. Separate desktop and mobile components improve account selection and amount entry.
+* Standardized internal-transfer copy as **Transfer**. Added clearer guidance for recipient addresses, main accounts, and the USDC contract.
+* Improved counterparty address displays in transaction lists and details. Deposits, withdrawals, transfers, and insurance are now identified more accurately.
+* Added a explorer back button, inline in-app links, and safe-area support. Fixed mobile header overlap and navigation issues.
+* Transaction-detail **Interaction With** now supports protocol addresses and readable names. Refined the operation-distribution donut chart.
+* Added operational announcements to the notification center. Announcements support their own category, detail pages, and controlled deep links.
+* Excluded insurance from daily PnL calculations. Removed historical insurance summary rows.
+* Improved paper trading with Moves volatility-tier previews and candlestick watermarks. Fixed Beats boundary logic, second-level candlestick sampling, grid proportions, and header entry jitter.
+* Fixed Moves volatility-tier percentages and bar heights.
+{% endupdate %}
+
 {% update date="2026-08-10" %}
 ## 1.0.9
 
