@@ -27,6 +27,22 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-08-18" %}
+## 1.0.9.2
+
+* Migrated social login and signing from Particle to Eocene. Embedded wallets continue to use Particle ConnectKit.
+* Added a Particle-to-Eocene asset migration flow. Fixed wallet-address rendering and tamper protection on the migration page. Updated the footer.
+* Updated Steps-option settlement to use the European-style expiry price. Tiers now use the expiry close against the entry price. Opening odds remain fixed. Intraperiod highs no longer lock a higher tier.
+* Prevented Beats-option price updates from rerendering the full React page. This reduces stutter during high-frequency quotes.
+* Tightened option quote slots  for desktop. Price changes now use red and green backgrounds. Asset-selector hover no longer covers prices. Transparent logos now have white backgrounds.
+* Exported share images in the active theme. Preview and export now match. Copy-button icons no longer shift with label changes.
+* Changed desktop dialogs from bottom sheets to centered modals.
+* Defaulted two-minute option charts to a five-second candlestick interval.
+* Removed exercise income from the Moves-option position table. Position tables now scroll horizontally. Fixed empty transaction-hash displays.
+* Android **Add to Home Screen** now shows a guide image before the system prompt. Added a Service Worker to meet installation requirements.
+* Updated the iOS home-screen banner to use **Add**. Raised the insurance-calculator asset selector to prevent overlap.
+{% endupdate %}
+
 {% update date="2026-08-14" %}
 ## 1.0.9.1
 
