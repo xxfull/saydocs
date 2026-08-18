@@ -28,7 +28,7 @@ Thank you to every pioneer evolving with YesFi.
 
 {% updates format="full" %}
 {% update date="2026-08-18" %}
-## 1.0.9.2
+## 1.1.0
 
 * Migrated social login and signing from Particle to Eocene. Embedded wallets continue to use Particle ConnectKit.
 * Added a Particle-to-Eocene asset migration flow. Fixed wallet-address rendering and tamper protection on the migration page. Updated the footer.
