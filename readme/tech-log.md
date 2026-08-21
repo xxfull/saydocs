@@ -27,6 +27,30 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-08-21" %}
+## 1.1.0.1
+
+* Homepage campaign banners now vary for signed-in and signed-out visitors.
+* WebSocket compact frames speed up market, odds, and leaderboard pushes. They use less bandwidth and improve stability on weak connections.
+* Beats odds now refresh immediately with market changes. Quiet markets and nearby slots now receive more appropriate prices.
+* Steps Quick Options now support tiered two-, three-, and five-minute periods. Quotes respond more flexibly during high volatility.
+* Beats-option settlements now complete faster. Peak trading periods are less likely to cause settlement backlogs.
+* Zero Loss and Double Profit Insurance now process quotes, openings, and closes in parallel. Order waits are shorter.
+* Fixed an issue in the market service BBO index calculation.
+* Explorer address-operation charts now group low-share types under **Other**. Quick Options copy now uses **Quick Option Open / Exercise** consistently.
+* Reward popups now arrive sooner after earning points, vouchers, or coupons. Settlements automatically claim eligible rewards.
+* The task center now groups tasks by check-in, trading, invitation, and other types. Each reward uses its matching display style.
+* Holiday and birthday benefits now appear separately from daily tasks.
+* Reward popups now expire after a reasonable period. Stale reminders, including **Daily Trading Complete**, no longer reappear.
+* Missed notifications are automatically resent. Expired records are cleared.
+* Improved notification-center line wrapping and benefit displays. Notification-detail external links now use HTTPS.
+* Signed-out users no longer see new-user reward guidance on Assets. The page defaults to insurance information and prompts sign-in on other tabs.
+* Second-level candlesticks no longer connect opening prices across gaps.
+* Fixed PNG exports bug for position and insurance share images.
+* Active insurance policies no longer show a redundant **Purchased** label. Improved text contrast.
+* Benefit box records now load with pagination. Homepage operations-bar copy can now be selected and copied.
+{% endupdate %}
+
 {% update date="2026-08-18" %}
 ## 1.1.0
 
@@ -34,7 +58,7 @@ Thank you to every pioneer evolving with YesFi.
 * Added a Particle-to-Eocene asset migration flow. Fixed wallet-address rendering and tamper protection on the migration page. Updated the footer.
 * Updated Steps-option settlement to use the European-style expiry price. Tiers now use the expiry close against the entry price. Opening odds remain fixed. Intraperiod highs no longer lock a higher tier.
 * Prevented Beats-option price updates from rerendering the full React page. This reduces stutter during high-frequency quotes.
-* Tightened option quote slots  for desktop. Price changes now use red and green backgrounds. Asset-selector hover no longer covers prices. Transparent logos now have white backgrounds.
+* Tightened option quote slots for desktop. Price changes now use red and green backgrounds. Asset-selector hover no longer covers prices. Transparent logos now have white backgrounds.
 * Exported share images in the active theme. Preview and export now match. Copy-button icons no longer shift with label changes.
 * Changed desktop dialogs from bottom sheets to centered modals.
 * Defaulted two-minute option charts to a five-second candlestick interval.
