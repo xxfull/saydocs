@@ -27,6 +27,21 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-08-25" %}
+## 1.1.0.2
+
+* Removed the Splash animation. The app now opens directly to the main interface.
+* Desktop **Moves** positions now restore instantly. **Moves** volatility cards now show their tier ranges.
+* Returning from market details now restores the previously selected tab.
+* The mobile Market tab now shows a red dot when recent signals exist.
+* Desktop option candlestick previews no longer cover charts. Navigation now includes a BETA badge.
+* Removed the duplicate divider from paper-trading blank tickets. Aligned target-range typography.
+* Adjusted selectable image placement on membership-level cards. Improved the V0 display for users below V1.
+* Revised and proofread membership benefits and task copy.
+* Fixed option short titles, narrow-screen Combo list truncation, and the English **Add to Home Screen** title. Updated the SEO manifest.
+* Replaced the footer Discord link with GitBook. Fixed several mobile notification-inbox display issues.
+{% endupdate %}
+
 {% update date="2026-08-21" %}
 ## 1.1.0.1
 
