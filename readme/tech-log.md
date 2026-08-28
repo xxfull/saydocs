@@ -27,6 +27,23 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-08-28" %}
+## 1.1.1
+
+* Added **Telegram** social login. It can now be used as the primary sign-in method.
+* Standardized option directions as **Buy Call** and **Buy Put**. Signal prices now animate more clearly and show 24-hour changes.
+* Improved tab readability on Assets and Options. The selected tab now centers automatically. Perpetual trading now shows the funding rate compactly below the latest price.
+* Added a dedicated reward category in the notification center. Refined reward templates so they do not mix with operational announcements.
+* Improved Explorer deposit recognition and address parsing. Deposit and withdrawal details now include the chain and on-chain transaction hash.
+* Pair and Combo options now notify only listed combinations. Delisted combinations no longer send stale odds. Notifications now subscribe precisely by catalog, reducing unnecessary broadcasts.
+* Added first-time trading guidance for Options and Perpetuals. Signed-in users see a welcome guide on their first visit. Select **How to trade?** to replay it.
+* Paper-trading completion now prompts visitors to connect a wallet. Orders and positions now show premiums and payouts after voucher offsets.
+* Settled positions now use **Payout** consistently. Transfer records now show their processing status directly. Pending states no longer use misleading color blocks.
+* Balances now refresh promptly for both parties after withdrawals and internal transfers. Deployment settings can now configure the footer contact email.
+* High-risk strategy triggers can now reduce positions automatically. Manual per-position intervention is no longer required.
+* Insurance quotes now estimate implied volatility with the on-chain oracle. Pricing remains more stable during extreme markets.
+{% endupdate %}
+
 {% update date="2026-08-25" %}
 ## 1.1.0.2
 
