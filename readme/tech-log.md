@@ -27,6 +27,21 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-09-02" %}
+## 1.1.1.1
+
+* Failed sign-ins and wallet signatures now show lightweight toast messages. Signature-confirmation dialogs now stay above page elements.
+* **MAX** now uses the full available balance for withdrawals and internal transfers. Particle migrations now transfer only available balances. Tiny amounts no longer trigger migrations.
+* Failed internal transfers now show the specific reason. Transfer copy no longer promises instant delivery. Processing states now use clearer pill labels.
+* Mobile **Moves** and **Trend** options now highlight maximum loss in red. **Combo** and **Pair** option prices and charts now stay in sync more promptly.
+* One-second option candlesticks now continue correctly after navigation. Candle closes are more accurate. Winning settlements no longer show misleading voucher-offset copy.
+* Paper trading no longer applies real checkout vouchers. Market funding rates now prioritize real-time push values.
+* Renamed **Blind Box** to **Reward Box**. Membership cards and Y Points guidance are clearer. New-user guidance now focuses on learning rather than gamification.
+* Insurance position cards are more compact. Amounts now use a consistent `$` prefix. Empty hashes and negative values are easier to read.
+* **Add to Home Screen** now supports more Android browsers, iOS Safari, and iOS Chrome. The OKX in-app browser no longer shows an installation prompt. iOS onboarding for Options and Perpetuals now avoids crashes and scrolling issues.
+* Improved **Beats** odds pricing. Near-term grid volatility better reflects 60-second markets. Extreme conditions now reduce anomalous and inverted odds.
+{% endupdate %}
+
 {% update date="2026-08-28" %}
 ## 1.1.1
 
