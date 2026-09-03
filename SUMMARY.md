@@ -111,7 +111,7 @@
       * [Page 2](for-developers/api/websocket-methods/page-2.md)
       * [kline](for-developers/api/websocket-methods/kline.md)
 * [Membership & Campaigns](membership-and-campaigns/README.md)
-  * [Membership program](membership-and-campaigns/membership-program.md)
+  * [Membership Levels and Benefits](membership-and-campaigns/membership-program.md)
   * [Ongoing campaigns](membership-and-campaigns/ongoing-campaigns.md)
   * [Historical campaigns](membership-and-campaigns/historical-campaigns.md)
 * [Risk & Policy](risk-and-policy/README.md)
