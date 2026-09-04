@@ -51,7 +51,7 @@ These topics go beyond a quick intro, but every real trader should review them:
 * [**Options**](options/) — an introduction to the seven Lite Options modes
 * [**Perps**](contracts/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
-* **FAQ**
+* [**FAQ**](https://app.gitbook.com/s/gbjC6ba6Xlr582MKUp7i/faq)
 
 ***
 
