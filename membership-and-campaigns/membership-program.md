@@ -163,7 +163,7 @@ Daily challenges can be completed again each day. Advanced tasks are one-time ac
 
 **What is a valid trade?**
 
-A valid trade is an options or contract order completed with **your own funds**. It must meet all of these conditions:
+A valid trade is an options or perps order completed with **your own funds**. It must meet all of these conditions:
 
 * The order premium or margin is at least 10 USDC.
 * The order has settled and was not cancelled or refunded.
@@ -211,7 +211,7 @@ Referrers and referred friends must be different account holders. If the system 
 
 #### Options voucher rules
 
-* **Eligible products:** Vouchers only offset premiums for standard options, including Trend, Ladder, Pair, and Combo products. They cannot be used for Instant options, volatility products, range products, contracts, or insurance products.
+* **Eligible products:** Vouchers only offset premiums for standard options, including Trend, Ladder, Pair, and Combo products. They cannot be used for Instant options, volatility products, range products, perps, or insurance products.
 * **How to use:** Each order can use one voucher. Vouchers cannot be combined with other vouchers or benefits. They apply in full, with no change or refund.
 * **Minimum requirement:** The order premium must meet the voucher's minimum requirement. For example, a 5U voucher requires a 10U minimum premium. You pay any remaining balance.
 * **Voucher orders:** These orders can trade and settle normally. They **do not count** toward beginner tasks, successful referrals or referral rewards, level progress, trading-day or volume tasks, blind-box eligibility, or leaderboards. Use your own funds for qualifying orders.

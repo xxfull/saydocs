@@ -7,7 +7,7 @@ icon: book
 
 ***
 
-These Terms of Service (“Terms”) govern your access to and use of the websites, applications, interfaces, wallet-connected services, Documentation, trading-related features, Flash Options, Insurance Products, and other services made available under the name “YesFi” (“YesFi”, “we”, “us”, or “our”; collectively, the “Services”).
+These Terms of Service (“Terms”) govern your access to and use of the websites, applications, interfaces, wallet-connected services, Documentation, trading-related features, Lite Options, Insurance Products, and other services made available under the name “YesFi” (“YesFi”, “we”, “us”, or “our”; collectively, the “Services”).
 
 Please read these Terms carefully. By accessing or using the Services, you acknowledge that you have read, understood, and agreed to these Terms. If you do not understand or agree to these Terms, you must not access or use the Services.
 
@@ -45,7 +45,7 @@ A “Restricted Person” means any person or entity that is:
 
 (e) accessing or using the Services on behalf of, for the benefit of, or to enable access by a person or entity described in paragraphs (a) through (d); or
 
-(f) otherwise prohibited under applicable law from accessing or using digital asset services, derivatives, leveraged trading, Flash Options, synthetic exposures, Insurance Products, or similar products.
+(f) otherwise prohibited under applicable law from accessing or using digital asset services, derivatives, leveraged trading, Lite Options, synthetic exposures, Insurance Products, or similar products.
 
 “Prohibited Jurisdictions” include Mainland China, the United States, Canada, the United Kingdom, any Member State of the European Union, any Sanctioned Jurisdiction, and any other jurisdiction where YesFi determines that access to the Services is prohibited, restricted, or unsupported.
 
@@ -81,7 +81,7 @@ You must notify YesFi promptly if you become aware of unauthorized access, unaut
 
 ### 4. Services, Documentation, and Product Rules
 
-YesFi provides an interface through which users may view market information, receive signals and alerts, connect wallets, access trading-related products, use Flash Options and Insurance Products, interact with synthetic exposures, and access other features made available through the Services.
+YesFi provides an interface through which users may view market information, receive signals and alerts, connect wallets, access trading-related products, use Lite Options and Insurance Products, interact with synthetic exposures, and access other features made available through the Services.
 
 YesFi may provide product descriptions, research, blog posts, announcements, notices, charts, data, user guides, explanations, and other materials collectively referred to as “Documentation”.
 
@@ -93,25 +93,25 @@ Unless expressly stated otherwise, the latest official product rule or notice ma
 
 ***
 
-### 5. Trading Products, Flash Options, Insurance Products, and Synthetic Exposures
+### 5. Trading Products, Lite Options, Insurance Products, and Synthetic Exposures
 
 #### 5.1 Trading Products
 
-The Services may provide access to trading-related products, including perpetual contracts, margin-based products, synthetic exposures, signals, alerts, and other market-linked features.
+The Services may provide access to trading-related products, including perps, margin-based products, synthetic exposures, signals, alerts, and other market-linked features.
 
 Trading-related products may involve leverage, margin, liquidation, volatility, liquidity, pricing, settlement, oracle, network, and system risks, including the risk of losing all amounts committed to a transaction.
 
 You are solely responsible for all instructions, orders, positions, exposures, and transactions you initiate.
 
-#### 5.2 Flash Options
+#### 5.2 Lite Options
 
-Flash Options are short-duration conditional payout products.
+Lite Options are short-duration conditional payout products.
 
 You pay the premium or other amount displayed at the time of entry in exchange for a quoted payout if the applicable condition is satisfied. If the condition is not satisfied, you may lose the entire amount paid.
 
-Flash Options are subject to the applicable product rules, pricing methods, liquidity conditions, settlement rules, market data, oracle inputs, and risk controls displayed through the Services or otherwise published by YesFi.
+Lite Options are subject to the applicable product rules, pricing methods, liquidity conditions, settlement rules, market data, oracle inputs, and risk controls displayed through the Services or otherwise published by YesFi.
 
-Flash Options are not savings products, deposits, guaranteed-return products, or principal-protected products.
+Lite Options are not savings products, deposits, guaranteed-return products, or principal-protected products.
 
 #### 5.3 Insurance Products
 
@@ -198,7 +198,7 @@ The Services, Documentation, signals, alerts, charts, data, prompts, product des
 
 They do not constitute investment, financial, trading, legal, tax, accounting, or other professional advice, or a recommendation to enter into any transaction.
 
-The Services are provided on a self-directed basis. You are solely responsible for deciding whether any product, transaction, strategy, signal, alert, Flash Option, Insurance Product, synthetic exposure, or other feature is suitable or appropriate for you.
+The Services are provided on a self-directed basis. You are solely responsible for deciding whether any product, transaction, strategy, signal, alert, Lite Option, Insurance Product, synthetic exposure, or other feature is suitable or appropriate for you.
 
 YesFi does not act as your broker, agent, fiduciary, investment adviser, portfolio manager, trustee, custodian, or best-execution provider. No fiduciary, advisory, agency, or similar relationship is created by your use of the Services.
 
@@ -214,13 +214,13 @@ You should obtain independent professional advice where appropriate.
 
 By using the Services, you represent that you have sufficient knowledge to understand and assess the relevant financial, trading, blockchain, digital asset, wallet, and software risks, or that you have obtained independent professional advice before using the Services.
 
-You acknowledge and agree that your use of wallet-connected features, trading-related products, Flash Options, Insurance Products, synthetic exposures, public blockchains, smart contracts, and third-party infrastructure is entirely at your own risk.
+You acknowledge and agree that your use of wallet-connected features, trading-related products, Lite Options, Insurance Products, synthetic exposures, public blockchains, smart contracts, and third-party infrastructure is entirely at your own risk.
 
 Such risks include the loss of all amounts paid, committed, deposited, posted as margin, or otherwise used in connection with the Services; loss of access resulting from private-key loss, wallet compromise, user error, third-party failure, smart contract failure, network congestion, oracle failure, liquidation, hacking, regulatory intervention, tax treatment, personal-data disclosure, uninsured losses, and unforeseen events.
 
 Public blockchains, smart contracts, wallets, decentralized protocols, and related infrastructure may contain vulnerabilities or may be affected by security incidents, network failures, forks, governance actions, latency, congestion, or changes to operating rules. These events may result in loss, delay, failed execution, unavailable features, or incorrect settlement.
 
-Flash Options may result in the loss of the entire amount paid. Insurance Products may be subject to exclusions, eligibility requirements, trigger conditions, payout limits, settlement conditions, reserve availability, and other product-specific limitations.
+Lite Options may result in the loss of the entire amount paid. Insurance Products may be subject to exclusions, eligibility requirements, trigger conditions, payout limits, settlement conditions, reserve availability, and other product-specific limitations.
 
 You are solely responsible for understanding the terms and risks of each product and for determining whether it is appropriate for you.
 
