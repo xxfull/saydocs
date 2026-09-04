@@ -6,4 +6,4 @@ Use the deposit address shown on the page. Send assets to the relevant trading a
 
 For your first deposit, send a small test amount. Confirm the asset type, network, and address before sending more funds.
 
-After your deposit arrives, you can trade Perpetual Contracts, Turbo Options, and other available products.
+After your deposit arrives, you can trade Perps, Turbo Options, and other available products.
