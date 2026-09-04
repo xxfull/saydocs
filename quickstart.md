@@ -32,7 +32,7 @@ If you care about Zero Loss Insurance or Double Profit Insurance, rely on offici
 * **Deposit** _(optional)_:
   * Supported chains: `Ethereum`, `Base`, `BSC`, `Arbitrum`
   * Supported token: `USDC`
-* **Transfer** _(optional)_: You can have multiple sub-accounts. Funds remain segregated, and you can transfer funds between them. See [**Sub-account wallets**](contracts/market-and-limit/sub-account-wallets.md) for details.
+* **Transfer** _(optional)_: You can have multiple sub-accounts. Funds remain segregated, and you can transfer funds between them. See [**Sub-account wallets**](perps/market-and-limit/sub-account-wallets.md) for details.
 
 #### 3. Browse AI Signals
 
@@ -49,7 +49,7 @@ Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premiu
 These topics go beyond a quick intro, but every real trader should review them:
 
 * [**Options**](options/) — an introduction to the seven Lite Options modes
-* [**Perps**](contracts/) — order types, position handling, pricing, and funding
+* [**Perps**](perps/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
 * [**FAQ**](https://app.gitbook.com/s/gbjC6ba6Xlr582MKUp7i/faq)
 
