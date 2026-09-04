@@ -26,8 +26,6 @@ Current product limits:
 * **Convenience and delegated signing scenarios**\
   For smoother interaction, the product can apply practices such as encrypted key storage, permission isolation, and minimal exposure. Final implementation details follow official security disclosures and the live interface.
 
-Before large actions, verify the approval scope and contract address in both the wallet and the trading interface.
-
 ***
 
 ### Common use cases

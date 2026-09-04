@@ -6,7 +6,7 @@ metaLinks:
 
 # CFD overview
 
-YesFi offers **USD-settled perpetual contracts**. You can think of them as long-running CFD-style positions with no spot delivery. Your margin, PnL, and settlement stay anchored in **USD**.
+YesFi offers **USD-settled perps**. You can think of them as long-running CFD-style positions with no spot delivery. Your margin, PnL, and settlement stay anchored in **USD**.
 
 The core experience is simple:
 

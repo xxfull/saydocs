@@ -7,7 +7,7 @@ metaLinks:
 
 # Position & Margin
 
-A **position** is your contract exposure on one market and one direction. It carries its own margin, average entry price, size, unrealized PnL, and liquidation distance.
+A **position** is your perps exposure on one market and one direction. It carries its own margin, average entry price, size, unrealized PnL, and liquidation distance.
 
 **Margin** is the **USDC** committed to that position. It absorbs volatility, covers funding transfers, and determines how close the position is to liquidation. YesFi uses **isolated margin**, so each position manages its own risk by default.
 
@@ -21,7 +21,7 @@ Typical columns:
 
 | Column            | Meaning                                                                          |
 | ----------------- | -------------------------------------------------------------------------------- |
-| **SYMBOL**        | The contract market, such as `BTC-USD`.                                          |
+| **SYMBOL**        | The perps market, such as `BTC-USD`.                                             |
 | **SIDE**          | Direction and leverage, such as `LONG 10x` or `SHORT 10x`.                       |
 | **ACCOUNT**       | The AI Trader or sub-account that owns the position.                             |
 | **POSITION SIZE** | Current position size in the underlying asset, not in USD notional.              |

@@ -6,7 +6,7 @@ metaLinks:
 
 # Funding
 
-**Funding** is the standard mechanism that helps perpetual contracts stay closer to the underlying market even though they have no expiry date. At each settlement interval, value transfers between longs and shorts.
+**Funding** is the standard mechanism that helps perpetual perps stay closer to the underlying market even though they have no expiry date. At each settlement interval, value transfers between longs and shorts.
 
 YesFi currently settles funding on an **hourly** basis unless the live product configuration says otherwise.
 

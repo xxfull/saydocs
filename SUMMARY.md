@@ -23,7 +23,7 @@
     * [Funding](perps/market-and-limit/funding.md)
     * [Liquidations](perps/market-and-limit/liquidations.md)
     * [Fees](perps/market-and-limit/fees.md)
-  * [Contract Signals](perps/contract-signals.md)
+  * [Perps Signals](perps/perps-signals.md)
 * [Insurance](insurance/README.md)
   * [Products](insurance/products.md)
   * [Pricing model](insurance/pricing-model.md)
