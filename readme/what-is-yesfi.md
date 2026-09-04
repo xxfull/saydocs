@@ -43,9 +43,9 @@ Lite Options offer seven fixed-risk modes. Choose a market, timeframe, and outco
 * [**Steps**](../options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
 * [**Trend**](../options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
 
-#### **Perp Signals 💎**
+#### **Perps Signals 💎**
 
-YesFi organizes real-time perp signals into three categories:
+YesFi organizes real-time perps signals into three categories:
 
 * **Market news:** AI analyzes market-moving news, sentiment, and on-chain activity to identify timely trading opportunities.
 * **Technical analysis:** Signals use price action, indicators, and market structure to define potential direction, entries, and risk levels.
