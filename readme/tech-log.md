@@ -148,7 +148,7 @@ Thank you to every pioneer evolving with YesFi.
 {% update date="2026-08-07" %}
 ## 1.0.8.3
 
-* Corrected **Today's PnL** on the Assets page. It now includes realized PnL across all businesses and unrealized PnL from open contracts.
+* Corrected **Today's PnL** on the Assets page. It now includes realized PnL across all businesses and unrealized PnL from open Perps.
 * Unified the cumulative PnL curve with account-overview data. It now refreshes immediately after `account` WebSocket updates.
 * Refined daily-PnL refresh triggers. Filters now ignore unrelated accounts, duplicate events, and legacy frames.
 * Option candle intervals now adapt to the exercise window. Range keeps the selected interval and dims other tiers.

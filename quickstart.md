@@ -38,7 +38,7 @@ If you care about Zero Loss Insurance or Double Profit Insurance, rely on offici
 
 **AI Signals** surface trade ideas as one-tap positions. Each signal includes its direction, leverage, take-profit, stop-loss, and strategy rationale.
 
-For perpetual contracts, use **AI Signals** as a reference before confirming a position. You make the final trading decision.
+For perp, use **AI Signals** as a reference before confirming a position. You make the final trading decision.
 
 #### 4. Explore Lite Options
 
@@ -49,9 +49,9 @@ Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premiu
 These topics go beyond a quick intro, but every real trader should review them:
 
 * [**Options**](options/) — an introduction to the seven Lite Options modes
-* [**Contracts**](contracts/) — order types, position handling, pricing, and funding
+* [**Perps**](contracts/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
-* [**FAQ**](/broken/pages/lw7aVeW3uMNnOEJ6yLcj)
+* **FAQ**
 
 ***
 
