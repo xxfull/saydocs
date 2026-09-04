@@ -7,11 +7,11 @@ icon: message-smile
 {% hint style="info" %}
 Dear YesFi Genesis Traders,
 
-We are thrilled to announce that from now until **August 31, 24:00 (UTC)**, YesFi.com is officially entering its Beta Testing phase!
+We are thrilled to announce that from now until **September 15, 24:00 (UTC)**, YesFi.com is officially entering its Beta Testing phase!
 
 During this period, we will be stress-testing our platform—including **Quick Options**, **Signal Feed**, and the **Matching Engine**—under live market-making conditions. To ensure absolute system security and financial integrity for our upcoming Mainnet Launch, please review the following rules:
 
-* **Trading Assets & PnL Reset**: All open positions, as well as unrealized and realized PnL accumulated during the Beta period, could be cleared and reset at any time before **August 31 24:00(UTC)**. Your initial deposited principal remains 100% safe and unaffected, and can be withdrawn at any time.
+* **Trading Assets & PnL Reset**: All open positions, as well as unrealized and realized PnL accumulated during the Beta period, could be cleared and reset at any time before **September 15, 24:00 (UTC)**. Your initial deposited principal remains 100% safe and unaffected, and can be withdrawn at any time.
 * **Permanently Retained Rewards**: All **Membership Levels** and **Y Points** earned during the Beta phase will be **100% permanently retained**! As a tribute to our early Genesis contributors, your status and points will directly map to your weekly reward distribution (Option & Insurance Vouchers) weight upon the official Mainnet Launch.
 
 Thank you to every pioneer evolving with YesFi.
@@ -22,7 +22,7 @@ Thank you to every pioneer evolving with YesFi.
 YesFi is the first all-asset derivatives platform bringing simplified options and perps to crypto, FX, stocks, commodities, and more.
 
 \
-Instead of exposing users to complex strike prices and traditional options jargon, YesFi turns pro-grade option strategies into intuitive products built around a few clear inputs — **Lite Options**. On the perp side, **AI Signals** surface trade ideas as one-tap positions, while opt-in, contract-based **Insurance** helps users cap downside (**Zero Loss**) or enhance outcomes (**Double Profit**).
+Instead of exposing users to complex strike prices and traditional options jargon, YesFi turns pro-grade option strategies into intuitive products built around a few clear inputs — **Lite Options**. On the perp side, **AI Signals** surface trade ideas as one-tap positions, while opt-in, perp-based **Insurance** helps users cap downside (**Zero Loss**) or enhance outcomes (**Double Profit**).
 
 \
 YesFi turns complex trading decisions and execution into one simple confirmation: Yes. That makes "**One Yes, Trade All**." not just a slogan, but the everyday trading experience on YesFi.
@@ -43,9 +43,9 @@ Lite Options offer seven fixed-risk modes. Choose a market, timeframe, and outco
 * [**Steps**](../options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
 * [**Trend**](../options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
 
-#### **Contract Signals 💎**
+#### **Perp Signals 💎**
 
-YesFi organizes real-time contract signals into three categories:
+YesFi organizes real-time perp signals into three categories:
 
 * **Market news:** AI analyzes market-moving news, sentiment, and on-chain activity to identify timely trading opportunities.
 * **Technical analysis:** Signals use price action, indicators, and market structure to define potential direction, entries, and risk levels.
