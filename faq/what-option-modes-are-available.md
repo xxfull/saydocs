@@ -1,6 +1,6 @@
-# What Turbo Options modes are available?
+# What option modes are available?
 
-YesFi currently offers seven Turbo Options modes:
+YesFi currently offers seven option modes:
 
 * **Trend**: Predict whether an asset price will rise or fall at expiry.
 * **Instant**: Predict the price direction over a short period.
@@ -15,5 +15,5 @@ Use **Trend** or **Instant** for a clear directional view. Use **Range** or **Vo
 Product use cases, trigger conditions, and settlement methods vary. Refer to the relevant product page for the applicable rules.
 
 {% hint style="warning" %}
-Durations, trigger conditions, payout multipliers, and maximum losses vary by product. Review each item before confirming a trade. Turbo Options are high-risk derivatives and do not guarantee profit.
+Durations, trigger conditions, payout multipliers, and maximum losses vary by product. Review each item before confirming a trade. Option is a high-risk derivative and does not guarantee profit.
 {% endhint %}

@@ -6,7 +6,7 @@ Start with these three steps:
 2. **Choose an account**: Start with your main account. Alternatively, create a sub-account to separate funds and positions.
 3. **Choose a trading product**:
    * **Perps** support long and short positions with leverage.
-   * **Turbo Options** support direction, range, and volatility views.
+   * **option** supports direction, range, and volatility views.
 
 ### Try Perps
 
@@ -15,7 +15,7 @@ Start with these three steps:
 3. Set your margin, leverage, take profit, and stop loss.
 4. Review and sign the order on the Perps page.
 
-### Try Turbo Options
+### Try option
 
 1. Open the Options page and select a mode.
 2. Use demo trading to understand trading and settlement rules.

@@ -18,7 +18,7 @@ YesFi may be suitable for:
 
 * **Perpetual contract traders**: USDC-margined perpetual contracts support long and short positions, isolated margin, leverage, take profit, and stop loss. They suit experienced traders and users learning perpetual trading.
 * **Risk-conscious traders**: Eligible perpetual positions can purchase principal-protection insurance or profit-enhancement insurance. These products help manage liquidation losses or increase target returns. Coverage lasts 24, 72, or 168 hours. Review the purchase page for eligibility requirements.
-* **Short-term traders**: Turbo Options offer Trend, Range, Ladder, Streak, Instant, Volatility, and Pair modes. They suit users with a clear view of short-term market movements.
+* **Short-term traders**: option offers Trend, Range, Ladder, Streak, Instant, Volatility, and Pair modes. It suits users with a clear view of short-term market movements.
 * **Users who need position separation**: Sub-account wallets isolate funds and positions. Users can separate test trades, core positions, and trading strategies.
 
 {% hint style="warning" %}
@@ -33,7 +33,7 @@ Start with these three steps:
 2. **Choose an account**: Start with your main account. Alternatively, create a sub-account to separate funds and positions.
 3. **Choose a trading product**:
    * **Perpetual Contracts** support long and short positions with leverage.
-   * **Turbo Options** support direction, range, and volatility views.
+   * **option** supports direction, range, and volatility views.
 
 #### Try Perpetual Contracts
 
@@ -42,7 +42,7 @@ Start with these three steps:
 3. Set your margin, leverage, take profit, and stop loss.
 4. Review and sign the order on the Perpetual Contracts page.
 
-#### Try Turbo Options
+#### Try option
 
 1. Open the Options page and select a mode.
 2. Use demo trading to understand trading and settlement rules.
@@ -65,7 +65,7 @@ Use the deposit address shown on the page. Send assets to the relevant trading a
 
 For your first deposit, send a small test amount. Confirm the asset type, network, and address before sending more funds.
 
-After your deposit arrives, you can trade Perpetual Contracts, Turbo Options, and other available products.
+After your deposit arrives, you can trade Perpetual Contracts, option, and other available products.
 
 ### Question 5: Which assets can I deposit?
 
@@ -107,9 +107,9 @@ Withdrawal fees vary by network. Ethereum has a higher fixed fee. Check the with
 
 ### Question 7: How do I make my first trade?
 
-Perpetual Contracts and Turbo Options serve different trading needs. Perpetual Contracts suit directional trading with leverage, take profit, and stop loss. Turbo Options suit short-term market views and settle under their product rules.
+Perpetual Contracts and option serve different trading needs. Perpetual Contracts suit directional trading with leverage, take profit, and stop loss. Option suits short-term market views and settles under its product rules.
 
-If a Turbo Options trade does not meet settlement conditions, you will usually lose its premium.
+If an option trade does not meet settlement conditions, you will usually lose its premium.
 
 #### Make your first Perpetual Contracts trade
 
@@ -120,7 +120,7 @@ If a Turbo Options trade does not meet settlement conditions, you will usually l
 5. Review the entry price, margin, leverage, and estimated liquidation price.
 6. Confirm the details and sign the order.
 
-#### Make your first Turbo Options trade
+#### Make your first option trade
 
 1. Open the Options trading page.
 2. Select a product, such as Trend, Range, or Ladder.
@@ -128,13 +128,13 @@ If a Turbo Options trade does not meet settlement conditions, you will usually l
 4. Review the live payout multiplier, trading limit, and settlement rules.
 5. Confirm the details and submit the order.
 
-New users can use demo trading first. You can also start with a small Trend Options trade. For longer directional trades, consider Perpetual Contracts.
+New users can use demo trading first. You can also start with a small Trend option trade. For longer directional trades, consider Perpetual Contracts.
 
 Start with one market, such as BTC. This helps you understand price movements and settlement mechanics.
 
-### Question 8: What Turbo Options modes are available?
+### Question 8: What option modes are available?
 
-YesFi currently offers seven Turbo Options modes:
+YesFi currently offers seven option modes:
 
 * **Trend**: Predict whether an asset price will rise or fall at expiry.
 * **Instant**: Predict the price direction over a short period.
@@ -149,7 +149,7 @@ Use **Trend** or **Instant** for a clear directional view. Use **Range** or **Vo
 Product use cases, trigger conditions, and settlement methods vary. Refer to the relevant product page for the applicable rules.
 
 {% hint style="warning" %}
-Durations, trigger conditions, payout multipliers, and maximum losses vary by product. Review each item before confirming a trade. Turbo Options are high-risk derivatives and do not guarantee profit.
+Durations, trigger conditions, payout multipliers, and maximum losses vary by product. Review each item before confirming a trade. Option is a high-risk derivative and does not guarantee profit.
 {% endhint %}
 
 ### Question 9: How do modes differ in duration, triggers, and risk?
@@ -179,13 +179,13 @@ Before confirming, check the entry price, duration, trigger method, settlement p
 If a condition is not met, you may lose the entire amount paid for that trade.
 {% endhint %}
 
-### Question 10: How do Turbo Options differ from standard options?
+### Question 10: How does option differ from standard options?
 
-Turbo Options and standard options are both derivatives. Their structures and trading flows differ.
+Option and standard options are both derivatives. Their structures and trading flows differ.
 
-Turbo Options use predefined market conditions. You choose an asset, duration, and prediction, then wait for automatic settlement. Standard options require a call or put, strike price, expiry date, and contract quantity. You also manage the premium and position.
+Option uses predefined market conditions. You choose an asset, duration, and prediction, then wait for automatic settlement. Standard options require a call or put, strike price, expiry date, and contract quantity. You also manage the premium and position.
 
-| Comparison           | Turbo Options                                                          | Standard options                                                                              |
+| Comparison           | Option                                                                 | Standard options                                                                              |
 | -------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **Settlement speed** | Shorter windows and a faster pace, often seconds or brief periods      | Longer periods provide more time to observe price movements and volatility                    |
 | **Trading approach** | Captures short-term moves, instant direction, and rapid range changes  | Supports fuller short-term views, including direction, range, movement, and relative strength |
@@ -193,11 +193,11 @@ Turbo Options use predefined market conditions. You choose an asset, duration, a
 | **Risk profile**     | Shorter duration gives less room for price movement and increases pace | More time for assessment, but short-term volatility risk remains                              |
 | **Shared risk**      | An incorrect prediction may lose the entire premium                    | An incorrect prediction may lose the entire premium                                           |
 
-Choose Turbo Options for faster, shorter windows. Choose standard options for more time and more complete trading structures.
+Choose option for faster, shorter windows. Choose standard options for more time and more complete trading structures.
 
-Standard options give the holder the right to buy or sell an asset at an agreed price. Exercise and settlement depend on the contract rules. Turbo Options are closer to selecting a predefined condition and waiting for settlement.
+Standard options give the holder the right to buy or sell an asset at an agreed price. Exercise and settlement depend on the contract rules. Option is closer to selecting a predefined condition and waiting for settlement.
 
-Simpler trading does not reduce risk. Before trading, confirm the duration, trigger method, settlement price, payout multiplier, and maximum possible loss. The order confirmation page defines the applicable YesFi Turbo Options rules.
+Simpler trading does not reduce risk. Before trading, confirm the duration, trigger method, settlement price, payout multiplier, and maximum possible loss. The order confirmation page defines the applicable YesFi option rules.
 
 ### Question 11: What types of Perpetual Contract signals are available?
 
@@ -305,17 +305,17 @@ You can also switch between 24-hour, 72-hour, and 168-hour coverage. The unused 
 
 When you close the linked Perpetual Contract position, its insurance ends automatically. The unused premium is refunded based on the remaining coverage time.
 
-Trading insurance only applies to Perpetual Contract positions. It does not apply to Turbo Options.
+Trading insurance only applies to Perpetual Contract positions. It does not apply to option.
 
-### Question 18: Does Turbo Options support trading insurance?
+### Question 18: Does option support trading insurance?
 
-Turbo Options do not currently support trading insurance.
+Option does not currently support trading insurance.
 
-Principal Protection Insurance and Profit Enhancement Insurance only apply to Perpetual Contract positions. Turbo Options are short-duration options products. Their trading mechanics are separate from Perpetual Contract insurance.
+Principal Protection Insurance and Profit Enhancement Insurance only apply to Perpetual Contract positions. Option is a short-duration options product. Its trading mechanics are separate from Perpetual Contract insurance.
 
-Perpetual Contract insurance offers 24-hour, 72-hour, and 168-hour coverage. These periods do not apply to Turbo Options.
+Perpetual Contract insurance offers 24-hour, 72-hour, and 168-hour coverage. These periods do not apply to option.
 
-Before trading Turbo Options, choose a premium amount that matches your risk tolerance.
+Before trading option, choose a premium amount that matches your risk tolerance.
 
 ### Question 19: How do I verify trades and settlement?
 

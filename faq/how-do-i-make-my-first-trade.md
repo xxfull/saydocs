@@ -1,10 +1,10 @@
 # How do I make my first trade?
 
-Perpetual Contracts and Turbo Options serve different trading needs. Perpetual Contracts suit directional trading with leverage, take profit, and stop loss. Turbo Options suit short-term market views and settle under their product rules.
+Perps and option serve different trading needs. Perps suit directional trading with leverage, take profit, and stop loss. Option suits short-term market views and settles under its product rules.
 
-If a Turbo Options trade does not meet settlement conditions, you will usually lose its premium.
+If an option trade does not meet settlement conditions, you will usually lose its premium.
 
-### Make your first Perpetual Contracts trade
+### Make your first Perps trade
 
 1. Select a market, such as BTC or ETH.
 2. Choose whether to go long or short.
@@ -13,7 +13,7 @@ If a Turbo Options trade does not meet settlement conditions, you will usually l
 5. Review the entry price, margin, leverage, and estimated liquidation price.
 6. Confirm the details and sign the order.
 
-### Make your first Turbo Options trade
+### Make your first option trade
 
 1. Open the Options trading page.
 2. Select a product, such as Trend, Range, or Ladder.
@@ -21,6 +21,6 @@ If a Turbo Options trade does not meet settlement conditions, you will usually l
 4. Review the live payout multiplier, trading limit, and settlement rules.
 5. Confirm the details and submit the order.
 
-New users can use demo trading first. You can also start with a small Trend Options trade. For longer directional trades, consider Perpetual Contracts.
+New users can use demo trading first. You can also start with a small Trend option trade. For longer directional trades, consider Perps.
 
 Start with one market, such as BTC. This helps you understand price movements and settlement mechanics.
