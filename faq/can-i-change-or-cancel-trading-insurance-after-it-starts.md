@@ -6,4 +6,4 @@ You can also switch between 24-hour, 72-hour, and 168-hour coverage. The unused 
 
 When you close the linked Perpetual Contract position, its insurance ends automatically. The unused premium is refunded based on the remaining coverage time.
 
-Trading insurance only applies to Perpetual Contract positions. It does not apply to Turbo Options.
+Trading insurance only applies to Perpetual Contract positions. It does not apply to Options.

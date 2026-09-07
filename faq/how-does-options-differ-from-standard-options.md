@@ -1,10 +1,10 @@
-# How does option differ from standard options?
+# How does options differ from standard options?
 
 Option and standard options are both derivatives. Their structures and trading flows differ.
 
 Option uses predefined market conditions. You choose an asset, duration, and prediction, then wait for automatic settlement. Standard options require a call or put, strike price, expiry date, and contract quantity. You also manage the premium and position.
 
-| Comparison           | Option                                                                 | Standard options                                                                              |
+| Comparison           | Options                                                                | Standard options                                                                              |
 | -------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **Settlement speed** | Shorter windows and a faster pace, often seconds or brief periods      | Longer periods provide more time to observe price movements and volatility                    |
 | **Trading approach** | Captures short-term moves, instant direction, and rapid range changes  | Supports fuller short-term views, including direction, range, movement, and relative strength |
