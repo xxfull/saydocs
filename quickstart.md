@@ -6,11 +6,11 @@ description: A fast introduction for first-time users, traders, and developers.
 
 > **One Yes, Trade All** — See [What is YesFi](readme/what-is-yesfi.md).
 
-| What you will encounter in YesFi | In one line                                                                                                                                                                                                                                                                                                                                            |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Product positioning              | YesFi is the first all-asset derivatives platform. It brings simplified options and perpetuals to crypto, FX, stocks, commodities, and more.                                                                                                                                                                                                           |
-| Core products                    | **Lite Options** turn professional options strategies into intuitive products with a few clear inputs. No complex strike prices or traditional options jargon are required. **AI Signals** present trade ideas as one-tap positions. Opt-in, **Perps**-based insurance can cap downside with **Zero Loss** or enhance outcomes with **Double Profit**. |
-| Trading experience               | YesFi turns complex trading decisions and execution into one confirmation: **Yes**. This makes **One Yes, Trade All** an everyday trading experience.                                                                                                                                                                                                  |
+| What you will encounter in YesFi | In one line                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Product positioning              | YesFi is the first all-asset derivatives platform. It brings simplified options and perpetuals to crypto, FX, stocks, commodities, and more.                                                                                                                                                                                                     |
+| Core products                    | **Options** turn professional options strategies into intuitive products with a few clear inputs. No complex strike prices or traditional options jargon are required. **AI Signals** present trade ideas as one-tap positions. Opt-in, **Perps**-based insurance can cap downside with **Zero Loss** or enhance outcomes with **Double Profit** |
+| Trading experience               | YesFi turns complex trading decisions and execution into one confirmation: **Yes**. This makes **One Yes, Trade All** an everyday trading experience.                                                                                                                                                                                            |
 
 ***
 
@@ -40,7 +40,7 @@ If you care about Zero Loss Insurance or Double Profit Insurance, rely on offici
 
 For perp, use **AI Signals** as a reference before confirming a position. You make the final trading decision.
 
-#### 4. Explore Lite Options
+#### 4. Explore Options
 
 Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premium is the maximum loss. Each order settles automatically at expiry.
 
@@ -48,7 +48,7 @@ Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premiu
 
 These topics go beyond a quick intro, but every real trader should review them:
 
-* [**Options**](options/) — an introduction to the seven Lite Options modes
+* [**Options**](options/) — an introduction to the seven Options modes
 * [**Perps**](perps/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
 * [**FAQ**](https://app.gitbook.com/s/gbjC6ba6Xlr582MKUp7i/faq)

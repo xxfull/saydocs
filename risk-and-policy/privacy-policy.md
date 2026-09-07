@@ -51,7 +51,7 @@ We do not collect, store, or control your private keys, seed phrases, or wallet 
 
 When you use trading-related features, we may collect or generate information relating to your orders, quotes, positions, margin, leverage, collateral, settlements, product selections, premiums, payouts, claims, risk alerts, account activity, and related transaction records.
 
-This may include information associated with trading signals, Flash options Products, Shield Products, synthetic exposures, rewards, vouchers, campaigns, and other product features available through the Services.
+This may include information associated with trading signals, options Products, Shield Products, synthetic exposures, rewards, vouchers, campaigns, and other product features available through the Services.
 
 #### 2.4 Identity Verification and Compliance Data
 
