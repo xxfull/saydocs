@@ -27,6 +27,21 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-09-10" %}
+## 1.1.2
+
+* Rebuilt the rewards task system with new-user rewards, daily challenges, and weekly benefits vouchers. Invitation risk controls are stricter. Reward Boxes now refresh sooner after crediting.
+* Telegram, Google, and Apple now appear in one row on the sign-in page. Sign-in now automatically links the EOA and trading account.
+* The footer contact email now opens the mail client directly.
+* Perpetual order confirmation now shows take-profit, stop-loss, and limit prices. Fixed opening orders with attached TP/SL. TradingView now clears stale contract markers and uses an updated local-layout version.
+* Options candlesticks now catch up after navigation or network delays. Charts no longer show gaps or stretched wicks. Combo, Pair, and Trend canvases also stay synchronized.
+* Updated option-voucher eligibility. Settled winning positions and exercise income now hide voucher-offset copy. The weekly benefits-voucher claim flow is clearer.
+* Market tickers retain the latest price while paused on hover. Copied share links and desktop-wallet addresses now show a toast.
+* Position-card mark prices no longer truncate. Homepage and desktop-wallet **Day P\&L** and **Available** now omit redundant `USDC` suffixes.
+* Split the Perpetuals onboarding insurance explanation into two steps. On mobile, **How to trade?** now appears beside Insurance. Shared position cards no longer crop logos or statistic columns.
+* **Beats**, **Trend**, and **Steps** odds now decrease immediately with volatility and recover at a controlled rate. Improved Mix heat, quiet-market caps, and frozen near-band pricing to reduce price flashes and full-grid `1x` odds.
+{% endupdate %}
+
 {% update date="2026-09-02" %}
 ## 1.1.1.1
 
