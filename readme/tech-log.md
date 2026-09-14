@@ -27,6 +27,20 @@ Thank you to every pioneer evolving with YesFi.
 {% endhint %}
 
 {% updates format="full" %}
+{% update date="2026-09-14" %}
+## 1.1.2.1
+
+* Homepage carousels now support separate mobile images. Mobile banners and navigation fit more comfortably. **Add to Home Screen** guidance is shorter.
+* Removed **One-click Claim** from Benefits. Invitations now show failed review results. Reward Box and voucher issuance tracking is more reliable.
+* Mark prices on collapsed position cards now display in full.
+* Combo, Pair, and Trend option candlesticks now backfill and catch up after reconnection. Chart switching causes less jitter.
+* Asset logos now load more smoothly.
+* Higher account-risk levels now apply stricter single-order limits for Perpetuals and Options. High-leverage opening ratings are more accurate.
+* Perpetual trading no longer uses a 24-hour cumulative order window or tiered per-order hard caps. Platform-wide risk controls still apply during execution.
+* Rejection messages now use consistent wording and state why an order cannot be placed.
+* User profiles for withdrawal and trading reviews now update sooner after rule changes. Withdrawal validation responds faster.
+{% endupdate %}
+
 {% update date="2026-09-10" %}
 ## 1.1.2
 
