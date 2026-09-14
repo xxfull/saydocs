@@ -16,10 +16,10 @@ Dear YesFi Genesis Traders,
 
 We are thrilled to announce that from now until **September 15, 24:00 (UTC)**, YesFi.com is officially entering its Beta Testing phase!
 
-During this period, we will be stress-testing our platform—including **Options**, **Signal Feed**, and the **Matching Engine**—under live market-making conditions. To ensure absolute system security and financial integrity for our upcoming Mainnet Launch, please review the following rules:
+During this period, we will be stress-testing our platform—including **Flash Options**, **Signal Feed**, and the **Matching Engine**—under live market-making conditions. To ensure absolute system security and financial integrity for our upcoming Mainnet Launch, please review the following rules:
 
 * **Trading Assets & PnL Reset**: All open positions, as well as unrealized and realized PnL accumulated during the Beta period, could be cleared and reset at any time before **September 15, 24:00 (UTC)**. Your initial deposited principal remains 100% safe and unaffected, and can be withdrawn at any time.
-* **Permanently Retained Rewards**: All **Membership Levels** and **Y Points** earned during the Beta phase will be **100% permanently retained**! As a tribute to our early Genesis contributors, your status and points will directly map to your weekly reward distribution (Option & Insurance Vouchers) weight upon the official Mainnet Launch.
+* **Permanently Retained Rewards**: All **Membership Levels** and **Y Points** earned during the Beta phase will be **100% permanently retained**! As a tribute to our early Genesis contributors, your status and points will directly map to your weekly reward distribution (Flash Options & Insurance Vouchers) weight upon the official Mainnet Launch.
 
 Thank you to every pioneer evolving with YesFi.
 
@@ -33,9 +33,9 @@ Thank you to every pioneer evolving with YesFi.
 * Homepage carousels now support separate mobile images. Mobile banners and navigation fit more comfortably. **Add to Home Screen** guidance is shorter.
 * Removed **One-click Claim** from Benefits. Invitations now show failed review results. Reward Box and voucher issuance tracking is more reliable.
 * Mark prices on collapsed position cards now display in full.
-* Combo, Pair, and Trend option candlesticks now backfill and catch up after reconnection. Chart switching causes less jitter.
+* Combo, Pair, and Trend Flash Options candlesticks now backfill and catch up after reconnection. Chart switching causes less jitter.
 * Asset logos now load more smoothly.
-* Higher account-risk levels now apply stricter single-order limits for Perpetuals and Options. High-leverage opening ratings are more accurate.
+* Higher account-risk levels now apply stricter single-order limits for Perpetuals and Flash Options. High-leverage opening ratings are more accurate.
 * Perpetual trading no longer uses a 24-hour cumulative order window or tiered per-order hard caps. Platform-wide risk controls still apply during execution.
 * Rejection messages now use consistent wording and state why an order cannot be placed.
 * User profiles for withdrawal and trading reviews now update sooner after rule changes. Withdrawal validation responds faster.
@@ -48,8 +48,8 @@ Thank you to every pioneer evolving with YesFi.
 * Telegram, Google, and Apple now appear in one row on the sign-in page. Sign-in now automatically links the EOA and trading account.
 * The footer contact email now opens the mail client directly.
 * Perpetual order confirmation now shows take-profit, stop-loss, and limit prices. Fixed opening orders with attached TP/SL. TradingView now clears stale contract markers and uses an updated local-layout version.
-* Options candlesticks now catch up after navigation or network delays. Charts no longer show gaps or stretched wicks. Combo, Pair, and Trend canvases also stay synchronized.
-* Updated option-voucher eligibility. Settled winning positions and exercise income now hide voucher-offset copy. The weekly benefits-voucher claim flow is clearer.
+* Flash Options candlesticks now catch up after navigation or network delays. Charts no longer show gaps or stretched wicks. Combo, Pair, and Trend canvases also stay synchronized.
+* Updated Flash Options voucher eligibility. Settled winning positions and exercise income now hide voucher-offset copy. The weekly benefits-voucher claim flow is clearer.
 * Market tickers retain the latest price while paused on hover. Copied share links and desktop-wallet addresses now show a toast.
 * Position-card mark prices no longer truncate. Homepage and desktop-wallet **Day P\&L** and **Available** now omit redundant `USDC` suffixes.
 * Split the Perpetuals onboarding insurance explanation into two steps. On mobile, **How to trade?** now appears beside Insurance. Shared position cards no longer crop logos or statistic columns.
@@ -62,12 +62,12 @@ Thank you to every pioneer evolving with YesFi.
 * Failed sign-ins and wallet signatures now show lightweight toast messages. Signature-confirmation dialogs now stay above page elements.
 * **MAX** now uses the full available balance for withdrawals and internal transfers. Particle migrations now transfer only available balances. Tiny amounts no longer trigger migrations.
 * Failed internal transfers now show the specific reason. Transfer copy no longer promises instant delivery. Processing states now use clearer pill labels.
-* Mobile **Moves** and **Trend** options now highlight maximum loss in red. **Combo** and **Pair** option prices and charts now stay in sync more promptly.
-* One-second option candlesticks now continue correctly after navigation. Candle closes are more accurate. Winning settlements no longer show misleading voucher-offset copy.
+* Mobile **Moves** and **Trend** Flash Options now highlight maximum loss in red. **Combo** and **Pair** Flash Options prices and charts now stay in sync more promptly.
+* One-second Flash Options candlesticks now continue correctly after navigation. Candle closes are more accurate. Winning settlements no longer show misleading voucher-offset copy.
 * Paper trading no longer applies real checkout vouchers. Market funding rates now prioritize real-time push values.
 * Renamed **Blind Box** to **Reward Box**. Membership cards and Y Points guidance are clearer. New-user guidance now focuses on learning rather than gamification.
 * Insurance position cards are more compact. Amounts now use a consistent `$` prefix. Empty hashes and negative values are easier to read.
-* **Add to Home Screen** now supports more Android browsers, iOS Safari, and iOS Chrome. The OKX in-app browser no longer shows an installation prompt. iOS onboarding for Options and Perpetuals now avoids crashes and scrolling issues.
+* **Add to Home Screen** now supports more Android browsers, iOS Safari, and iOS Chrome. The OKX in-app browser no longer shows an installation prompt. iOS onboarding for Flash Options and Perpetuals now avoids crashes and scrolling issues.
 * Improved **Beats** odds pricing. Near-term grid volatility better reflects 60-second markets. Extreme conditions now reduce anomalous and inverted odds.
 {% endupdate %}
 
@@ -76,11 +76,11 @@ Thank you to every pioneer evolving with YesFi.
 
 * Added **Telegram** social login. It can now be used as the primary sign-in method.
 * Standardized option directions as **Buy Call** and **Buy Put**. Signal prices now animate more clearly and show 24-hour changes.
-* Improved tab readability on Assets and Options. The selected tab now centers automatically. Perpetual trading now shows the funding rate compactly below the latest price.
+* Improved tab readability on Assets and Flash Options. The selected tab now centers automatically. Perpetual trading now shows the funding rate compactly below the latest price.
 * Added a dedicated reward category in the notification center. Refined reward templates so they do not mix with operational announcements.
 * Improved Explorer deposit recognition and address parsing. Deposit and withdrawal details now include the chain and on-chain transaction hash.
-* Pair and Combo options now notify only listed combinations. Delisted combinations no longer send stale odds. Notifications now subscribe precisely by catalog, reducing unnecessary broadcasts.
-* Added first-time trading guidance for Options and Perpetuals. Signed-in users see a welcome guide on their first visit. Select **How to trade?** to replay it.
+* Pair and Combo Flash Options now notify only listed combinations. Delisted combinations no longer send stale odds. Notifications now subscribe precisely by catalog, reducing unnecessary broadcasts.
+* Added first-time trading guidance for Flash Options and Perpetuals. Signed-in users see a welcome guide on their first visit. Select **How to trade?** to replay it.
 * Paper-trading completion now prompts visitors to connect a wallet. Orders and positions now show premiums and payouts after voucher offsets.
 * Settled positions now use **Payout** consistently. Transfer records now show their processing status directly. Pending states no longer use misleading color blocks.
 * Balances now refresh promptly for both parties after withdrawals and internal transfers. Deployment settings can now configure the footer contact email.
