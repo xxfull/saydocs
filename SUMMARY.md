@@ -30,6 +30,7 @@
   * [Policy life cycle](insurance/policy-life-cycle.md)
   * [Trigger conditions](insurance/trigger-conditions.md)
   * [Refund rules](insurance/refund-rules.md)
+* [YLP Liquidity Network](ylp-liquidity-network.md)
 * [AI assistant](ai-assistant/README.md)
   * [Agent profile](ai-assistant/agent-profile.md)
   * [Prompt reference](ai-assistant/prompt-reference.md)
