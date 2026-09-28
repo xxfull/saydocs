@@ -12,6 +12,23 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-09-24" %}
+## 1.1.3
+
+* Added **Prediction Markets** to the main navigation. Browse short-duration BTC and other markets, view live prices and mini charts, and choose outcomes with Steps, Combo, Pair, Range, and other modes.
+* Predictions can now be added to a cart and placed together. Review previous predictions in History.
+* Perpetual take-profit and stop-loss settings now suggest a reasonable price range and estimate closing PnL before order confirmation.
+* Flash Options vouchers now deduct balances consistently with the voucher amount. Settlement reward messages are more accurate.
+* Options pages now receive only currently visible data. This improves responsiveness and reduces battery and bandwidth use.
+* The site and market lists now load faster.
+* Built-in wallets, including Binance, and browser-extension wallet sign-in are more reliable. Telegram Mini App sharing and fullscreen mode are improved.
+* Asset-migration failures and cancelled signature prompts now use shorter, friendlier messages.
+* Membership-card promotion gifts and promotional bundles now align correctly without disrupting the layout.
+* Funding-rate displays and insurance calculations now prioritize the latest configuration. The current funding rate remains visible without open positions.
+* Flash Options odds now change sooner when markets become quiet. Pair Options odds are more appropriate during extreme market conditions.
+* Reducing margin now tightens the maximum available leverage. Reward distribution, voucher usage, and first-trade invitation tracking are more reliable.
+{% endupdate %}
+
 {% update date="2026-09-14" %}
 ## 1.1.2.1
 
