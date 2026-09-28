@@ -3,7 +3,7 @@
 ### **Rules**
 
 * Choose any asset and predict the price direction (Up/Down) after a set time. If the price moves by the specified amount, you win the corresponding payout; if it doesn't, you lose your stake.
-* Time options: 60s, 3 minutes, or 5 minutes
+* Time options: 30s, 60s, 3 minutes, or 5 minutes
 * Three movement tiers — Light / Medium / Heavy: higher threshold = higher payout odds = harder to win
 * Minimum stake: 10u; maximum stake varies by tier (10u–5,000u; higher-odds tiers have lower stake caps)
 * Available assets: BTC, ETH, SOL, Gold, Crude Oil, JPY (24 hours); NVIDIA, SPCX (US market hours), etc.

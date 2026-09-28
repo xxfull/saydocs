@@ -4,7 +4,7 @@
 
 * Choose any three assets and predict whether each will go bullish or bearish after a set time. If all predictions are correct, you win a high payout. If even one is wrong, the order is treated as a full loss.
 * Available durations are 60s, 3 minutes, and 5 minutes.
-* The minimum amount is 10u, and the maximum amount is 1500u.
+* The minimum amount is 10u, and the maximum amount is 5000u.
 * Each asset has different odds. Correlation between assets also affects the total payout.
 
 #### Example (60s)

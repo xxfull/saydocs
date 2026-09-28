@@ -3,7 +3,7 @@
 ### **Rules** <a href="#ht64s" id="ht64s"></a>
 
 * Compare the relative strength of two assets. Pick any asset pair and predict which one will outperform the other within the selected time period.
-* Duration options: 5 minutes or 15 minutes
+* Duration options: 30s, 60s, 3 minutes or 5 minutes
 * Minimum amount: 10u. Maximum amount depends on the tier level, ranging from 10u to 5000u.
 * Available asset pairs:
 * 24/7 perpetual market: BTC vs ETH, BTC vs Gold, Gold vs Crude Oil, BNB vs HYPE

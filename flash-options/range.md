@@ -3,8 +3,8 @@
 ### **Rules** <a href="#ilnov" id="ilnov"></a>
 
 * You win if the asset price settles inside the selected preset range. If it settles outside the range, the premium is lost.
-* Available durations are 30s, 60s, 5min, and 10min.
-* The minimum amount is 1u. The maximum amount is 500u.
+* Available durations are 30s, 60s, 3min, and 5min.
+* The minimum amount is 10u. The maximum amount is 500u.
 * The three bands are mutually exclusive. You can choose only one:
   * Inner band: ±0.1% (hardest to hit, highest payout)
   * Middle band: ±0.3% (medium hit rate)

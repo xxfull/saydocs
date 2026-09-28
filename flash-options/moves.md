@@ -4,8 +4,8 @@
 
 * Pick any asset. You do not bet on direction. You only bet on the price movement during the next period.
 * The price range during the selected period, `highest price − lowest price`, is split into 5 mutually exclusive bands. The user picks one band.
-* Duration options: `30s`, `1 minute`, `3 minutes`, `5 minutes`
-* Minimum stake: `10u`. Maximum stake depends on the band, up to `5000u`.
+* Duration options:  `1 minute`, `3 minutes`, `5 minutes`
+* Minimum stake: `10u`. Maximum stake depends on the band, up to 2`000u`.
 * Range % = `(highest price during the period − lowest price during the period) / starting price × 100%`
 * Starting price = the price at the exact second when the user places the bet
 
