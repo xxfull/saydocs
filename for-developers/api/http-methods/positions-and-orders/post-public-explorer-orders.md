@@ -6,10 +6,10 @@ metaLinks:
       https://app.gitbook.com/s/KiKbOTrmqLWnXHD7ZyeJ/mian-xiang-kai-fa-zhe/api/http-fang-fa/ding-dan-yu-cang-wei/cha-xun-ding-dan-lie-biao-post-publicexplorerorders
 ---
 
-# POST orders/list
+# GET orders/list
 
 ```
-POST /v1/public/exchange/orders/list
+GET /v1/public/exchange/orders/list
 ```
 
 #### Request Body
