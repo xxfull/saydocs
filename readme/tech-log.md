@@ -12,6 +12,24 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-10-14" %}
+## 1.1.3.1
+
+* Added **Google Authenticator** binding and reset. Repeated verification failures now lock the flow and show the remaining time.
+* Total assets on the homepage and Assets page now include unrealized PnL. Perpetual balances update with PnL, while margin utilization excludes unrealized profit from its denominator.
+* Position cards now show the entry price by default and the mark price when expanded. Take-profit and stop-loss panels show live, color-coded mark-price changes.
+* The Current Orders tab now shows the number of open orders. Market-page headline prices now align with candlestick closing prices.
+* Insurance charge notifications now omit long transaction hashes. Insurance payout notifications use clearer copy.
+* Mobile operation cards are fully tappable. Narrow layouts stack total assets and deposit or withdrawal actions on the right. Options trading panels now adapt to short and wide screens, including period-tier layouts.
+* Improved layouts for foldable phones, including iPhone Duo.
+* Insufficient balance, request timeout, rate-limit, and maximum-order-limit errors now provide clearer guidance.
+* Extreme volatility no longer automatically suspends Flash Options products. Orders are also easier to place during normal market conditions.
+* Prediction Markets no longer use a separate account-level 24-hour window. Product-wide risk controls and platform circuit breakers remain in place.
+* Upgraded the trading circuit-breaker and capacity system. Updated withdrawal review rules and made concurrent deposit-address requests more reliable for new wallets.
+* Oracle now provides 10-second candlesticks for more detailed short-term price movements.
+* Operations can now issue insurance vouchers.
+{% endupdate %}
+
 {% update date="2026-09-24" %}
 ## 1.1.3
 
