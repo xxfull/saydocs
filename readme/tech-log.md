@@ -33,8 +33,6 @@ metaLinks:
 {% update date="2026-09-24" %}
 ## 1.1.3
 
-* Added **Prediction Markets** to the main navigation. Browse short-duration BTC and other markets, view live prices and mini charts, and choose outcomes with Steps, Combo, Pair, Range, and other modes.
-* Predictions can now be added to a cart and placed together. Review previous predictions in History.
 * Perpetual take-profit and stop-loss settings now suggest a reasonable price range and estimate closing PnL before order confirmation.
 * Flash Options vouchers now deduct balances consistently with the voucher amount. Settlement reward messages are more accurate.
 * Options pages now receive only currently visible data. This improves responsiveness and reduces battery and bandwidth use.
