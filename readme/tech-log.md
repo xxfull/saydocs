@@ -12,6 +12,34 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-10-23" %}
+## 1.1.4.1
+
+* Added passkey support. Users can bind or remove a passkey, then sign in with fingerprint or face authentication.
+* Perpetual candlestick charts can now show or hide position lines. The one-click close button is consolidated and indicates existing take-profit or stop-loss settings.
+* MetaMask now opens more reliably from PWAs through its native protocol. Signed-in users restore their signing wallet when it uses the same address, reducing signature failures after network switches or refreshes.
+* Signed-in users can open deposit and withdrawal flows without a sign-in overlay. Updated the Flash Options onboarding video link.
+* Telegram Desktop now requests a wider fullscreen viewport for a more spacious layout.
+* Search engines no longer index the reward-bundle claim page.
+* Advanced task thresholds and winning streaks no longer require completing the new-user module first. Progress starts with the next valid trade. Daily tasks still require the new-user module.
+* Explorer on-chain wallet transaction lists now load faster.
+{% endupdate %}
+
+{% update date="2026-10-19" %}
+## 1.1.4
+
+* Improved layouts for foldable and wide-screen phones. Homepage charts, promotions, and Benefits are clearer. Markets now show the list beside details. Perpetuals and Signals use a chart-left, order-right layout. Insurance fills horizontal screens, and filter tags no longer truncate.
+* Opening orders and margin adjustments now show the estimated liquidation price. Stop-loss prices cannot cross the current price. Take-profit and stop-loss settings compare against the live price to avoid immediate triggering.
+* Desktop transfer history now includes a fee column. Outgoing transfers show the gross amount. Incoming transfers show the net received amount.
+* Web and PWA users can now open mobile wallets with WalletConnect. Improved deposit and withdrawal dialogs, session handling, address requests, and pairing-failure messages.
+* Long-pressing a candlestick now shows only OHLCV data. Dragging follows the active candle. Perpetual charts now display unrealized PnL on position lines. Desktop chart heights are adjustable.
+* Added an instructional video to the Flash Options onboarding flow. Small funding rates now use threshold displays. Combo supports resubscription and basket odds. Volatility vouchers prioritize full descriptions when space allows. Pair positions show real-time net differences.
+* Invitation links can now issue vouchers. The app automatically detects the invitation code before redemption.
+* Email verification now synchronizes across devices. Resend-email messages follow the selected language.
+* Insurance orders now explain and block leverage outside the eligible coverage range. Funding fees deducted from margin no longer incorrectly link to on-chain transactions in history.
+* Improved deposit-amount validation. Daily PnL now includes liquidated closing positions.
+{% endupdate %}
+
 {% update date="2026-10-14" %}
 ## 1.1.3.1
 
