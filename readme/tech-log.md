@@ -20,7 +20,6 @@ metaLinks:
 * MetaMask now opens more reliably from PWAs through its native protocol. Signed-in users restore their signing wallet when it uses the same address, reducing signature failures after network switches or refreshes.
 * Signed-in users can open deposit and withdrawal flows without a sign-in overlay. Updated the Flash Options onboarding video link.
 * Telegram Desktop now requests a wider fullscreen viewport for a more spacious layout.
-* Search engines no longer index the reward-bundle claim page.
 * Advanced task thresholds and winning streaks no longer require completing the new-user module first. Progress starts with the next valid trade. Daily tasks still require the new-user module.
 * Explorer on-chain wallet transaction lists now load faster.
 {% endupdate %}
