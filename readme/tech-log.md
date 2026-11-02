@@ -12,6 +12,18 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-10-30" %}
+## 1.1.4.2
+
+* Quotes and candlestick updates are more stable, with fewer price flickers on the chart.
+* Expiry settlement uses the platform index TWAP consistently; payout and fee amounts match what you see on the position screen.
+* After you lock a streak selection, you can place repeat orders in the same zone. Order history shows in-progress counts and localized copy. Fund activity lists no longer appear empty on tablet-width layouts.
+* **Passkeys**: If this device already has a passkey, we prompt or offer to sign in with it. Bitget is in the wallet list. Google Authenticator backup-code reset copy is clearer.
+* On perpetual charts, open positions and working orders appear as compact banners; tap to see margin and P\&L.
+* Vouchers no longer apply to Flash, range, volatility products, or contracts. Option premium inputs stay locked when your balance is below the minimum order size.
+* The Open orders tab badge counts the full order list, so the number stays accurate.
+{% endupdate %}
+
 {% update date="2026-10-23" %}
 ## 1.1.4.1
 
