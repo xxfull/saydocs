@@ -12,24 +12,43 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-11-16" %}
+## 1.1.5.1
+
+* Desktop Assets lists for records, funding fees, perpetual positions, options positions, orders, insurance, Flash Options, and Prediction Markets now paginate and show total counts.
+* Options and 0DTE options now use the new fee schedule. Expiry charges delivery fees only.
+* During the last 30 minutes before settlement, Options and 0DTE option quotes use the period's average price. Stale prices trigger an active refresh, and delayed quotes immediately reconnect.
+* In the settlement window, Options and 0DTE option positions use the live average price for estimated value. Position quantities include filled opening orders only, not pending limit orders.
+* Options closes now submit the entered quantity and cannot exceed the position. Estimated P\&L truncates after four decimal places.
+* Account notifications now include position changes. Fully losing option settlements and Prediction Market order statuses also send notifications. Message bodies no longer show product or position IDs.
+* On mobile, Options positions open on a dedicated page. 0DTE option positions can sort by expiry.
+* Candle Streak now separate current positions from next-round predictions. The countdown runs in 60-second rounds.
+* Candle Streak results now show **Hit** or **Miss**. The rule description is updated accordingly.
+* Candle Streak only correct unaligned bars for delayed data. Reconnection requires consecutive mismatches. Closed bars no longer change from stale data.
+* After adding the app to the home screen, the header remains opaque and the BETA badge stays visible.
+* Samsung Internet now supports installation. You can add the app again after removing its shortcut. Installed apps no longer receive repeated prompts.
+* Android sign-in with X now returns to Chrome.
+* Wallet signature pages remain open after an incorrect password and close automatically after a successful signature.
+{% endupdate %}
+
 {% update date="2026-11-08" %}
 ## 1.1.5
 
-* Added Standard Options, expiry-day options, and candlestick streaks for Prediction Markets.
-* Candlestick streak odds now use the most common trend in each 60-second window. Order amounts must stay within the product's allowed range.
-* Candlestick streak orders show the opening hash while active and the settlement hash after settlement.
-* Standard Options now use a numeric keyboard for mobile amount entry. On desktop, opening a position uses a modal with only the sell-to-close action.
-* The Standard Options header now keeps the near-expiry notice visible and shows the cutoff time.
+* Added **Options**, **0DTE Options**, and **Candle Streak** for Prediction Markets.
+* Candle streak odds now use the most common trend in each 60-second window. Order amounts must stay within the product's allowed range.
+* Candle streak orders show the opening hash while active and the settlement hash after settlement.
+* Options now use a numeric keyboard for mobile amount entry. On desktop, opening a position uses a modal with only the sell-to-close action.
+* The Options header now keeps the near-expiry notice visible and shows the cutoff time.
 * The quote table defaults to the nearest tradable expiry. You can limit strikes to prices near the current price.
 * The order-panel P\&L chart centers its horizontal axis on the strike price. Premiums below $0.01 retain four decimal places.
 * Unrealized P\&L uses the higher of the purchase price or intrinsic value before expiry. After expiry, it uses intrinsic value and refreshes the position.
-* Assets now have a dedicated options ledger. Expiry-day option history can filter by whether the position entered its expiry day at opening. Closed records remain visible.
+* Assets now have a dedicated options ledger. 0DTE option history can filter by whether the position entered its expiry day at opening. Closed records remain visible.
 * Position history now paginates without interrupting the page you are viewing when new settlements arrive.
-* Standard Options position details now show filled quantity, average exit price, and delivery fees. Settlement and delivery fees appear separately.
-* Standard Options limit buys now freeze funds when placed. Partially filled or expired amounts release according to the final execution result.
-* Standard Options quotes now keep fixed bid and ask depth. When no bid exists, the buyback price shows the recovery value. Ask prices use only a cap and no longer shift whole price levels.
+* Options position details now show filled quantity, average exit price, and delivery fees. Settlement and delivery fees appear separately.
+* Options limit buys now freeze funds when placed. Partially filled or expired amounts release according to the final execution result.
+* Options quotes now keep fixed bid and ask depth. When no bid exists, the buyback price shows the recovery value. Ask prices use only a cap and no longer shift whole price levels.
 * Invitation posters can now be saved to your photo library. In Telegram Mini Apps, long-press to save.
-* Explorer now displays on-chain activity for Standard Options, expiry-day options, and Prediction Markets.
+* Explorer now displays on-chain activity for Options, 0DTE options, and Prediction Markets.
 * Perpetual limit orders now explain the trigger price.
 * Sign-in now prompts you to use an existing device passkey. Used authenticator backup codes are marked.
 {% endupdate %}
