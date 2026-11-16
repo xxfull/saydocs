@@ -12,6 +12,28 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-11-08" %}
+## 1.1.5
+
+* Added Standard Options, expiry-day options, and candlestick streaks for Prediction Markets.
+* Candlestick streak odds now use the most common trend in each 60-second window. Order amounts must stay within the product's allowed range.
+* Candlestick streak orders show the opening hash while active and the settlement hash after settlement.
+* Standard Options now use a numeric keyboard for mobile amount entry. On desktop, opening a position uses a modal with only the sell-to-close action.
+* The Standard Options header now keeps the near-expiry notice visible and shows the cutoff time.
+* The quote table defaults to the nearest tradable expiry. You can limit strikes to prices near the current price.
+* The order-panel P\&L chart centers its horizontal axis on the strike price. Premiums below $0.01 retain four decimal places.
+* Unrealized P\&L uses the higher of the purchase price or intrinsic value before expiry. After expiry, it uses intrinsic value and refreshes the position.
+* Assets now have a dedicated options ledger. Expiry-day option history can filter by whether the position entered its expiry day at opening. Closed records remain visible.
+* Position history now paginates without interrupting the page you are viewing when new settlements arrive.
+* Standard Options position details now show filled quantity, average exit price, and delivery fees. Settlement and delivery fees appear separately.
+* Standard Options limit buys now freeze funds when placed. Partially filled or expired amounts release according to the final execution result.
+* Standard Options quotes now keep fixed bid and ask depth. When no bid exists, the buyback price shows the recovery value. Ask prices use only a cap and no longer shift whole price levels.
+* Invitation posters can now be saved to your photo library. In Telegram Mini Apps, long-press to save.
+* Explorer now displays on-chain activity for Standard Options, expiry-day options, and Prediction Markets.
+* Perpetual limit orders now explain the trigger price.
+* Sign-in now prompts you to use an existing device passkey. Used authenticator backup codes are marked.
+{% endupdate %}
+
 {% update date="2026-10-30" %}
 ## 1.1.4.2
 
