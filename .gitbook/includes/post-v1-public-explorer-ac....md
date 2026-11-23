@@ -1,5 +1,4 @@
 ---
-title: POST /v1/public/explorer/ac...
+title: POST /v1/public/explorer/account
 ---
 
-### POST /v1/public/explorer/account

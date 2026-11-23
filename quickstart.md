@@ -48,7 +48,7 @@ Choose a market, timeframe, and outcome from seven fixed-risk modes. Your premiu
 
 These topics go beyond a quick intro, but every real trader should review them:
 
-* [**Flash Options**](flash-options/) — an introduction to the seven Flash Options modes
+* [**Flash Options**](options/flash-options/) — an introduction to the seven Flash Options modes
 * [**Perps**](perps/) — order types, position handling, pricing, and funding
 * [**Insurance**](insurance/) — Zero Loss Insurance and Double Profit Insurance
 * [**FAQ**](https://app.gitbook.com/s/gbjC6ba6Xlr582MKUp7i/faq)

@@ -20,13 +20,13 @@ YesFi turns complex trading decisions and execution into one simple confirmation
 
 Flash Options offer seven fixed-risk modes. Choose a market, timeframe, and outcome. Your premium is the maximum loss. Each order settles automatically at expiry.
 
-* [**Beats**](../flash-options/beats.md)**:** Predict whether an asset price will rise or fall. A correct call receives the quoted payout.
-* [**Combo**](../flash-options/combo.md)**:** Combine bullish or bearish calls for three assets. All three must be correct to win.
-* [**Moves**](../flash-options/moves.md)**:** Predict the size of an asset's high-to-low price range. Direction does not matter.
-* [**Pair**](../flash-options/pair.md)**:** Predict which asset in a selected pair will outperform the other.
-* [**Range**](../flash-options/range.md)**:** Predict whether the settlement price will remain within a selected range.
-* [**Steps**](../flash-options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
-* [**Trend**](../flash-options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
+* [**Beats**](../options/flash-options/beats.md)**:** Predict whether an asset price will rise or fall. A correct call receives the quoted payout.
+* [**Combo**](../options/flash-options/combo.md)**:** Combine bullish or bearish calls for three assets. All three must be correct to win.
+* [**Moves**](../options/flash-options/moves.md)**:** Predict the size of an asset's high-to-low price range. Direction does not matter.
+* [**Pair**](../options/flash-options/pair.md)**:** Predict which asset in a selected pair will outperform the other.
+* [**Range**](../options/flash-options/range.md)**:** Predict whether the settlement price will remain within a selected range.
+* [**Steps**](../options/flash-options/steps.md)**:** Predict how far the price will rise. Settlement uses the highest tier reached.
+* [**Trend**](../options/flash-options/trend.md)**:** Predict an asset's direction and required move. Higher movement tiers offer higher payouts.
 
 #### **Perps Signals 💎**
 
