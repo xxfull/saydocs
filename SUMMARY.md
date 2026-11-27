@@ -16,6 +16,8 @@
     * [Range](options/flash-options/range.md)
     * [Steps](options/flash-options/steps.md)
     * [Trend](options/flash-options/trend.md)
+* [Predict](predict/README.md)
+  * [Peak Performance](predict/peak-performance.md)
 * [Perps](perps/README.md)
   * [Market & Limit](perps/market-and-limit/README.md)
     * [CFD overview](perps/market-and-limit/cfd-overview.md)
