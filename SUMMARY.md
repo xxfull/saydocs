@@ -17,6 +17,7 @@
     * [Steps](options/flash-options/steps.md)
     * [Trend](options/flash-options/trend.md)
 * [Predict](predict/README.md)
+  * [Candle Streak](predict/candle-streak.md)
   * [Peak Performance](predict/peak-performance.md)
 * [Perps](perps/README.md)
   * [Market & Limit](perps/market-and-limit/README.md)
