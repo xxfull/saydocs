@@ -42,7 +42,7 @@ Options markets have studied this kind of question for a long time. Peak Perform
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-\[Lookback option vs Peak Performance · the same illustrative path]
+<p align="center"><sup>Lookback option vs Peak Performance · the same illustrative path</sup></p>
 
 Behind every Peak Performance card is a timing digital option on the extremum with an all-or-nothing payout: if the condition is met, you are paid at the payout multiplier; if not, the option expires worthless. The fair price of such an option is the probability that the condition is met. So pricing a card comes down to one question: how likely is it that the candle you picked becomes the round's high or low?
 
@@ -52,7 +52,7 @@ You don't need to know about lookback options or path dependence. You only need 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-\[Three typical price paths · illustrative]
+<p align="center"><sup>Three typical price paths · illustrative</sup></p>
 
 #### Decompose: six candles per round, two sets of timing digital options
 
@@ -62,7 +62,7 @@ The outcome depends on the whole round's price path, not on the price at any sin
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-\[One price path split into six candles · illustrative]
+<p align="center"><sup>One price path split into six candles · illustrative</sup></p>
 
 In this round the high falls in candle 5 and the low in candle 3. Candle 1 was briefly the highest, but once it is overtaken later in the round it is no longer the high candle.
 
@@ -83,7 +83,7 @@ In mathematics this is known as the **arcsine law**, first described by the math
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-\[U-shaped distribution · bar heights show relative size only, not actual values]
+<p align="center"><sub>U-shaped distribution · bar heights show relative size only, not actual values</sub></p>
 
 The taller the bar, the more likely that candle is to hold the round's high: the first and last candles stand well above the middle, and the middle two are lowest.
 
