@@ -12,6 +12,24 @@ metaLinks:
 # Tech Log
 
 {% updates format="full" %}
+{% update date="2026-11-26" %}
+## 1.1.6
+
+* Added **Peak Performance** to Prediction Markets. You can view current-round payouts and your own orders. Positions highlight outcomes that are still possible.
+* Peak Performance and Candle Streak odds now use historical occurrence frequencies, with payouts up to 600x. In Candle Streak, a candle is flat when its opening and closing prices match to two decimal places
+* Prediction history now shows settlement amounts and estimated PnL, with statistics covering the full cycle. After switching accounts, only the current account's positions and results are shown
+* Deposits now support **USDT**, with quotes for conversion into the platform's settlement asset. Withdrawal notifications now link to on-chain transactions
+* Regular Options now support amount-based purchases. Limit orders show the budget before execution and the filled quantity and execution price afterward. When quotes are high, purchase quantities are capped at the maximum affordable amount, with a clear balance sufficiency indicator
+* Regular Options now support shareable PnL images in light and dark modes. Positions can be filtered by expiry date and show execution and exit times. Positions and orders stay up to date after account or asset switches and network recovery
+* 0DTE Options buyback prices now stay within the tradable range. Opening, early closing, and expiry settlement are temporarily fee-free
+* Unrealized PnL in the asset overview now uses current positions. The desktop contract list shows the latest 10 trades and position quantities. Prediction positions are now included when checking whether a sub-account can be deleted
+* Candlestick charts now remain stable during sideways markets, with smoother price updates. Settled Flash Options history now shows on-chain transaction records. Payout notifications are clearer in light mode
+* Order placement, position closing, and settlement are now faster across Perps, Regular Options, Flash Options, and Prediction Markets. Market prices update sooner, and quote updates no longer wait for position sizes and funding rates
+* Reduced unnecessary requests when navigating Regular Options and Prediction Markets. Automatic refresh now pauses when a page is in the background
+* Improved foldable device layouts. Candle Streak now shows the chart on the left and the order panel on the right on the inner screen, with navigation in the sidebar. After adding the app to the home screen, installation prompts no longer cover sidebar navigation
+* The Signals page now shows current positions. The Benefits page now supports returning to the previous level. Funding rate displays are clearer. The block explorer now shows opening and settlement transactions for Peak Performance.
+{% endupdate %}
+
 {% update date="2026-11-16" %}
 ## 1.1.5.1
 
